@@ -1,0 +1,9 @@
+# 自动化下单压测脚本依赖
+# 安装：pip install -r requirements.txt
+#
+# 必需
+aiohttp>=3.9          # 异步 HTTP 客户端（连接池复用）
+tqdm>=4.66            # 进度条
+websockets>=12.0       # 客服 WebSocket 模拟（缺失时该阶段自动跳过）
+# 可选（文档 7.1 列出；本脚本的地址/手机号由内置随机池生成，不依赖 faker）
+faker>=22.0

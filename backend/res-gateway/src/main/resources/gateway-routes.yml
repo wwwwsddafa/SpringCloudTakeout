@@ -1,0 +1,50 @@
+##gateway:
+#  routes:
+#    - id: userservice-route
+#      uri: lb://userservice
+#      predicates:
+#        - Path=/user/**
+#      filters:
+#        - StripPrefix=0
+#    - id: cart-route
+#      uri: lb://cart
+#      predicates:
+#        - Path=/cart/**
+#      filters:
+#        - StripPrefix=0
+#    - id: order-route
+#      uri: lb://order
+#      predicates:
+#        - Path=/order/**
+#      filters:
+#        - StripPrefix=0
+#    - id: product-route
+#      uri: lb://product
+#      predicates:
+#        - Path=/product/**
+#      filters:
+#        - StripPrefix=0
+#    - id: idgenerator-route
+#      uri: lb://idgenerator
+#      predicates:
+#        - Path=/id/**
+#      filters:
+#        - StripPrefix=0
+#    - id: fileupload-route
+#      uri: lb://fileupload
+#      predicates:
+#        - Path=/file/**
+#      filters:
+#        - StripPrefix=0
+#    - id: search-route
+#      uri: lb://search
+#      predicates:
+#        - Path=/search/**
+#      filters:
+#        - StripPrefix=0
+#    - id: customer-service-route
+#      uri: lb://customer-service
+#      predicates:
+#        - Path=/customer-service/**
+#      filters:
+#        - StripPrefix=0

@@ -1,0 +1,4982 @@
+[
+  {
+    "fid": "c2dc1e30-25f1-49a0-a34a-a063112725c7",
+    "fname": "菠萝炒饭",
+    "normprice": 7.4,
+    "realprice": 5.5,
+    "detail": "菠萝炒饭，咸鲜适口，菠萝甜脆与米饭嫩滑完美融合，鸡蛋增添细腻口感，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/c2dc1e30-25f1-49a0-a34a-a063112725c7.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "88a1afd8-48bc-4946-af9c-0ccad0b27384",
+    "fname": "肥牛响铃卷粉丝煲",
+    "normprice": 47.6,
+    "realprice": 41.5,
+    "detail": "肥牛响铃卷粉丝煲，原味煮制，软嫩牛牛肉片搭配爽脆粉丝，番茄娃娃菜提鲜，原汁原味，下饭宴客两相宜，深夜食堂必备。",
+    "fphoto": "http://localhost:9000/res/files/88a1afd8-48bc-4946-af9c-0ccad0b27384.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "5588dc31-8a7e-46fc-9f43-b2514d9abece",
+    "fname": "香橙酥饼",
+    "normprice": 33.3,
+    "realprice": 29.0,
+    "detail": "香橙酥饼，外酥里嫩，金黄诱人，适合早餐或下午茶，一口咬下满嘴橙香，酥而不腻。原味口味，烤制做法，主料糖渍橙皮丁 勺 普通面粉 ，辅以鸡蛋 个 玉米油 ，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/5588dc31-8a7e-46fc-9f43-b2514d9abece.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "6b7654d7-4da4-4539-b532-b22cd4992d8c",
+    "fname": "凉拌双脆",
+    "normprice": 19.9,
+    "realprice": 16.5,
+    "detail": "凉拌双脆，酸辣爽口。羊肚耳脆嫩，干贡菜爽滑，香菜姜蒜提香，拌制即食，下饭菜桌首选。酸辣口味，拌制做法，主料羊肚耳  干贡菜 ，辅以香菜  姜末  蒜末 ，适合作为凉",
+    "fphoto": "http://localhost:9000/res/files/6b7654d7-4da4-4539-b532-b22cd4992d8c.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "1e40ca02-606e-4133-8f17-f6b53251df54",
+    "fname": "披萨",
+    "normprice": 15.6,
+    "realprice": 14.0,
+    "detail": "酥脆披萨，咸鲜风味。高筋面团烤制，芝士浓郁香浓，搭配小香肠玉米青豆，下饭宴客两相宜，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/1e40ca02-606e-4133-8f17-f6b53251df54.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "6e9ad0e3-a052-4aa3-a938-373a287b7caf",
+    "fname": "绿茄子炒彩椒",
+    "normprice": 53.0,
+    "realprice": 41.5,
+    "detail": "绿茄子炒彩椒，原味清炒。软滑茄子搭配脆爽彩椒，蒜蓉提香，原汁原味下饭佳品，早餐午宴皆宜。原味口味，炒制做法，主料绿茄子 个 黄彩椒 个，辅以蒜蓉 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/6e9ad0e3-a052-4aa3-a938-373a287b7caf.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "e1f053e9-e1cb-4ca7-b01c-35f06700d958",
+    "fname": "梅菜排骨焖饭",
+    "normprice": 22.9,
+    "realprice": 20.5,
+    "detail": "梅菜排骨焖饭，软糯香浓，梅菜与排骨慢火焖煮，米饭吸收汤汁，下饭佳品，宴客必备。原味口味，焖制做法，主料排骨 适量 梅干菜 适量 大米 适量，辅以生姜 适量，适合作为",
+    "fphoto": "http://localhost:9000/res/files/e1f053e9-e1cb-4ca7-b01c-35f06700d958.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "fe9b2c3e-4d86-40cb-bbf2-300275c7d7e0",
+    "fname": "抹茶泡芙蛋糕",
+    "normprice": 20.6,
+    "realprice": 17.5,
+    "detail": "抹茶泡芙蛋糕，细腻香滑，抹茶清香，适中甜度，细腻的口感，适合早晚茶点或下午茶时光，亦可作为精致宴客点心。",
+    "fphoto": "http://localhost:9000/res/files/fe9b2c3e-4d86-40cb-bbf2-300275c7d7e0.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a6dd7c38-6e91-4422-9a4c-7b51648c1461",
+    "fname": "茉莉抹香黄油年糕",
+    "normprice": 8.3,
+    "realprice": 7.0,
+    "detail": "茉莉抹香黄油年糕，香滑细腻，黄油与牛奶的融合带来浓郁奶香，软糯滑口，早餐佳品，亦可下饭，宴客派对上的一道美味甜点。",
+    "fphoto": "http://localhost:9000/res/files/a6dd7c38-6e91-4422-9a4c-7b51648c1461.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "fef337df-abd4-4956-b542-b69c5361b01b",
+    "fname": "素炒黄西葫芦丝",
+    "normprice": 47.0,
+    "realprice": 41.5,
+    "detail": "素炒黄西葫芦丝，清淡爽口，西葫芦丝嫩滑，配以青红小米辣提味，香葱点缀增香，下饭佳品，早餐下午茶皆宜。",
+    "fphoto": "http://localhost:9000/res/files/fef337df-abd4-4956-b542-b69c5361b01b.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "1784fcda-396c-4c16-86f2-1cfcfebde5fc",
+    "fname": "香草泡芙",
+    "normprice": 27.5,
+    "realprice": 21.5,
+    "detail": "香草泡芙，细腻奶油包裹香草奶油，香滑可口，适合作为下午茶点或早餐小吃，清新不腻，美味简单。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/1784fcda-396c-4c16-86f2-1cfcfebde5fc.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "50aca0f6-d1eb-474a-8119-62f4a81ea5fb",
+    "fname": "海参型皮冻",
+    "normprice": 27.0,
+    "realprice": 21.0,
+    "detail": "海参型皮冻，猪皮熬煮，原汁原味，软糯顺滑，宴客佳品，下饭开胃。原味口味，煮制做法，主料猪皮 适量，辅以水 适量 墨魚粉 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/50aca0f6-d1eb-474a-8119-62f4a81ea5fb.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "6f3b8735-f45b-4c77-9a7d-6ec4a3527fdf",
+    "fname": "酸辣水煮魚",
+    "normprice": 30.3,
+    "realprice": 24.5,
+    "detail": "酸辣水煮鱼，鱼片嫩滑，金汤酸酱提味，甘蓝清脆，辣而不燥，下饭佳品，宴客宵夜皆宜。酸辣口味，烧制做法，主料黑魚片 盒，辅以金汤酸酱 袋 甘蓝 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/6f3b8735-f45b-4c77-9a7d-6ec4a3527fdf.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "5c017e05-cc7d-4c79-8156-e33644e4c63d",
+    "fname": "紫薯糯米丸",
+    "normprice": 20.3,
+    "realprice": 17.5,
+    "detail": "紫薯糯米丸，紫薯香甜软糯，糯米弹细腻，蒸制而成，香滑可口，适宜下饭，早餐宵夜皆宜。甜味口味，蒸制做法，主料紫薯 ，辅以糯米  糯米粉  牛奶 ，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/5c017e05-cc7d-4c79-8156-e33644e4c63d.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "654a2bdd-4e47-4477-9598-1c59f846b0d0",
+    "fname": "酸辣土豆丝",
+    "normprice": 24.1,
+    "realprice": 21.0,
+    "detail": "酸辣土豆丝，清脆爽口。酸甜适中，土豆细切丝滑嫩多汁，炒制后香气扑鼻，下饭佳品，适合宵夜和下饭菜。",
+    "fphoto": "http://localhost:9000/res/files/654a2bdd-4e47-4477-9598-1c59f846b0d0.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "f2ab21a4-73b6-4aa0-bc39-e72cb91ea810",
+    "fname": "鸡蛋煎糍粑",
+    "normprice": 9.9,
+    "realprice": 8.0,
+    "detail": "鸡蛋煎糍粑，原味香滑。糍粑外酥内软，鸡蛋嫩滑，早餐宵夜皆宜，下饭佳选。原味口味，煎制做法，主料糍粑 适量，辅以鸡蛋 适量，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/f2ab21a4-73b6-4aa0-bc39-e72cb91ea810.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "b76de8f1-0947-4d6e-a9a3-32f5ef99037d",
+    "fname": "贝贝南瓜酿肉",
+    "normprice": 56.4,
+    "realprice": 43.5,
+    "detail": "贝贝南瓜酿肉，香糯南瓜肉香交融，细腻嫩滑，暖胃暖心，适宜下饭，宴客佳品。是一道不错的热菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/b76de8f1-0947-4d6e-a9a3-32f5ef99037d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "6292883b-a55e-453b-a25d-ece1aefed68c",
+    "fname": "芋泥饼",
+    "normprice": 34.8,
+    "realprice": 26.5,
+    "detail": "芋泥饼，香甜软糯，紫薯芋头细腻融合，牛奶和糯米粉调和，早餐宵夜皆宜，香滑可口。甜味口味，煎制做法，主料芋头 个 紫薯 个，辅以牛奶 适量 糯米粉 适量，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/6292883b-a55e-453b-a25d-ece1aefed68c.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "0497d01c-63c6-42a8-8147-78d4eac0f467",
+    "fname": "凉拌苦瓜",
+    "normprice": 27.6,
+    "realprice": 23.0,
+    "detail": "凉拌苦瓜，脆爽解腻。苦瓜清甜爽口，蒜蓉提香，清淡原味，下饭佳选，宵夜必备。原味口味，拌制做法，主料苦瓜 根，辅以蒜蓉 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/0497d01c-63c6-42a8-8147-78d4eac0f467.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e009166f-42d1-4ca1-934b-4cacd8db398a",
+    "fname": "上汤豆腐",
+    "normprice": 35.1,
+    "realprice": 29.0,
+    "detail": "上汤豆腐，嫩滑豆腐煮透入味，搭配肉沫与皮蛋，原味煮制，适宜下饭，早餐宵夜皆宜。原味口味，煮制做法，主料豆腐 适量 皮蛋 适量，辅以肉沫 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/e009166f-42d1-4ca1-934b-4cacd8db398a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "5157c365-89fa-4c39-b8f5-21b399b93281",
+    "fname": "菠菜猪肝汤",
+    "normprice": 27.2,
+    "realprice": 22.5,
+    "detail": "菠菜猪肝汤，清淡美味。猪肝嫩滑，菠菜翠绿鲜香，煮沸后汤色清澈，营养丰富，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/5157c365-89fa-4c39-b8f5-21b399b93281.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "420647ed-3db6-41ea-b6d6-bfece67e06b0",
+    "fname": "自制拉皮",
+    "normprice": 22.8,
+    "realprice": 19.5,
+    "detail": "自制拉皮，纯红薯淀粉软糯，黄瓜凉拌提鲜，凉菜下饭绝搭，早餐宵夜随意吃。主料纯红薯淀粉 克 水 克 盐 克，辅以黄瓜 适量 荆芥或香菜 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/420647ed-3db6-41ea-b6d6-bfece67e06b0.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "cef12b09-c1ad-4bb5-b283-9c8119fe8b02",
+    "fname": "凉拌藕",
+    "normprice": 21.6,
+    "realprice": 19.0,
+    "detail": "凉拌藕，原味爽口。鲜藕脆嫩，红椒点缀增色，焯水去腥锁住鲜香，下饭佳品，宴客小菜。原味口味，焯制做法，主料鲜藕 节，辅以红椒 个 熟芝麻 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/cef12b09-c1ad-4bb5-b283-9c8119fe8b02.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "2bc17ba9-0bdb-4e82-bf43-791a80f4fdaf",
+    "fname": "杂粮米饭",
+    "normprice": 23.4,
+    "realprice": 19.5,
+    "detail": "杂粮米饭，原味煲煮。软糯香滑，五谷杂粮营养全，早餐宵夜皆宜，下饭佳品。原味口味，煲制做法，主料大米 分之一杯 小米 分之一杯，辅以燕麦米 分之一杯 血糯米 分之一杯",
+    "fphoto": "http://localhost:9000/res/files/2bc17ba9-0bdb-4e82-bf43-791a80f4fdaf.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "e6df553e-b744-4a6b-abb2-65a9e4cd43c7",
+    "fname": "焖猪心",
+    "normprice": 14.6,
+    "realprice": 12.5,
+    "detail": "焖猪心，软糯入味。猪心鲜嫩，慢火焖煮入味，香而不腻，适宜下饭，宴客佳选。是一道不错的凉菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/e6df553e-b744-4a6b-abb2-65a9e4cd43c7.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "f3573272-e99e-4a80-a91d-3b67ac4851dd",
+    "fname": "创意花朵米饭",
+    "normprice": 28.0,
+    "realprice": 22.0,
+    "detail": "创意花朵米饭，原汁原味。米饭软糯，红火龙果汁点缀，绿植叶清新点缀，早餐宵夜皆宜。原味口味，蒸制做法，主料米饭 适量，辅以红火龙果汁 适量 绿植叶 枝，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/f3573272-e99e-4a80-a91d-3b67ac4851dd.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "6b531532-b2fa-4836-be81-17bcb5a15ecd",
+    "fname": "丝状葱花饼",
+    "normprice": 22.5,
+    "realprice": 18.0,
+    "detail": "丝状葱花饼，酥脆口感，外酥里嫩，热乎着吃，既可下饭也能当早餐，宴客小点也绝妙。原味口味，其他制做法，主料面粉 适量 热水 适量 凉水 适量，辅以葱花 适量，适合作为",
+    "fphoto": "http://localhost:9000/res/files/6b531532-b2fa-4836-be81-17bcb5a15ecd.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0bd92343-7de0-4275-b527-aba7526f690c",
+    "fname": "大肉炖长茄子",
+    "normprice": 31.6,
+    "realprice": 26.0,
+    "detail": "大肉炖长茄子，咸鲜入味，长茄子软糯入味，大肉酥烂脱骨，下饭宴客两相宜，秋冬暖身佳选。咸鲜口味，炖制做法，主料长茄子 根，辅以熟大肉 适量 水 少许，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/0bd92343-7de0-4275-b527-aba7526f690c.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "a462fdb9-1c02-4482-b97a-b2ec3b2009e1",
+    "fname": "快手蛋黄酥",
+    "normprice": 46.5,
+    "realprice": 36.0,
+    "detail": "快手蛋黄酥，咸香适中，外皮酥脆内含黄油蛋黄，适合作为早餐或下午茶点，滋味丰富。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/a462fdb9-1c02-4482-b97a-b2ec3b2009e1.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "7170c180-3804-4cdf-84db-6ff348c68614",
+    "fname": "奶酪熔岩面包",
+    "normprice": 43.8,
+    "realprice": 38.0,
+    "detail": "奶酪熔岩面包，外焦里嫩，奶酪熔岩流心，烤至表面金黄酥脆，内里湿润松软，早餐或下午茶时光的完美伴侣，亦是宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/7170c180-3804-4cdf-84db-6ff348c68614.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "f7b2ea8c-25a9-441b-b02d-03321fd61ac1",
+    "fname": "胡萝卜土豆焖鸡",
+    "normprice": 57.0,
+    "realprice": 43.0,
+    "detail": "胡萝卜土豆焖鸡，鸡肉土豆胡萝卜三色融合，鸡肉嫩滑土豆胡萝卜软糯，原味焖煮，温暖滋养，下饭宴客两相宜，适合秋冬暖胃佳肴。",
+    "fphoto": "http://localhost:9000/res/files/f7b2ea8c-25a9-441b-b02d-03321fd61ac1.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "a0da4a9f-9e0d-480b-b16d-45752b85d1ba",
+    "fname": "灵芝乌鸡汤",
+    "normprice": 45.2,
+    "realprice": 37.0,
+    "detail": "灵芝乌鸡汤，咸鲜入味，乌鸡软烂，麦冬、西洋参、当归、黄芪、红枣、枸杞提鲜，慢火炖煮，滋补养生，早餐佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/a0da4a9f-9e0d-480b-b16d-45752b85d1ba.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "c789c6c6-e42c-4a7c-b037-270b16cb81bc",
+    "fname": "鲈鱼菜花汤",
+    "normprice": 41.7,
+    "realprice": 37.0,
+    "detail": "鲈鱼菜花汤，咸鲜美味，鲈鱼肉质细嫩，菜花鲜香爽滑，鲈鱼肉煮至入味，汤色清澈鲜美，下饭佳品，宴客标配。",
+    "fphoto": "http://localhost:9000/res/files/c789c6c6-e42c-4a7c-b037-270b16cb81bc.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "375d6400-1161-44ce-942d-50d029b9a36e",
+    "fname": "烤红薯",
+    "normprice": 29.0,
+    "realprice": 21.5,
+    "detail": "烤红薯，香甜软糯。红薯为主料，烤制外皮金黄香脆，内里绵密香甜，早餐宵夜皆宜，下饭开胃好搭档。原味口味，烤制做法，主料红薯 根，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/375d6400-1161-44ce-942d-50d029b9a36e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "1e48326f-e564-4915-8378-c783ad155693",
+    "fname": "黑蒜羊肚菌猪骨汤",
+    "normprice": 22.2,
+    "realprice": 17.0,
+    "detail": "黑蒜羊肚菌猪骨汤，原味原味。黑蒜提香，羊肚菌软糯，猪骨酥烂，汤色清澈，原汁原味，适宜下饭，宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/1e48326f-e564-4915-8378-c783ad155693.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "26bbedc7-6079-46e2-801b-daaebfd8a443",
+    "fname": "凉拌黄瓜",
+    "normprice": 30.9,
+    "realprice": 24.0,
+    "detail": "凉拌黄瓜，酸辣爽口。黄瓜脆嫩，小米辣增香提味，拌以蒜泥，下饭开胃，早餐宵夜皆宜。酸辣口味，拌制做法，主料黄瓜 根，辅以小米辣 个，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/26bbedc7-6079-46e2-801b-daaebfd8a443.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "6818fa51-ccbb-4ae1-a4e3-f8394d36dca3",
+    "fname": "原味贝果",
+    "normprice": 44.3,
+    "realprice": 38.0,
+    "detail": "原味贝果，松软香脆，高筋面粉烤制，早餐佳品，下饭宴客两相宜。原味口味，烤制做法，主料高筋面粉 克 酵母 克 盐 克 清水 克，辅以煮贝果的水配方 凉水 克 糖 克，",
+    "fphoto": "http://localhost:9000/res/files/6818fa51-ccbb-4ae1-a4e3-f8394d36dca3.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "6ceea616-ed57-42a6-bda9-78146209ad11",
+    "fname": "干贝丝瓜肉沫汤",
+    "normprice": 37.9,
+    "realprice": 32.0,
+    "detail": "干贝丝瓜肉沫汤，丝瓜清嫩干贝滑润，肉沫鲜香，原味煮制，清淡鲜美，丝滑可口，早餐宵夜皆宜，下饭佳品。",
+    "fphoto": "http://localhost:9000/res/files/6ceea616-ed57-42a6-bda9-78146209ad11.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "7e1c3c9c-37e4-4c98-8f27-e422f644da44",
+    "fname": "荠菜鲜肉汤圆",
+    "normprice": 17.1,
+    "realprice": 13.5,
+    "detail": "荠菜鲜肉汤圆，咸鲜适口，汤圆外皮软糯，内陷荠菜鲜肉香滑，煮汤清热去火，下饭佳品，宴客必备，亦可当早餐小吃。",
+    "fphoto": "http://localhost:9000/res/files/7e1c3c9c-37e4-4c98-8f27-e422f644da44.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "dbf3dfe3-5fe4-46fa-997f-0dfa96b7d266",
+    "fname": "拉花古早蛋糕",
+    "normprice": 38.6,
+    "realprice": 34.0,
+    "detail": "拉花古早蛋糕，甜味酥软，鸡蛋牛奶低粉完美结合，点缀可可增添风味，早餐下午茶皆宜，甜品首选。",
+    "fphoto": "http://localhost:9000/res/files/dbf3dfe3-5fe4-46fa-997f-0dfa96b7d266.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "dc753d6a-bb7d-462d-9334-e72adc9eb9de",
+    "fname": "胡萝卜馒头",
+    "normprice": 20.6,
+    "realprice": 15.5,
+    "detail": "胡萝卜馒头，原味蒸制，软糯适口，搭配白糖猪油，主料面粉与胡萝卜泥，早餐佳品，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/dc753d6a-bb7d-462d-9334-e72adc9eb9de.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "defc6a09-eda5-4881-a4e5-5b597d5c1357",
+    "fname": "雪菜冬瓜汤",
+    "normprice": 39.9,
+    "realprice": 35.0,
+    "detail": "雪菜冬瓜汤，清淡汤品。雪菜冬瓜细腻滑嫩，雪菜冬瓜汤清淡爽口，适合下饭，早餐宵夜皆宜。清淡口味，炒制做法，主料雪菜  冬瓜 ，辅以纯净水 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/defc6a09-eda5-4881-a4e5-5b597d5c1357.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0bb66ac4-b8f0-41d0-b044-ff7ecf48983d",
+    "fname": "洪瑞珍鸡蛋火腿三明治",
+    "normprice": 21.8,
+    "realprice": 16.5,
+    "detail": "洪瑞珍鸡蛋火腿三明治，香甜酥软，鸡蛋嫩滑火腿鲜，奶香浓郁沙拉酱提味，甜香口感，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/0bb66ac4-b8f0-41d0-b044-ff7ecf48983d.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "f0ce2ac3-7a24-4e8f-b9cf-4941afb64368",
+    "fname": "蛋炒饭",
+    "normprice": 21.5,
+    "realprice": 19.5,
+    "detail": "蛋炒饭，咸鲜适口。剩米饭软糯，鸡蛋嫩滑，一碗下饭神器，早餐宵夜皆宜。咸鲜口味，炒制做法，主料剩米饭 一碗，辅以鸡蛋 个，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/f0ce2ac3-7a24-4e8f-b9cf-4941afb64368.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "48dd06c9-749e-46f9-ba64-e3770f704474",
+    "fname": "低卡黑椒鸡丁拌饭",
+    "normprice": 15.3,
+    "realprice": 13.0,
+    "detail": "低卡黑椒鸡丁拌饭，咸香适口，鸡胸肉嫩滑，豌豆香菇增添风味，米饭拌之恰到好处，下饭佳品，早餐晚餐皆宜。",
+    "fphoto": "http://localhost:9000/res/files/48dd06c9-749e-46f9-ba64-e3770f704474.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "5a8b5eed-bc01-4ebf-bdd5-aec10786ff80",
+    "fname": "橙子炖猪排",
+    "normprice": 55.6,
+    "realprice": 46.0,
+    "detail": "橙子炖猪排，酸甜适口。猪排外酥里嫩，搭配橙子自然酸甜，开胃下饭，适合早餐或晚餐。是一道不错的热菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/5a8b5eed-bc01-4ebf-bdd5-aec10786ff80.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "84e1d321-655f-4cd1-88a2-f23332d09bf3",
+    "fname": "巧克力玛芬蛋糕",
+    "normprice": 22.7,
+    "realprice": 18.0,
+    "detail": "巧克力玛芬蛋糕，奶香浓郁，湿润松软，适合作为早餐或下午茶点，搭配咖啡或牛奶最妙。奶香口味，烤制做法，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/84e1d321-655f-4cd1-88a2-f23332d09bf3.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "8d2f46cf-c550-4345-b6b0-6d39b5e71931",
+    "fname": "番茄土豆炖牛肉",
+    "normprice": 45.5,
+    "realprice": 41.0,
+    "detail": "番茄土豆炖牛肉，咸鲜入味，牛肉软糯入味，土豆番茄香浓，适宜下饭，宴客佳品。咸鲜口味，炖制做法，主料土地 大个克 番茄 个克，辅以洋葱 半个，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/8d2f46cf-c550-4345-b6b0-6d39b5e71931.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "bf184994-839c-4736-ba4c-b549a0a21191",
+    "fname": "中式花酥",
+    "normprice": 14.6,
+    "realprice": 12.5,
+    "detail": "中式花酥，甜味酥软。中低筋面粉猪油烘焙，玫瑰芸豆香甜馅料包裹，松软适口，早餐甜点首选，亦是宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/bf184994-839c-4736-ba4c-b549a0a21191.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "2c80a0e8-41e1-4465-bc2f-228d8e76cce9",
+    "fname": "口蘑黑椒牛仔骨",
+    "normprice": 49.4,
+    "realprice": 39.5,
+    "detail": "口蘑黑椒牛仔骨，酱香浓郁，牛仔骨焖至软糯，黑椒提香，搭配口蘑和青红椒，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/2c80a0e8-41e1-4465-bc2f-228d8e76cce9.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "fe288fab-322b-4556-81bf-880d3591bbf4",
+    "fname": "方便面鸡蛋煎饼",
+    "normprice": 15.3,
+    "realprice": 13.0,
+    "detail": "碎碎方便面鸡蛋煎饼，原味十足，碎面煎至微焦，裹蛋液金黄酥脆，下饭佳品，早餐宵夜皆宜。原味口味，煎制做法，主料碎方便面 两把 鸡蛋 两个，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/fe288fab-322b-4556-81bf-880d3591bbf4.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "fe07e325-66ba-46b2-a87f-7d074d03f259",
+    "fname": "猫舌抹茶夹心饼干",
+    "normprice": 41.9,
+    "realprice": 37.5,
+    "detail": "猫舌抹茶夹心饼干，甜味酥饼，无盐黄油、糖粉、蛋清烘焙而成，口感酥脆，抹茶杏仁风味浓郁，早餐或下午茶时光的甜蜜伴侣。",
+    "fphoto": "http://localhost:9000/res/files/fe07e325-66ba-46b2-a87f-7d074d03f259.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "96ba278d-8196-4864-b1cb-8f0fd7852e87",
+    "fname": "西葫芦虾饼",
+    "normprice": 53.8,
+    "realprice": 45.0,
+    "detail": "西葫芦虾饼，嫩滑鲜香。西葫芦爽脆虾滑滑嫩，煎至两面金黄，原味烹饪，下饭宴客两相宜，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/96ba278d-8196-4864-b1cb-8f0fd7852e87.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "31ee3802-bafb-4e1e-831c-6d011994f594",
+    "fname": "凉拌娃娃菜",
+    "normprice": 12.3,
+    "realprice": 11.0,
+    "detail": "凉拌娃娃菜，酸辣爽口。娃娃菜爽脆，蒜蓉小米辣香，香菜点缀，熟白芝麻提香，下饭早餐宴客皆宜。",
+    "fphoto": "http://localhost:9000/res/files/31ee3802-bafb-4e1e-831c-6d011994f594.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "4db5a8ef-e3a9-460d-b86e-e81eae7ccad5",
+    "fname": "清蒸秋葵",
+    "normprice": 36.6,
+    "realprice": 30.0,
+    "detail": "清蒸秋葵，清淡爽口。秋葵嫩滑，红椒蒜蓉提香，蒸制锁住鲜嫩，下饭早餐皆宜。清淡口味，蒸制做法，主料秋葵 适量，辅以红小米椒 个 青小米椒 个 蒜蓉 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/4db5a8ef-e3a9-460d-b86e-e81eae7ccad5.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "739f5504-271e-4a85-b3c7-ba18283afcd8",
+    "fname": "子姜鱼片",
+    "normprice": 53.9,
+    "realprice": 42.5,
+    "detail": "子姜鱼片，鱼片嫩滑，鱼肉鲜嫩，子姜与剁椒的中辣提香，炒制下饭绝佳，宴客宵夜两相宜。中辣口味，炒制做法，主料鱼片 适量，辅以子姜 适量 剁椒 适量 蒜蓉 适量，适合作",
+    "fphoto": "http://localhost:9000/res/files/739f5504-271e-4a85-b3c7-ba18283afcd8.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "ad8ba0bb-74e1-443a-97a8-7b1f09a203df",
+    "fname": "白糖糕",
+    "normprice": 27.0,
+    "realprice": 23.0,
+    "detail": "白糖糕，香甜软糯，猪油温润，糯米粘粉细腻融合，适合作为早餐或下午茶点，亦可宴客时的小甜点。",
+    "fphoto": "http://localhost:9000/res/files/ad8ba0bb-74e1-443a-97a8-7b1f09a203df.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "31f902cf-5e30-41ff-a264-f21baca38126",
+    "fname": "口蘑排骨焖饭",
+    "normprice": 24.9,
+    "realprice": 21.5,
+    "detail": "口蘑排骨焖饭，口蘑排骨焖饭，五常大米软糯入味，口蘑排骨香气浓郁，香滑可口，下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/31f902cf-5e30-41ff-a264-f21baca38126.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "1c642e9d-5445-4cd8-bb77-bcd7e5102e2e",
+    "fname": "南瓜豆沙吐司",
+    "normprice": 49.3,
+    "realprice": 43.0,
+    "detail": "南瓜豆沙吐司，南瓜泥与高筋粉的甜蜜结合，软糯香甜，烘焙而成，适合作为早餐或下午茶点，甜而不腻。甜味口味，烤制做法，主料南瓜泥 块 高筋粉 ，辅以牛奶 ，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/1c642e9d-5445-4cd8-bb77-bcd7e5102e2e.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "d48ed4ea-2bae-43eb-a604-40daa016b4f6",
+    "fname": "鸡汤馄饨",
+    "normprice": 26.2,
+    "realprice": 23.5,
+    "detail": "鸡汤馄饨，乌鸡鲜肉炖煮，红枣灵芝西洋参，一碗暖身暖心。青菜点缀，香滑可口，乌鸡汤鲜肉馄饨，早餐宵夜皆宜，下饭暖胃好伴侣。",
+    "fphoto": "http://localhost:9000/res/files/d48ed4ea-2bae-43eb-a604-40daa016b4f6.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "e89861e4-f24f-4a10-8e2e-d3a9340e2540",
+    "fname": "戚风蛋糕",
+    "normprice": 19.6,
+    "realprice": 15.0,
+    "detail": "戚风蛋糕，奶香四溢。松软细腻，细腻绵密，烘烤香气四溢，适合作为下午茶点或宴客佳品，奶香浓郁，层次分明。",
+    "fphoto": "http://localhost:9000/res/files/e89861e4-f24f-4a10-8e2e-d3a9340e2540.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "94e777af-8800-49d7-8dfa-0346b1b340b9",
+    "fname": "海苔花生",
+    "normprice": 31.0,
+    "realprice": 24.5,
+    "detail": "海苔花生，咸香酥脆。花生仁炒至微焦，海苔点缀增香，下饭佳品，宴客必备，早餐宵夜皆宜。咸香口味，炒制做法，主料花生仁 斤 生海苔 少许，辅以盐 匙，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/94e777af-8800-49d7-8dfa-0346b1b340b9.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "88c0f3fe-74ae-4faf-96a8-4684d88c981d",
+    "fname": "菊花酥",
+    "normprice": 41.2,
+    "realprice": 35.5,
+    "detail": "菊花酥，香甜酥软，猪油与低粉结合，烤制金黄，酥脆香浓，适合作为早餐或宴客点心，甜而不腻。",
+    "fphoto": "http://localhost:9000/res/files/88c0f3fe-74ae-4faf-96a8-4684d88c981d.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "9494751b-d7bc-48b0-bd03-228bc391554a",
+    "fname": "梦龙脆皮蛋糕盒子",
+    "normprice": 27.9,
+    "realprice": 23.0,
+    "detail": "梦龙脆皮蛋糕盒子，外皮酥脆内里绵密，甜而不腻，适合作为下午茶或宴客小点，口感绝佳。甜味口味，烤制做法，主料鸡蛋 个 低筋面粉 克 玉米油 克 可可粉 克 牛奶 克 ",
+    "fphoto": "http://localhost:9000/res/files/9494751b-d7bc-48b0-bd03-228bc391554a.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "f78fb7bd-aa72-47e9-9fa2-1034dd845ce5",
+    "fname": "潮汕菜头粿",
+    "normprice": 30.4,
+    "realprice": 23.0,
+    "detail": "潮汕菜头粿，白萝卜干贝虾米香菇蒸，香滑软糯，下饭佳品，早餐宵夜皆宜。原味口味，蒸制做法，主料白萝卜 斤 干贝 适量 虾米 适量 香菇 适量 葱花 适量，辅以番薯粉 ",
+    "fphoto": "http://localhost:9000/res/files/f78fb7bd-aa72-47e9-9fa2-1034dd845ce5.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "2a498268-107f-4e44-8fa3-42d59ad5957a",
+    "fname": "蒜蓉冬瓜",
+    "normprice": 37.3,
+    "realprice": 33.0,
+    "detail": "蒜蓉冬瓜，清甜解腻。蒜香浓郁，冬瓜爽滑，清淡适中，下饭佳品，尤其适合清新开胃的早餐时光。是一道不错的热菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/2a498268-107f-4e44-8fa3-42d59ad5957a.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "52af8488-7136-42e0-ba25-683669cea801",
+    "fname": "凉拌黄瓜腐竹木耳",
+    "normprice": 17.2,
+    "realprice": 14.5,
+    "detail": "凉拌黄瓜腐竹木耳，酸辣爽口，黄瓜脆爽腐竹软糯木耳入味，拌饭下酒两相宜，早餐宵夜皆可。酸辣口味，拌制做法，主料黄瓜 根，辅以小米辣 个，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/52af8488-7136-42e0-ba25-683669cea801.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "6f0b1e45-b777-444b-a9b6-c4778f0bd585",
+    "fname": "酱卤牛肉",
+    "normprice": 24.0,
+    "realprice": 18.5,
+    "detail": "酱卤牛肉，五香入味。牛腱软糯，卤制入味，搭配豆香，冰糖色泽诱人，下饭宴客两相宜，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/6f0b1e45-b777-444b-a9b6-c4778f0bd585.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "74ca8478-5d68-4c2b-a921-18b04e6b3e67",
+    "fname": "凉拌柚子皮",
+    "normprice": 19.5,
+    "realprice": 16.0,
+    "detail": "凉拌柚子皮，清新爽口。柚子皮微苦微酸，搭配适量大蒜子和小米椒，爽脆适口，开胃解腻，下饭菜色清雅，宴客佳选。",
+    "fphoto": "http://localhost:9000/res/files/74ca8478-5d68-4c2b-a921-18b04e6b3e67.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "264c3f49-cb35-4633-8e4c-7c2fe6685184",
+    "fname": "雪媚娘",
+    "normprice": 22.7,
+    "realprice": 19.5,
+    "detail": "雪媚娘，甜而不腻，软糯弹牙，蒸制工艺锁住奶香，早餐宵夜皆宜，尤其适合甜蜜时刻享用。甜味口味，蒸制做法，主料水磨糯米粉 克 玉米淀粉 克 白糖 克其中克用做打奶油 牛",
+    "fphoto": "http://localhost:9000/res/files/264c3f49-cb35-4633-8e4c-7c2fe6685184.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "22e12da9-c072-4f45-882e-a80b9c4044df",
+    "fname": "腌笃鲜",
+    "normprice": 23.9,
+    "realprice": 18.0,
+    "detail": "腌笃鲜，咸鲜入味。鲜肉咸肉慢火熬煮，春笋提鲜，笋肉合一软糯鲜香，暖身暖胃，下饭佳品，宴客宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/22e12da9-c072-4f45-882e-a80b9c4044df.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0b23ecb1-b2b6-4b99-a077-4d9549b917f1",
+    "fname": "白萝卜牛尾骨汤",
+    "normprice": 42.1,
+    "realprice": 36.0,
+    "detail": "白萝卜牛尾骨汤，原汁原味，牛尾骨酥软，白萝卜嫩滑，原煲慢煮，原味浓郁，适宜早餐或宴客，暖身暖心。",
+    "fphoto": "http://localhost:9000/res/files/0b23ecb1-b2b6-4b99-a077-4d9549b917f1.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0ccd2537-0f3f-423b-9086-9d83203293bf",
+    "fname": "香菇鸡丁青菜炒饭",
+    "normprice": 12.5,
+    "realprice": 11.0,
+    "detail": "香菇鸡丁青菜炒饭，咸鲜适口，鸡丁嫩滑，青菜鲜绿，隔夜饭粒松软，干贝提鲜增香，一碗下饭神器，早餐午宴皆宜。",
+    "fphoto": "http://localhost:9000/res/files/0ccd2537-0f3f-423b-9086-9d83203293bf.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "d26d3d45-e299-4b95-974b-bc63b80d99da",
+    "fname": "粉蒸板筋肉",
+    "normprice": 22.2,
+    "realprice": 17.0,
+    "detail": "粉蒸板筋肉，原味蒸制，红薯软糯衬托，板筋肉嫩滑不柴，下饭佳品，宴客首选。原味口味，蒸制做法，主料板筋肉 适量，辅以红薯 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/d26d3d45-e299-4b95-974b-bc63b80d99da.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "707c0a81-75f5-4cc4-8cc3-29aac792d533",
+    "fname": "五仁月饼",
+    "normprice": 23.9,
+    "realprice": 20.0,
+    "detail": "五仁月饼，原味软糯，饼皮香脆，五仁馅香浓不腻，适合作为下午茶点或宴客佳品。原味口味，烤制做法，主料饼皮 鸡蛋 个 白糖  月饼糖浆  低筋面粉  泡打粉  小苏打粉",
+    "fphoto": "http://localhost:9000/res/files/707c0a81-75f5-4cc4-8cc3-29aac792d533.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "13ab1135-21fb-4f1c-bcf7-d77dc4b0005e",
+    "fname": "混合面馒头",
+    "normprice": 6.4,
+    "realprice": 5.0,
+    "detail": "混合面馒头，软糯适口，原味蒸制，面粉与细玉米粉完美融合，白糖与鸡蛋增添甜香，猪油提香，蒸制间香气四溢，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/13ab1135-21fb-4f1c-bcf7-d77dc4b0005e.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "dfb42dc3-88e9-4fd3-9a65-91a2be2411cb",
+    "fname": "葱油鲍鱼",
+    "normprice": 27.2,
+    "realprice": 23.0,
+    "detail": "葱油鲍鱼，鲜香四溢。细嫩鲍鱼，配以葱花爆香油，口感细腻滑嫩，清新不腻，早餐佳肴，宴客必备。是一道不错的凉菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/dfb42dc3-88e9-4fd3-9a65-91a2be2411cb.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "7a66f7b9-dcad-420d-bd2f-bd39875c685e",
+    "fname": "土豆焖鸭",
+    "normprice": 21.5,
+    "realprice": 16.5,
+    "detail": "土豆焖鸭，原味慢炖。鸭肉软糯，土豆绵密，香气四溢，下饭绝配，宴客佳选。原味口味，焖制做法，主料鸭肉 适量 土豆 适量，辅以生姜 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/7a66f7b9-dcad-420d-bd2f-bd39875c685e.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "ac590468-74b3-41a9-92f5-f21be677bd5d",
+    "fname": "脆甜梅",
+    "normprice": 27.9,
+    "realprice": 21.0,
+    "detail": "脆甜梅，酸甜适中。主料梅子，外脆内软，酸甜适口，开胃解腻，下酒配茶皆宜，宵夜佳选。是一道不错的凉菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/ac590468-74b3-41a9-92f5-f21be677bd5d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "8e8c0247-ed8a-40f9-95bb-717706182d86",
+    "fname": "油酥烧饼",
+    "normprice": 53.9,
+    "realprice": 40.0,
+    "detail": "油酥烧饼，外酥里嫩，外层油酥香脆，内里暄软如海绵，早餐最佳选择，亦可宴客，下酒配茶皆宜。",
+    "fphoto": "http://localhost:9000/res/files/8e8c0247-ed8a-40f9-95bb-717706182d86.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "b65080b8-7898-4713-802b-cd6cc74d0e69",
+    "fname": "一口一酥脆——杏仁瓦片",
+    "normprice": 51.5,
+    "realprice": 41.0,
+    "detail": "一口一酥脆，杏仁瓦片甜味烤制，低筋面粉与蛋白结合杏仁片点缀，酥脆口感早餐宵夜皆宜。甜味口味，烤制做法，主料低筋面粉  细砂糖  蛋白 ，辅以杏仁片 ，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/b65080b8-7898-4713-802b-cd6cc74d0e69.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "b23a9b89-9643-47ef-ac4d-be94ff1239f8",
+    "fname": "四喜福袋",
+    "normprice": 17.9,
+    "realprice": 13.5,
+    "detail": "四喜福袋，咸鲜爽口，虾仁鲜嫩胡萝卜甜蜜，蒸制锁住鲜香，蒸饺皮儿酥软，下饭宴客两相宜，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/b23a9b89-9643-47ef-ac4d-be94ff1239f8.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "30f5b565-a540-4bf9-a010-cc54445e2491",
+    "fname": "番茄肥牛滑蛋",
+    "normprice": 44.8,
+    "realprice": 39.0,
+    "detail": "番茄肥牛滑蛋，嫩滑鲜香，番茄与肥牛的完美融合，滑嫩的蛋液包裹着鲜美的肉末，软糯适中，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/30f5b565-a540-4bf9-a010-cc54445e2491.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "18473d1f-6603-462e-926f-747c4b2b8658",
+    "fname": "雪菜牛肉炒饭",
+    "normprice": 21.0,
+    "realprice": 19.0,
+    "detail": "雪菜牛肉炒饭，原味炒制，雪菜与牛肉的鲜香融合，米饭粒粒分明，软糯香滑，早餐宵夜皆宜，下饭神器。",
+    "fphoto": "http://localhost:9000/res/files/18473d1f-6603-462e-926f-747c4b2b8658.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "aa493530-34e8-4a2a-aba1-6a91a78b2e6e",
+    "fname": "荠菜煮鸡蛋",
+    "normprice": 10.5,
+    "realprice": 9.0,
+    "detail": "荠菜煮鸡蛋，清口小菜。荠菜清香，搭配软糯鸡蛋，清淡适中，下饭早餐皆宜。是一道不错的小吃，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/aa493530-34e8-4a2a-aba1-6a91a78b2e6e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "ce2986de-f349-4125-97ae-74ee11d19ee6",
+    "fname": "午餐肉",
+    "normprice": 31.9,
+    "realprice": 24.0,
+    "detail": "午餐肉，咸鲜美味。瘦肉肥肉搭配，蒸制入味，肉质嫩滑，下饭佳品，适合午餐或晚餐食用。咸鲜口味，蒸制做法，主料瘦肉 克 肥肉 克，辅以糖 克 土豆淀粉 克 红曲米粉 克",
+    "fphoto": "http://localhost:9000/res/files/ce2986de-f349-4125-97ae-74ee11d19ee6.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "f0016615-a505-47f2-9bdb-4f7fbdaf559b",
+    "fname": "大米饭团",
+    "normprice": 15.8,
+    "realprice": 13.5,
+    "detail": "咸鲜美味，剩米饭搭配海苔、胡萝卜、土豆、玉米粒和自制午餐肉，软糯可口，适合下饭，无论是早餐还是晚餐都极佳。",
+    "fphoto": "http://localhost:9000/res/files/f0016615-a505-47f2-9bdb-4f7fbdaf559b.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "c9bf86a9-aa10-4970-a468-d6774b081e4c",
+    "fname": "凉拌绿豆芽",
+    "normprice": 13.2,
+    "realprice": 10.0,
+    "detail": "凉拌绿豆芽，酸辣爽口，脆嫩爽滑，拌以蒜蓉、小米辣，香菜点缀，白芝麻提香，下饭佳品，宵夜必备。",
+    "fphoto": "http://localhost:9000/res/files/c9bf86a9-aa10-4970-a468-d6774b081e4c.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e09d4a9b-ebb2-480e-99ed-003ed7d01434",
+    "fname": "玛格丽特可可饼干",
+    "normprice": 35.8,
+    "realprice": 32.0,
+    "detail": "玛格丽特可可饼干，香滑细腻，金黄酥脆，猪油与可可完美融合，早餐下午茶皆宜，更适宜宴客场合。",
+    "fphoto": "http://localhost:9000/res/files/e09d4a9b-ebb2-480e-99ed-003ed7d01434.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a6bc7dc9-b045-4d37-a8c4-12003b6c2ac0",
+    "fname": "炒时蔬",
+    "normprice": 22.5,
+    "realprice": 19.5,
+    "detail": "炒时蔬，西兰花杏鲍菇红椒秋葵，原味炒制，西兰花嫩滑，杏鲍菇爽脆，蒜蓉提香，清爽下饭，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/a6bc7dc9-b045-4d37-a8c4-12003b6c2ac0.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "146ebccd-2744-4106-96b9-1e2a652d84e8",
+    "fname": "广式炒粿条",
+    "normprice": 23.8,
+    "realprice": 20.5,
+    "detail": "广式炒粿条，微辣爆炒。粿条软糯，肉饼香滑，搭配豆芽、洋葱、胡萝卜，大料提香，下饭绝配，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/146ebccd-2744-4106-96b9-1e2a652d84e8.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "b45d02ce-ca90-4489-b43a-0df5f8b49875",
+    "fname": "四神汤炖鸽子",
+    "normprice": 48.3,
+    "realprice": 36.5,
+    "detail": "四神汤炖鸽子，清淡炖煮，鸽肉嫩滑，铁棍山药软糯，鲜百合清甜，开胃暖身，适宜早餐或宴客，温暖又营养。",
+    "fphoto": "http://localhost:9000/res/files/b45d02ce-ca90-4489-b43a-0df5f8b49875.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0fb164db-53b6-46e5-9502-8840dc493ffb",
+    "fname": "蒸菜米米蒿",
+    "normprice": 18.5,
+    "realprice": 15.5,
+    "detail": "蒸菜米米蒿，清香四溢。米蒿清新爽口，搭配蒸制手法保留原味，适合下饭，也可作为早餐小菜。是一道不错的小吃，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/0fb164db-53b6-46e5-9502-8840dc493ffb.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "95c2a142-40fd-4989-8b10-d20faf9e4220",
+    "fname": "凉拌菜",
+    "normprice": 10.7,
+    "realprice": 9.5,
+    "detail": "凉拌菜，清淡爽口。三色小番茄、西兰花、黑木耳拌合，清新宜人，下饭菜色诱人，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/95c2a142-40fd-4989-8b10-d20faf9e4220.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "b6e05ca8-5ed0-4dd3-9a0f-e83237f301dd",
+    "fname": "黑芝麻杂粮包",
+    "normprice": 21.8,
+    "realprice": 19.5,
+    "detail": "黑芝麻杂粮包，软糯香甜。中筋面粉与黑米、黑芝麻、红芸豆等杂粮完美融合，蒸制而成，甜而不腻，下饭早餐两相宜，宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/b6e05ca8-5ed0-4dd3-9a0f-e83237f301dd.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ecbe55d1-d333-422e-8978-7c6d1a2c8b14",
+    "fname": "减脂虾仁白菜豆腐汤",
+    "normprice": 38.6,
+    "realprice": 35.0,
+    "detail": "减脂虾仁白菜豆腐汤，清淡口感，豆腐嫩滑，白菜爽脆，虾仁鲜嫩，枸杞点缀，煮制而成，清淡不油腻，适合早餐或宵夜，开胃暖身。",
+    "fphoto": "http://localhost:9000/res/files/ecbe55d1-d333-422e-8978-7c6d1a2c8b14.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0e018cc3-4ef6-43df-8999-3c08e11510bd",
+    "fname": "巧克力玛芬蛋糕",
+    "normprice": 45.2,
+    "realprice": 41.0,
+    "detail": "巧克力玛芬蛋糕，浓郁奶香，细腻松软，适宜下午茶或宴客甜蜜点心，每一口都是满满的幸福感。奶香口味，烤制做法，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/0e018cc3-4ef6-43df-8999-3c08e11510bd.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "fd4fea1b-7de4-435d-8d40-fbc2670a73cf",
+    "fname": "洋葱拌木耳",
+    "normprice": 10.7,
+    "realprice": 9.5,
+    "detail": "洋葱拌木耳，爽口开胃。洋葱脆嫩木耳软滑，清新爽口，香菜点缀提香，下饭佳品，早餐宵夜皆宜。主料洋葱 适量 黑木耳 适量，辅以香菜段 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/fd4fea1b-7de4-435d-8d40-fbc2670a73cf.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "abe30346-4615-4f6d-842f-9488ed041954",
+    "fname": "茄子鸡肉",
+    "normprice": 56.9,
+    "realprice": 45.0,
+    "detail": "茄子鸡肉，家常热菜。咸鲜适口，肉嫩滑口茄子软糯，油煎烹制，下饭佳品。是一道不错的热菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/abe30346-4615-4f6d-842f-9488ed041954.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "0c637dd7-890f-4fe2-893f-3f7f4e6c4d1c",
+    "fname": "自制糯米藕",
+    "normprice": 13.2,
+    "realprice": 12.0,
+    "detail": "自制糯米藕，香甜软糯，莲藕与冰糖煮制，宴客宵夜皆宜，香甜开胃解腻。原味口味，煮制做法，主料，配以冰糖或红糖，经过泡米、填孔、煮制、成品香甜软糯。",
+    "fphoto": "http://localhost:9000/res/files/0c637dd7-890f-4fe2-893f-3f7f4e6c4d1c.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "a64d8a95-7770-4b8d-a6e5-73f4c3b0690c",
+    "fname": "玉米面馒头",
+    "normprice": 8.6,
+    "realprice": 6.5,
+    "detail": "玉米面馒头，甜味蒸食，中筋面粉与细玉米面混合，鸡蛋糖酵母调和发酵，蒸制暄软香甜，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/a64d8a95-7770-4b8d-a6e5-73f4c3b0690c.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "6faf3311-4f2e-4e9f-b4a4-32308481ea8e",
+    "fname": "擂辣椒皮蛋",
+    "normprice": 13.2,
+    "realprice": 10.0,
+    "detail": "擂辣椒皮蛋，酸辣开胃。皮蛋软糯，辣椒香辣，蒜香浓郁，拌制，下饭早餐皆宜。酸辣口味，拌制做法，主料辣椒 个 皮蛋 个，辅以大蒜 瓣，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/6faf3311-4f2e-4e9f-b4a4-32308481ea8e.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "c11c7a82-c0b0-4706-88d5-2b6d41ec1b41",
+    "fname": "玉米鸡翅煲",
+    "normprice": 37.1,
+    "realprice": 28.0,
+    "detail": "玉米鸡翅煲，酱香浓郁。鸡翅肉质紧实，玉米、土豆软糯，胡萝卜洋葱提鲜，慢炖入味，下饭佳品。",
+    "fphoto": "http://localhost:9000/res/files/c11c7a82-c0b0-4706-88d5-2b6d41ec1b41.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "c907cd70-869b-4f87-a5eb-3c4ae7a0e81e",
+    "fname": "酸菜小笋午餐肉炒饭",
+    "normprice": 15.5,
+    "realprice": 12.5,
+    "detail": "酸菜小笋午餐肉炒饭，酸菜小笋与午餐肉的鲜香融合，米饭吸收汤汁香糯可口，下饭神器，适合下饭。",
+    "fphoto": "http://localhost:9000/res/files/c907cd70-869b-4f87-a5eb-3c4ae7a0e81e.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ab4be9ac-a4ea-4107-9ec7-5970104e8c6e",
+    "fname": "桂花蜜奶冻",
+    "normprice": 33.5,
+    "realprice": 25.0,
+    "detail": "桂花蜜奶冻，香甜软糯，奶香浓郁，吉利丁片细腻，宛如夏日冰品，适宜甜品时间，亦可作早餐甜点。奶香口味，烘焙制做法，主料牛奶  淡奶油 ，辅以吉利丁片 ，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/ab4be9ac-a4ea-4107-9ec7-5970104e8c6e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "1dca20fa-5f99-4246-bd96-6569f6ca8b73",
+    "fname": "蛋黄肉粽",
+    "normprice": 32.8,
+    "realprice": 29.5,
+    "detail": "蛋黄肉粽，圆糯米包裹五花肉与咸蛋黄，软糯香滑，早餐下饭佳品，宴客亦佳。主料圆糯米 适量，辅以五花肉 适量 咸蛋黄 适量，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/1dca20fa-5f99-4246-bd96-6569f6ca8b73.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "51df522b-759f-4784-b4d7-20e1c481349d",
+    "fname": "创意金汤玉米笋",
+    "normprice": 53.9,
+    "realprice": 41.0,
+    "detail": "创意金汤玉米笋，鲜玉米笋搭配熟南瓜泥，软糯金汤滑顺，点缀薄荷清新提味，宴客佳品，下饭美味。",
+    "fphoto": "http://localhost:9000/res/files/51df522b-759f-4784-b4d7-20e1c481349d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "fa446cc8-feff-4099-9fbe-2f58a2767527",
+    "fname": "啤酒香辣蟹",
+    "normprice": 64.0,
+    "realprice": 47.5,
+    "detail": "啤酒香辣蟹，蟹肉弹，洋葱提香，啤酒浸润，麻辣鲜香，下饭绝美，宴客宵夜两相宜。麻辣口味，炒制做法，主料螃蟹 适量，辅以洋葱 适量 啤酒 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/fa446cc8-feff-4099-9fbe-2f58a2767527.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "6d55537e-5cdc-4d3e-8bde-75286e73943b",
+    "fname": "牛肝菌牛排焖饭",
+    "normprice": 18.2,
+    "realprice": 13.5,
+    "detail": "牛肝菌牛排焖饭，牛排嫩滑菌菇鲜香，米饭软糯香气扑鼻，下饭佳品，宴客倍添风雅。原味口味，焖制做法，主料牛肝菌 适量 板腱牛排 适量 大米 适量，辅以葱花 适量，适合作",
+    "fphoto": "http://localhost:9000/res/files/6d55537e-5cdc-4d3e-8bde-75286e73943b.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "2597e4ca-1962-4cf7-b9fe-3c0d25b3ed51",
+    "fname": "山药米酒蛋花汤",
+    "normprice": 35.2,
+    "realprice": 29.5,
+    "detail": "山药米酒蛋花汤，甜香软糯，米酒浸润山药细腻滑嫩，晨起或夜宵皆佳，下饭暖胃不油腻。甜香口味，煮制做法，主料山药 一根 米酒 两勺 鸡蛋 两个，辅以纯净水 适量，适合作",
+    "fphoto": "http://localhost:9000/res/files/2597e4ca-1962-4cf7-b9fe-3c0d25b3ed51.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "88f22831-6b4b-48f6-8b79-b9a388e803ab",
+    "fname": "玉米面菜团",
+    "normprice": 25.5,
+    "realprice": 21.0,
+    "detail": "玉米面包裹鲜虾、鸡蛋、菠菜、香菇、胡萝卜，蒸制而成，咸鲜适口，软糯香滑，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/88f22831-6b4b-48f6-8b79-b9a388e803ab.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "2cf97991-f521-40d4-8bcb-4f59e52db3b9",
+    "fname": "香菇小白菜汤",
+    "normprice": 42.8,
+    "realprice": 34.0,
+    "detail": "香菇小白菜汤，清淡原味，香菇提鲜，小白菜嫩滑，清淡原味，菌菜合一，暖身下饭，早餐宵夜皆宜。原味口味，其他制做法，主料小白菜 适量，辅以香菇 个，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/2cf97991-f521-40d4-8bcb-4f59e52db3b9.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "943a652d-4aed-4e4a-999e-fe1d94a5c320",
+    "fname": "紫苏仔姜桃子",
+    "normprice": 18.3,
+    "realprice": 14.5,
+    "detail": "紫苏仔姜桃子，清新凉拌。紫苏爽口，仔姜解腻，桃子清甜，凉拌简单开胃，下酒配茶都适宜，宵夜必备。是一道不错的凉菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/943a652d-4aed-4e4a-999e-fe1d94a5c320.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "d2b41cf2-b685-44f9-8e17-922250f68dc8",
+    "fname": "豌豆腊肠焖饭",
+    "normprice": 7.1,
+    "realprice": 5.5,
+    "detail": "豌豆腊肠焖饭，软糯香甜，腊肠与豌豆慢火焖煮，米饭吸收汤汁，下饭早餐宴客两相宜。原味口味，焖制做法，主料豌豆 适量 腊肠 适量，辅以大米 适量，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/d2b41cf2-b685-44f9-8e17-922250f68dc8.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "478ea7dd-0310-44a0-8995-954a5b279cfa",
+    "fname": "金沙肉松蛋黄酥",
+    "normprice": 45.7,
+    "realprice": 37.0,
+    "detail": "金沙肉松蛋黄酥，咸甜适口，外皮酥脆内陷软糯，蛋黄肉松丰富，适合作为早餐或宴客点心。咸甜口味，烘焙制做法，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/478ea7dd-0310-44a0-8995-954a5b279cfa.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "18fbae33-df79-4030-9321-005a9bc45d3f",
+    "fname": "洪湖莲藕排骨汤",
+    "normprice": 27.2,
+    "realprice": 21.0,
+    "detail": "洪湖莲藕排骨汤，咸鲜入味，排骨软糯藕段爽脆，花生添香，姜片提鲜，焖煮入味，下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/18fbae33-df79-4030-9321-005a9bc45d3f.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "ced5b42e-bbff-4caa-a097-af9605aa1c0d",
+    "fname": "西红柿烩饭",
+    "normprice": 25.6,
+    "realprice": 20.0,
+    "detail": "西红柿烩饭，酸甜可口，软糯适中，米饭与西红柿的酸甜交融，鸡蛋和火腿肠的加入增添风味，适合作为下饭菜，既可当早餐也能宴客。",
+    "fphoto": "http://localhost:9000/res/files/ced5b42e-bbff-4caa-a097-af9605aa1c0d.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "4e66bef1-b95a-45bc-852b-827c48d97e43",
+    "fname": "萝卜煎蛋掉秤汤",
+    "normprice": 31.7,
+    "realprice": 26.5,
+    "detail": "萝卜煎蛋掉秤汤，萝卜软糯鸡蛋嫩滑，咸香适口，煮制而成，下饭佳品，早餐宵夜皆宜。咸香口味，煮制做法，主料萝卜 半根，辅以鸡蛋 个，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/4e66bef1-b95a-45bc-852b-827c48d97e43.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "a5740c4c-7023-4ef7-9c49-7495745f3758",
+    "fname": "荠菜冬笋豆干春卷",
+    "normprice": 25.5,
+    "realprice": 19.0,
+    "detail": "荠菜冬笋豆干春卷，咸鲜适口，煎制豆干、荠菜、冬笋口感酥脆，春卷外皮香脆，内馅鲜嫩，下饭绝佳，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/a5740c4c-7023-4ef7-9c49-7495745f3758.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "5a27ffdc-ba61-48f6-9405-dded4880af0d",
+    "fname": "烧麦纸皮烧卖",
+    "normprice": 10.0,
+    "realprice": 7.5,
+    "detail": "咸鲜口感，猪肉与糯米细腻混合，外皮薄韧易破，蒸制而成，适合作为下饭菜，亦可当早餐小吃。",
+    "fphoto": "http://localhost:9000/res/files/5a27ffdc-ba61-48f6-9405-dded4880af0d.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "767ac2a3-37fb-447f-a9df-2f8e7824f42f",
+    "fname": "简版五色糯米饭",
+    "normprice": 18.5,
+    "realprice": 15.5,
+    "detail": "简版五色糯米饭，黑米糯米蝶豆花，苦荞点缀红橙木蒸出五彩糯米饭，香软糯夹杂着淡淡草本清香，适合作为早餐或宴客佳品，下饭美味。",
+    "fphoto": "http://localhost:9000/res/files/767ac2a3-37fb-447f-a9df-2f8e7824f42f.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "bac8dc91-078d-48b8-a6e2-cc1f17935787",
+    "fname": "青椒木耳炒肉",
+    "normprice": 22.9,
+    "realprice": 17.0,
+    "detail": "青椒木耳炒肉，微辣鲜香，瘦肉嫩滑木耳爽脆，炒制快熟，下饭佳品，早餐午晚餐皆宜。微辣口味，炒制做法，主料木耳 适量 青椒 适量，辅以瘦肉 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/bac8dc91-078d-48b8-a6e2-cc1f17935787.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "4d219d03-9b3a-41d4-accb-5580effe8e0a",
+    "fname": "乌鸡蘑菇汤",
+    "normprice": 17.4,
+    "realprice": 14.0,
+    "detail": "乌鸡蘑菇汤，咸鲜入味，乌鸡炖煮至软糯，搭配多种菌菇，汤色清澈鲜美，适宜下饭，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/4d219d03-9b3a-41d4-accb-5580effe8e0a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "b82724f5-baac-48dc-a113-a7e1d13433d4",
+    "fname": "红薯烤蛋奶",
+    "normprice": 52.7,
+    "realprice": 43.0,
+    "detail": "红薯烤蛋奶，奶香浓郁，红薯与鸡蛋的软糯搭配牛奶的丝滑，烤制间香气四溢，适合作为早餐或宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/b82724f5-baac-48dc-a113-a7e1d13433d4.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "5c50f9ef-ebd0-4f06-bc0e-dec05dc61dc4",
+    "fname": "培根披萨",
+    "normprice": 22.2,
+    "realprice": 20.0,
+    "detail": "培根披萨，香脆外皮下马苏里拉芝士与培根、洋葱、青椒、香菇的香浓融合，早餐宵夜皆宜，更是宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/5c50f9ef-ebd0-4f06-bc0e-dec05dc61dc4.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "685f68e9-c641-4145-8698-81226689cf9d",
+    "fname": "山药虾仁旮瘩汤",
+    "normprice": 8.4,
+    "realprice": 7.5,
+    "detail": "山药虾仁旮瘩汤，咸香鲜美。山药软糯鸡蛋嫩滑，虾仁鲜香弹牙，西红柿增色提味，一碗下去暖胃暖心，下饭佳选。",
+    "fphoto": "http://localhost:9000/res/files/685f68e9-c641-4145-8698-81226689cf9d.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "ca07baf1-aafe-4f83-a892-33e7a3062f71",
+    "fname": "百金春兰饭",
+    "normprice": 22.1,
+    "realprice": 19.0,
+    "detail": "百金春兰饭，咸鲜入味。春笋马兰头金雀花鲜百合，大米火腿焖煮，软糯香滑，下饭佳品。咸鲜口味，焖制做法，主料春笋 根 马兰头 克 金雀花 克 鲜百合 克 火腿 克 大米",
+    "fphoto": "http://localhost:9000/res/files/ca07baf1-aafe-4f83-a892-33e7a3062f71.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "07648157-3d01-4f65-92e5-dbef0405249f",
+    "fname": "巧克力慕斯蛋糕",
+    "normprice": 34.8,
+    "realprice": 27.0,
+    "detail": "巧克力慕斯蛋糕，丝滑浓郁，甜而不腻，融奶酪与巧克力之精华，轻盈细腻，适合作为下午茶或晚餐甜点，宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/07648157-3d01-4f65-92e5-dbef0405249f.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "051d512d-a9da-4b73-8853-0142ce3851a6",
+    "fname": "缤纷炒时蔬",
+    "normprice": 25.9,
+    "realprice": 23.5,
+    "detail": "缤纷炒时蔬，原味炒制。香菇青彩提鲜，元葱青椒增香，西红柿增酸解腻。炒制工艺，嫩滑爽口，下饭宴客两相宜，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/051d512d-a9da-4b73-8853-0142ce3851a6.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "5254fa09-b893-4dd4-b4a9-8b03a7e26b18",
+    "fname": "午餐肉虾仁紫菜炒饭",
+    "normprice": 13.2,
+    "realprice": 11.5,
+    "detail": "午餐肉虾仁紫菜炒饭，米饭为主，午餐肉、虾仁、紫菜炒制，咸鲜适口，软糯香滑，下饭佳品，适合午餐和宵夜。",
+    "fphoto": "http://localhost:9000/res/files/5254fa09-b893-4dd4-b4a9-8b03a7e26b18.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "6b26df63-ce9e-4f5b-adff-a8d0b36d6224",
+    "fname": "牛奶松饼",
+    "normprice": 18.1,
+    "realprice": 15.0,
+    "detail": "牛奶松饼，香甜酥软，牛奶鸡蛋低粉完美结合，煎至两面金黄，早餐宵夜皆宜，蜂蜜黄油更添风味。",
+    "fphoto": "http://localhost:9000/res/files/6b26df63-ce9e-4f5b-adff-a8d0b36d6224.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "b7cd959c-ae5d-4482-9c9e-04cc1878cfcc",
+    "fname": "紫菜虾滑掉秤汤",
+    "normprice": 33.2,
+    "realprice": 27.5,
+    "detail": "紫菜虾滑掉秤汤，咸香鲜美，虾滑嫩滑紫菜爽口，鸡蛋滑嫩，煮熟汤色清澈，清热去腻，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/b7cd959c-ae5d-4482-9c9e-04cc1878cfcc.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "e0d059d9-ec59-43ae-afa8-abbfa7f549c1",
+    "fname": "凉拌杏鲍菇",
+    "normprice": 27.9,
+    "realprice": 23.0,
+    "detail": "凉拌杏鲍菇，脆爽入味，鲜香不腻。主要食材杏鲍菇，爽脆口感，搭配香葱、香菜，清新解腻，下饭菜首选，宵夜佳选。",
+    "fphoto": "http://localhost:9000/res/files/e0d059d9-ec59-43ae-afa8-abbfa7f549c1.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "c286fdfa-6c51-4621-be76-2c0f981094af",
+    "fname": "心形椰蓉面包",
+    "normprice": 49.8,
+    "realprice": 37.5,
+    "detail": "心形椰蓉面包，细腻软糯，甜而不腻，早餐午后皆宜，甜品首选，亦可宴客点缀餐桌。甜味口味，烤制做法，主料吐司粉 克 糖 克 牛奶 克 耐高糖酵母 克 奶粉 克 蛋液 克",
+    "fphoto": "http://localhost:9000/res/files/c286fdfa-6c51-4621-be76-2c0f981094af.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "b3101160-5c08-47c9-b82b-24e501d00d3b",
+    "fname": "绿豆软酥饼",
+    "normprice": 49.3,
+    "realprice": 37.5,
+    "detail": "绿豆软酥饼，甜味酥饼。口感细腻松软，猪油与凉水调和，烤制外酥里嫩，早餐宵夜皆宜。甜味口味，烤制做法，主料水油皮 中筋面粉  白糖  泡打粉  猪油  凉水 ，辅以油",
+    "fphoto": "http://localhost:9000/res/files/b3101160-5c08-47c9-b82b-24e501d00d3b.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a5a1f5b2-cd28-45f5-a1c5-fb6785726d8b",
+    "fname": "卤猪心",
+    "normprice": 24.8,
+    "realprice": 21.0,
+    "detail": "卤猪心五香入味，猪心嫩滑，辅以花椒大料等香料，卤制而成，适宜下饭，从早餐到宵夜皆可享用。",
+    "fphoto": "http://localhost:9000/res/files/a5a1f5b2-cd28-45f5-a1c5-fb6785726d8b.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "f3f2808f-acfc-4472-a618-3b278e4afa80",
+    "fname": "抹茶奶酪奶角蛋糕",
+    "normprice": 37.6,
+    "realprice": 30.5,
+    "detail": "抹茶奶酪奶角蛋糕，细腻丝滑，抹茶与奶酪完美融合，口感丰富，松软香滑，适合下午茶或宴客，每一口都是享受。",
+    "fphoto": "http://localhost:9000/res/files/f3f2808f-acfc-4472-a618-3b278e4afa80.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "1b808f02-9fd0-4d27-b17d-c781b903d5f9",
+    "fname": "刷脂口蘑裙带汤",
+    "normprice": 38.1,
+    "realprice": 29.5,
+    "detail": "刷脂口蘑裙带汤，咸鲜入味，裙带菜软糯，白蘑菇鲜嫩，枸杞点缀，枸杞清甜，汤色清澈，营养丰富，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/1b808f02-9fd0-4d27-b17d-c781b903d5f9.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "a0f84a44-5159-4e49-b7f9-5ff0c3d99505",
+    "fname": "虾仁土豆豆角焖饭",
+    "normprice": 9.4,
+    "realprice": 7.5,
+    "detail": "虾仁土豆豆角焖饭，咸鲜入味，米粒弹牙土豆软糯，豆角清香，姜片提香，米饭粒粒分明，下饭绝佳早餐或宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/a0f84a44-5159-4e49-b7f9-5ff0c3d99505.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "18378223-f691-43fd-bc84-57b0bf2e12b3",
+    "fname": "肉松蛋糕",
+    "normprice": 40.6,
+    "realprice": 35.0,
+    "detail": "肉松蛋糕，原味烤制。松软细腻，鸡蛋与低筋面粉完美结合，油香适中，早餐宵夜皆宜。原味口味，烤制做法，主料鸡蛋 个 低筋面粉  牛奶 ，辅以热油 ，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/18378223-f691-43fd-bc84-57b0bf2e12b3.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "372e3da3-f932-4f25-aa4e-5ace351a5d1a",
+    "fname": "火腿虾仁紫菜炒饭",
+    "normprice": 18.5,
+    "realprice": 14.5,
+    "detail": "火腿虾仁紫菜炒饭，米饭为底，火腿虾仁紫菜三色交织，香滑可口，软糯适中，早餐宵夜皆宜，下饭佳选。",
+    "fphoto": "http://localhost:9000/res/files/372e3da3-f932-4f25-aa4e-5ace351a5d1a.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "d9781c2c-b02a-461d-bad1-5ac716855c6d",
+    "fname": "羊排萝卜汤",
+    "normprice": 45.6,
+    "realprice": 38.0,
+    "detail": "羊排萝卜汤，咸鲜入味，羊排软烂，萝卜爽滑，红枣枸杞增香，红枣红枣，红枣红枣。早餐佳品，下饭暖身，宴客必备，四季皆宜。",
+    "fphoto": "http://localhost:9000/res/files/d9781c2c-b02a-461d-bad1-5ac716855c6d.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "1e24343d-e47c-449d-820d-f50eb6f99228",
+    "fname": "酸汤酥肉",
+    "normprice": 29.0,
+    "realprice": 22.0,
+    "detail": "酸汤酥肉，猪梅花肉烩酸辣，黑木耳黄花拌蒜黄，红薯淀粉勾芡不油腻，酸爽开胃下饭菜，宴客佳品也下酒。",
+    "fphoto": "http://localhost:9000/res/files/1e24343d-e47c-449d-820d-f50eb6f99228.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "c7f9bf3d-49f2-42c9-a8b8-a596309058e5",
+    "fname": "红枣糯米糕",
+    "normprice": 11.0,
+    "realprice": 8.5,
+    "detail": "红枣糯米糕，甜味蒸食，红枣糯米香滑软糯，白砂糖牛奶提鲜增香，早餐宵夜皆宜，甜品首选。",
+    "fphoto": "http://localhost:9000/res/files/c7f9bf3d-49f2-42c9-a8b8-a596309058e5.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "532fd228-b368-46b4-9f47-a154bee16d41",
+    "fname": "牛奶小松饼",
+    "normprice": 22.5,
+    "realprice": 17.0,
+    "detail": "牛奶小松饼，松软香滑，牛奶与鸡蛋的完美融合，细腻松软如海绵，早餐来一份，温暖你的心窝。",
+    "fphoto": "http://localhost:9000/res/files/532fd228-b368-46b4-9f47-a154bee16d41.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "3187d75d-dc3f-48b4-b155-7023e04e4b84",
+    "fname": "豆腐丝小白菜肉块汤",
+    "normprice": 35.8,
+    "realprice": 31.0,
+    "detail": "豆腐丝嫩滑，小白菜清新，五花肉块酥烂，干豆腐丝增添嚼劲，原味煮制，原汁原味，清淡适口，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/3187d75d-dc3f-48b4-b155-7023e04e4b84.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "abbf0cc3-6ee3-4aa6-9c4d-8c5f3abded46",
+    "fname": "紫苏焗鸡",
+    "normprice": 47.1,
+    "realprice": 37.0,
+    "detail": "紫苏焗鸡，原味鸡腿，紫苏提香，姜片增香，原汁原味，鸡肉嫩滑，下饭佳品，宴客宵夜两相宜。原味口味，炒制做法，主料鸡腿 适量，辅以紫苏 适量 姜片 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/abbf0cc3-6ee3-4aa6-9c4d-8c5f3abded46.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "c1b1f3dc-1e6c-44b4-83d1-467f90ba8e02",
+    "fname": "抹茶奶酪夹心司康",
+    "normprice": 30.2,
+    "realprice": 23.5,
+    "detail": "抹茶奶酪夹心司康，细腻司康饼体夹杂抹茶奶酪馅，清新不腻，适合作为早餐或下午茶点。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/c1b1f3dc-1e6c-44b4-83d1-467f90ba8e02.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "61e7a0bf-707c-4f7c-a2dd-407e050c8208",
+    "fname": "薏米木耳大骨汤",
+    "normprice": 22.4,
+    "realprice": 17.0,
+    "detail": "薏米木耳大骨汤，原味滋补。大骨熬煮，木耳薏米软糯入味，原汁原味，早餐午间皆宜，清淡养生。原味口味，煮制做法，主料薏米 适量 木耳 适量，辅以大骨 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/61e7a0bf-707c-4f7c-a2dd-407e050c8208.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6ecfb58a-d53f-4b45-a057-c0cf9f7458ed",
+    "fname": "无花果蜜枣椰肉养生鸡汤",
+    "normprice": 29.6,
+    "realprice": 24.0,
+    "detail": "无花果蜜枣椰肉养生鸡汤，鸡肉莲子香菇炖，无花果蜜枣椰肉香甜软糯，早餐佳品，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/6ecfb58a-d53f-4b45-a057-c0cf9f7458ed.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "3ba620db-2a4d-4687-a44d-2b1a17b0e1ff",
+    "fname": "自制凉粉",
+    "normprice": 36.2,
+    "realprice": 27.0,
+    "detail": "自制凉粉，豌豆淀粉拌水软糯适口，麻香入味，早餐下酒宵夜皆宜，拌凉调拌热都好吃。麻香口味，拌制做法，主料豌豆淀粉 纸杯，辅以水 纸杯，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/3ba620db-2a4d-4687-a44d-2b1a17b0e1ff.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "17a82d3d-ee74-4e53-b510-492c8a42b143",
+    "fname": "麻椒鸡肉彩蔬沙拉",
+    "normprice": 11.0,
+    "realprice": 9.0,
+    "detail": "麻椒鸡肉彩蔬沙拉，嫩滑鸡胸肉与西兰花、甜玉米粒、小番茄、圆生菜清新搭配，玉米淀粉增香提味，拌制间麻香四溢，清爽不腻，下饭佳品。",
+    "fphoto": "http://localhost:9000/res/files/17a82d3d-ee74-4e53-b510-492c8a42b143.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "734b2e47-e252-4099-9bd0-8e0db86c7fe7",
+    "fname": "小鲫鱼汤",
+    "normprice": 38.7,
+    "realprice": 32.0,
+    "detail": "小鲫鱼汤，咸鲜入味。小鲫鱼煎至两面金黄，汤色清澈鱼肉鲜嫩，冻干子与干蘑菇增香添味，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/734b2e47-e252-4099-9bd0-8e0db86c7fe7.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "84f7081d-d430-48ad-aebb-5fde8995edd4",
+    "fname": "肉沫雪菜毛豆",
+    "normprice": 44.8,
+    "realprice": 35.0,
+    "detail": "肉沫雪菜毛豆，鲜咸适口，毛豆嫩滑，肉沫香浓，雪菜提鲜，炒制而成，下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/84f7081d-d430-48ad-aebb-5fde8995edd4.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "0bac8418-df62-4921-b123-05b348caf568",
+    "fname": "黄瓜干炒五花肉",
+    "normprice": 25.1,
+    "realprice": 20.5,
+    "detail": "黄瓜干炒五花肉，酸辣开胃。脆嫩五花肉搭配酸甜黄瓜干，香辣小米辣提味，蒜苗增香，下饭绝配，宵夜佳选。",
+    "fphoto": "http://localhost:9000/res/files/0bac8418-df62-4921-b123-05b348caf568.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "74f72084-fd87-43fb-a18b-416fd2905dca",
+    "fname": "牛油果煎蛋三明治",
+    "normprice": 23.0,
+    "realprice": 19.0,
+    "detail": "牛油果煎蛋三明治，咸甜适口，牛油果软滑，鸡蛋嫩滑，全麦吐司松软，搭配低脂沙拉酱，早餐宵夜皆宜，下饭佳选。",
+    "fphoto": "http://localhost:9000/res/files/74f72084-fd87-43fb-a18b-416fd2905dca.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "b3a59d4d-ba54-4a90-a3b7-de4a9f82017e",
+    "fname": "创意蛋黄米饭",
+    "normprice": 12.2,
+    "realprice": 11.0,
+    "detail": "创意蛋黄米饭，咸香诱人，米饭软糯适中，搭配两个鲜嫩的鸡蛋黄，葱香四溢，下饭神器，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/b3a59d4d-ba54-4a90-a3b7-de4a9f82017e.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "f3064d3e-c8e7-4ae2-8282-dbcc686898ff",
+    "fname": "车厘子果脯",
+    "normprice": 15.6,
+    "realprice": 12.5,
+    "detail": "车厘子果脯，酸甜适口，车厘子果脯烤制，酸甜可口，果脯香脆，下饭佳品，早餐宵夜皆宜。酸甜口味，烤制做法，主料车厘子 适量，辅以糖粉 适量，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/f3064d3e-c8e7-4ae2-8282-dbcc686898ff.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "95865e37-defb-4587-a17e-15b8b7f082e8",
+    "fname": "韩式大酱汤",
+    "normprice": 22.6,
+    "realprice": 17.0,
+    "detail": "韩式大酱汤，原味煮制。豆芽豆腐金针菇肥牛，酱香浓郁，软滑可口，早餐宵夜皆宜，下饭佳品。",
+    "fphoto": "http://localhost:9000/res/files/95865e37-defb-4587-a17e-15b8b7f082e8.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "a345213c-0fb4-443c-83ce-7aabf75c3f68",
+    "fname": "榆钱窝窝",
+    "normprice": 17.3,
+    "realprice": 13.5,
+    "detail": "榆钱窝窝，春季时令小吃。清香四溢，脆嫩可口，蒸煮制作，适口下饭，早餐佳选。是一道不错的小吃，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/a345213c-0fb4-443c-83ce-7aabf75c3f68.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "7061e67e-7d8a-4919-98d0-cbc7665e6eb0",
+    "fname": "广式肠粉",
+    "normprice": 25.0,
+    "realprice": 20.0,
+    "detail": "广式肠粉，咸鲜适口，嫩滑可口，蒸制而成，早餐宵夜皆宜，特别下饭。咸鲜口味，蒸制做法，主料肠粉  肉沫  鸡蛋 个 汤汁配料 口蘑 个 小葱 颗 洋葱 个 生姜 块 ",
+    "fphoto": "http://localhost:9000/res/files/7061e67e-7d8a-4919-98d0-cbc7665e6eb0.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "4fc01293-8fd7-405f-9e47-d509ccb00478",
+    "fname": "沙葛焖猪肚",
+    "normprice": 45.4,
+    "realprice": 41.0,
+    "detail": "沙葛焖猪肚，清甜适口。猪肚软糯，沙葛绵滑，清淡不腻，适宜下饭菜，下酒配粥皆宜，适合宵夜。是一道不错的热菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/4fc01293-8fd7-405f-9e47-d509ccb00478.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "0f6999dc-62ad-4eb4-9afc-96b640b428cb",
+    "fname": "鲜虾馄饨",
+    "normprice": 19.1,
+    "realprice": 15.0,
+    "detail": "鲜虾馄饨，咸鲜美味，虾仁鲜嫩，搭配鸡蛋和香油，煮熟后软滑弹牙，下饭佳品，适合宵夜和午餐。",
+    "fphoto": "http://localhost:9000/res/files/0f6999dc-62ad-4eb4-9afc-96b640b428cb.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "ccf6969a-424c-49ad-b2c6-98237654d7d4",
+    "fname": "肇庆艾糍青团",
+    "normprice": 34.8,
+    "realprice": 27.0,
+    "detail": "肇庆艾糍青团，糯米香软，艾草清香，蒸制而成，甜味适中，软糯细腻，适合作为早餐或宴客小点，下饭佳品。",
+    "fphoto": "http://localhost:9000/res/files/ccf6969a-424c-49ad-b2c6-98237654d7d4.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "4429a166-5184-41b3-8e50-19e7d894370d",
+    "fname": "黄瓜苹果蟹柳沙拉",
+    "normprice": 20.0,
+    "realprice": 17.0,
+    "detail": "黄瓜苹果蟹柳沙拉，清新果味，小黄瓜苹果爽脆，蟹柳嫩滑，芝麻酱增添一丝香郁，清爽开胃，适合凉拌，下饭佳品。",
+    "fphoto": "http://localhost:9000/res/files/4429a166-5184-41b3-8e50-19e7d894370d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "601a2331-0fd3-41d8-9af8-acd05fa698f3",
+    "fname": "浇汁豆腐",
+    "normprice": 53.5,
+    "realprice": 41.5,
+    "detail": "浇汁豆腐，普宁豆干炸至金黄酥脆，蒜蓉葱花提鲜增香，适合作为下饭菜，既可下饭也能宴客。原味口味，炸制做法，主料普宁豆干 适量，辅以蒜头 适量 葱花 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/601a2331-0fd3-41d8-9af8-acd05fa698f3.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "11c8ff08-c3ee-4e4a-8709-74466a2aa476",
+    "fname": "藜麦三文鱼沙拉",
+    "normprice": 12.9,
+    "realprice": 10.5,
+    "detail": "藜麦三文鱼沙拉，酸咸适口，三文鱼、牛油果、藜麦清新爽滑，搭配青柠片与黄萝卜，酸爽开胃，早餐或下午茶解腻佳品。",
+    "fphoto": "http://localhost:9000/res/files/11c8ff08-c3ee-4e4a-8709-74466a2aa476.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5fe57c2d-e099-4b69-a52e-7908de9efd2c",
+    "fname": "广式蛋黄莲蓉月饼",
+    "normprice": 36.8,
+    "realprice": 31.0,
+    "detail": "广式蛋黄莲蓉月饼，香滑甜糯，蛋黄莲蓉完美融合，月饼皮酥脆适口，适合作为早餐或宴客佳品，下饭美味。",
+    "fphoto": "http://localhost:9000/res/files/5fe57c2d-e099-4b69-a52e-7908de9efd2c.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "c32cb959-f8d5-4b62-a767-a8076e30f6a7",
+    "fname": "鲫鱼豆腐汤",
+    "normprice": 27.9,
+    "realprice": 23.5,
+    "detail": "鲫鱼豆腐汤，咸鲜入味，鲫鱼嫩滑豆腐软糯，姜葱提香，清汤一碗下饭佳品，早餐宵夜皆宜。咸鲜口味，煮制做法，主料鲫鱼 条 豆腐 块，辅以芫茜  姜 片，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/c32cb959-f8d5-4b62-a767-a8076e30f6a7.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "89ba2f29-667d-4a8e-ae70-c12608bf4dda",
+    "fname": "菠萝香菜拌牛肉",
+    "normprice": 23.9,
+    "realprice": 20.0,
+    "detail": "菠萝香菜拌牛肉，酸甜清爽。牛肉嫩滑，香菜菠萝提鲜解腻，冷菜佳品，下酒配饭两相宜，宵夜首选。是一道不错的凉菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/89ba2f29-667d-4a8e-ae70-c12608bf4dda.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "c913b156-4c86-4cbb-8979-08eb287cb82d",
+    "fname": "家常炒饭",
+    "normprice": 22.9,
+    "realprice": 20.5,
+    "detail": "家常炒饭，咸鲜适口。剩米饭炒香鸡蛋肉香，洋葱菜心提鲜增香，生抽提味，芝麻点缀，下饭绝配。",
+    "fphoto": "http://localhost:9000/res/files/c913b156-4c86-4cbb-8979-08eb287cb82d.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "abe80753-4c3a-4a6f-a552-9f2307017fa9",
+    "fname": "皮蛋拌豆腐",
+    "normprice": 26.5,
+    "realprice": 21.0,
+    "detail": "皮蛋拌豆腐，酸辣爽口，嫩豆腐滑嫩入味，皮蛋弹鲜香，蒜末香菜提香，下饭宵夜皆宜，拌是佳选。",
+    "fphoto": "http://localhost:9000/res/files/abe80753-4c3a-4a6f-a552-9f2307017fa9.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "7bf64530-6fb4-4d39-b5a6-fdd7e0da108a",
+    "fname": "牛肉鱼片泡菜锅",
+    "normprice": 35.3,
+    "realprice": 28.0,
+    "detail": "牛肉鱼片泡菜锅，嫩滑牛肉与鱼片煮泡菜，原味煮制，适宜下饭，早餐宵夜皆宜。原味口味，煮制做法，主料牛肉 适量 鱼片 适量，辅以泡菜 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/7bf64530-6fb4-4d39-b5a6-fdd7e0da108a.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "00635b91-78fb-4dae-b66b-cefb3a26dcb3",
+    "fname": "黄瓜鸡蛋虾滑汤",
+    "normprice": 15.0,
+    "realprice": 13.0,
+    "detail": "黄瓜鸡蛋虾滑汤，咸鲜嫩滑，虾仁滑嫩鸡蛋香，黄瓜爽口去腻，煮汤清淡不油腻，早餐宵夜皆宜。咸鲜口味，煮制做法，主料黄瓜 根 鸡蛋 个，辅以虾仁 克，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/00635b91-78fb-4dae-b66b-cefb3a26dcb3.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6f4e5bcc-4f28-436f-8faa-dc36415497ab",
+    "fname": "肉片青菜炒年糕",
+    "normprice": 17.8,
+    "realprice": 15.0,
+    "detail": "肉片青菜炒年糕，咸鲜适口，年糕软糯肉片嫩滑，青菜清翠爽口。下饭佳品，早餐午宴皆宜。咸鲜口味，炒制做法，主料年糕片 适量 上海青 少许，辅以肉片 少许 葱段 少许 红",
+    "fphoto": "http://localhost:9000/res/files/6f4e5bcc-4f28-436f-8faa-dc36415497ab.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "78bcde21-edbf-4397-8426-b98ddccc6fc6",
+    "fname": "自制春饼",
+    "normprice": 26.8,
+    "realprice": 20.5,
+    "detail": "自制春饼，原味蒸制，软糯适中，以面粉为主料，适宜早餐下饭，也可宴客点缀。原味口味，蒸制做法，主料面粉  水 适量 盐 ，辅以鸡蛋白 个，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/78bcde21-edbf-4397-8426-b98ddccc6fc6.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "6884693c-84fb-4e06-91c5-346fd7deda39",
+    "fname": "凉拌浦公英",
+    "normprice": 28.3,
+    "realprice": 22.0,
+    "detail": "凉拌浦公英，清新爽口。主要食材为野生浦公英，凉拌去苦，口感脆嫩，清热解毒，适宜下饭菜，也可当作健康早餐。",
+    "fphoto": "http://localhost:9000/res/files/6884693c-84fb-4e06-91c5-346fd7deda39.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "fcc7c6f1-d0c4-4815-8619-4ac79a75fbeb",
+    "fname": "非糯米棕子",
+    "normprice": 14.6,
+    "realprice": 13.0,
+    "detail": "非糯米棕子，米饭软糯，蜜枣香甜，黄瓜清新爽口，蒸制而成，适宜下饭，早餐佳品，宴客也显精致。",
+    "fphoto": "http://localhost:9000/res/files/fcc7c6f1-d0c4-4815-8619-4ac79a75fbeb.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "496a0cb6-7bc4-494c-bb0f-6e5b1c4e8996",
+    "fname": "火龙果汁米饭",
+    "normprice": 15.7,
+    "realprice": 12.5,
+    "detail": "火龙果汁米饭，红艳果汁润口甜，米饭软糯香适口，开胃下饭好选择，早餐宵夜皆适宜。果味口味，其他制做法，主料米饭 适量，辅以红火龙果汁 适量 装饰叶 片，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/496a0cb6-7bc4-494c-bb0f-6e5b1c4e8996.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "2a1e923f-9f07-4def-b6d3-1f34ea0306a2",
+    "fname": "平菇鸡蛋汤",
+    "normprice": 29.9,
+    "realprice": 22.5,
+    "detail": "平菇鸡蛋汤，原味煮制。平菇嫩滑，鸡蛋蛋花嫩滑，葱花点缀增香，原汁原味，清淡鲜美，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/2a1e923f-9f07-4def-b6d3-1f34ea0306a2.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6a747799-2e2c-4a6a-8548-c40e937a3b71",
+    "fname": "东北驴打滚",
+    "normprice": 20.5,
+    "realprice": 15.5,
+    "detail": "东北驴打滚，外皮糯软，内陷豆香浓郁，黄豆粉点缀，白糖提味，蒸制而成，香甜适口，适宜下饭，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/6a747799-2e2c-4a6a-8548-c40e937a3b71.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "68015051-da7e-4a67-ba80-d55a2bbde6db",
+    "fname": "麻酱拌米粉",
+    "normprice": 17.5,
+    "realprice": 13.5,
+    "detail": "麻酱拌米粉，微辣拌制，新鲜米粉软糯弹牙，胡萝卜黄瓜绿豆芽爽脆，蒜香浓郁香菜提味，小米辣增香，一碗下肚，香辣开胃，下饭绝配。",
+    "fphoto": "http://localhost:9000/res/files/68015051-da7e-4a67-ba80-d55a2bbde6db.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "51c36fe1-2048-421c-8b90-d6553bd22954",
+    "fname": "人参莲肉汤",
+    "normprice": 15.6,
+    "realprice": 12.5,
+    "detail": "人参莲肉汤，滋补佳品。人参莲子软糯，冰糖莲肉炖煮，甜味适口，暖身暖心，早餐宴客皆宜，补气养颜。",
+    "fphoto": "http://localhost:9000/res/files/51c36fe1-2048-421c-8b90-d6553bd22954.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "121bcbd7-d10b-4170-bdc8-63aae112faf7",
+    "fname": "凉拌木耳面筋",
+    "normprice": 14.6,
+    "realprice": 12.5,
+    "detail": "凉拌木耳面筋，酸辣爽口，木耳软糯面筋酥脆，拌面下饭绝配，早餐宵夜皆宜。酸辣口味，拌制做法，主料面筋 克 木耳 朵，辅以面粉 少许，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/121bcbd7-d10b-4170-bdc8-63aae112faf7.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "df4cba82-23c9-4069-a66a-4dced6ea55a6",
+    "fname": "月饼",
+    "normprice": 23.9,
+    "realprice": 21.0,
+    "detail": "月饼，甜香酥皮包裹豆沙，蛋液提鲜，软糯适口，早餐点心或宴客佳品。甜香口味，烘焙制做法，主料蛋挞皮 适量 豆沙 适量，辅以鸡蛋液 适量，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/df4cba82-23c9-4069-a66a-4dced6ea55a6.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "f7e57cff-6cf6-4cbe-8b66-10d434a1e730",
+    "fname": "棉花蛋糕",
+    "normprice": 55.8,
+    "realprice": 42.0,
+    "detail": "棉花蛋糕，甜而不腻，松软细腻，适合下午茶或宵夜，口感如棉花般柔软，每一口都是甜蜜的享受。",
+    "fphoto": "http://localhost:9000/res/files/f7e57cff-6cf6-4cbe-8b66-10d434a1e730.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "60af8948-2b4c-4b84-a38e-c858f5d5e29f",
+    "fname": "闽南咸饭",
+    "normprice": 24.3,
+    "realprice": 21.5,
+    "detail": "闽南咸饭，米粒软糯，双层肉、香菇、鱿鱼干、胡萝卜、芥菜咸香入味，米饭与肉菜完美融合，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/60af8948-2b4c-4b84-a38e-c858f5d5e29f.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "7a1240b5-deba-42f8-b9f1-abe43dde592c",
+    "fname": "手抓饼卷",
+    "normprice": 31.9,
+    "realprice": 24.0,
+    "detail": "手抓饼卷，葱香四溢。饼皮酥脆，肉松、鸡柳、火腿、黄瓜点缀，煎至金黄，下饭早餐皆宜，宴客开胃更佳。",
+    "fphoto": "http://localhost:9000/res/files/7a1240b5-deba-42f8-b9f1-abe43dde592c.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "20b767bf-8990-4013-b140-ffbae3aa742d",
+    "fname": "葱油鸡腿焖饭",
+    "normprice": 20.7,
+    "realprice": 16.5,
+    "detail": "葱油鸡腿焖饭，原味焖煮，鸡肉嫩滑大葱香，搭配香喷喷的大米，下饭佳品，早餐午间皆适宜。原味口味，焖制做法，主料鸡腿 适量 大葱 适量，辅以大米 适量，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/20b767bf-8990-4013-b140-ffbae3aa742d.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "1fdf5417-7170-4c4c-8650-59889fef77c0",
+    "fname": "五香卤花生",
+    "normprice": 27.0,
+    "realprice": 21.5,
+    "detail": "五香卤花生，香脆可口，五花肉卤制工艺，花生软糯入味，下饭佳品，宴客必备，更适宜宵夜时光。五香口味，卤制做法，主料新鲜花生 克，辅以水 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/1fdf5417-7170-4c4c-8650-59889fef77c0.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5e41dae9-412d-45e7-84f6-44914d00c34e",
+    "fname": "羊肚菌乌鸡汤",
+    "normprice": 33.0,
+    "realprice": 25.0,
+    "detail": "羊肚菌乌鸡汤，清淡炖煮，乌鸡、羊肚菌等补品软烂入味，红枣、黄芪、西洋参提鲜，黑木耳增香，滋补佳品，宴客养生首选。",
+    "fphoto": "http://localhost:9000/res/files/5e41dae9-412d-45e7-84f6-44914d00c34e.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "bbb35a00-100d-48a5-b477-47bc35e5b384",
+    "fname": "凉拌菜",
+    "normprice": 20.0,
+    "realprice": 17.5,
+    "detail": "凉拌菜，清淡爽口。三色小番茄西兰花黑木耳拌合，爽脆清新开胃，下饭早餐皆可，宴客小酌更添雅致。",
+    "fphoto": "http://localhost:9000/res/files/bbb35a00-100d-48a5-b477-47bc35e5b384.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "9d20b899-9407-4181-a01a-e0a318d90acb",
+    "fname": "奶香芝士玉米",
+    "normprice": 22.0,
+    "realprice": 16.5,
+    "detail": "奶香芝士玉米，外焦里嫩，奶香浓郁。玉米与芝士碎完美结合，外层微焦香脆，内里软糯顺滑，早餐宵夜皆宜，尤其下饭美味。",
+    "fphoto": "http://localhost:9000/res/files/9d20b899-9407-4181-a01a-e0a318d90acb.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "afb9e53b-b412-4b0d-bfa1-74acc87f067d",
+    "fname": "口蘑冬瓜牛肉汤",
+    "normprice": 17.1,
+    "realprice": 14.0,
+    "detail": "口蘑冬瓜牛肉汤，砂锅慢炖，牛里脊肉嫩滑，冬瓜清甜软糯，口蘑鲜香，香菜葱花点缀，清淡口味，下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/afb9e53b-b412-4b0d-bfa1-74acc87f067d.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "b51bc261-1030-4052-8cc3-44aa26b21e14",
+    "fname": "抹茶蛋糕面包卷",
+    "normprice": 53.9,
+    "realprice": 43.5,
+    "detail": "抹茶蛋糕面包卷，抹茶香浓，蛋糕体松软，适中甜度，早餐或下午茶点心之选。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/b51bc261-1030-4052-8cc3-44aa26b21e14.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "006ac831-ca1c-40c1-9f39-f2663a5ad91a",
+    "fname": "土豆乌米焖饭",
+    "normprice": 23.5,
+    "realprice": 19.5,
+    "detail": "土豆乌米焖饭，土豆软糯乌米香，主食佳品，下饭绝佳，宴客早餐皆宜。是一道不错的主食，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/006ac831-ca1c-40c1-9f39-f2663a5ad91a.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0db75a81-2e8a-4b40-b7ed-d1ae25747452",
+    "fname": "茶粉鸡肉丸汤",
+    "normprice": 22.3,
+    "realprice": 18.0,
+    "detail": "茶粉鸡肉丸汤，鸡肉与猪油细腻融合，鸡蛋白提香增嫩，汤色清澈不腻，一口入魂，下饭佳品，早餐午间皆宜。",
+    "fphoto": "http://localhost:9000/res/files/0db75a81-2e8a-4b40-b7ed-d1ae25747452.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "1121c195-c26f-4a06-9cd1-9a2cb8c8aae7",
+    "fname": "怪味鸡爪",
+    "normprice": 49.1,
+    "realprice": 38.5,
+    "detail": "怪味鸡爪，麻辣烧制，鸡爪软糯入味，洋葱蒜片提香，搭配干辣椒小米椒，下饭宴客两相宜，宵夜佳选。",
+    "fphoto": "http://localhost:9000/res/files/1121c195-c26f-4a06-9cd1-9a2cb8c8aae7.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "46c2c0c2-2b6e-4b80-b8d7-f755eb32c49c",
+    "fname": "原味巴斯克蛋糕",
+    "normprice": 34.4,
+    "realprice": 31.0,
+    "detail": "原味巴斯克蛋糕，细腻丝滑，奶酪香浓，淡奶油与糖粉完美融合，蛋糕体轻盈细腻，适宜下午茶或小酌时光，宴客送礼两相宜。",
+    "fphoto": "http://localhost:9000/res/files/46c2c0c2-2b6e-4b80-b8d7-f755eb32c49c.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "e9f30b17-7408-4c92-895e-f45b1292c1a5",
+    "fname": "红糖酥饼",
+    "normprice": 26.7,
+    "realprice": 22.0,
+    "detail": "红糖酥饼甜香可口，外皮酥脆内含细腻，用面粉与红糖煎制，早餐宵夜皆宜。甜香口味，煎制做法，主料面粉  开水 ，辅以红糖 适量 白芝麻 适量，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/e9f30b17-7408-4c92-895e-f45b1292c1a5.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "656d94c8-24f9-42e6-80ec-ec3d22290a67",
+    "fname": "咖喱牛肉酱拌饭",
+    "normprice": 12.6,
+    "realprice": 10.0,
+    "detail": "咖喱牛肉酱拌饭，咸鲜适口，牛肉软糯，洋葱园菇提鲜增香，米饭香滑，咖喱粉炒制，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/656d94c8-24f9-42e6-80ec-ec3d22290a67.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "d97924cf-8e38-4860-8994-7a675fe0865e",
+    "fname": "自制转化糖浆",
+    "normprice": 19.5,
+    "realprice": 16.0,
+    "detail": "自制转化糖浆，甜而不腻，白糖煮制，色泽金黄，适合作为早餐甜点，下粥更佳。甜味口味，煮制做法，主料白糖 克 清水 克，辅以柠檬 个，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/d97924cf-8e38-4860-8994-7a675fe0865e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "5864333f-fff5-4f00-a957-03131abc9ebc",
+    "fname": "奶香红豆小圆子",
+    "normprice": 31.1,
+    "realprice": 26.0,
+    "detail": "奶香红豆小圆子，红豆软糯小汤圆香滑，煮至入味恰到好处，早餐宵夜皆宜，奶香浓郁甜蜜开胃。奶香口味，煮制做法，主料红豆 ，辅以小汤圆 个，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/5864333f-fff5-4f00-a957-03131abc9ebc.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "703e5adb-f3ae-4f09-82ae-974fcfd4813b",
+    "fname": "擂辣椒茄子皮蛋",
+    "normprice": 14.4,
+    "realprice": 12.0,
+    "detail": "擂辣椒茄子皮蛋，原味爽口。软嫩茄子搭配咸香皮蛋，佐以适量辣椒提升风味，拌之入味，下饭早餐皆宜。",
+    "fphoto": "http://localhost:9000/res/files/703e5adb-f3ae-4f09-82ae-974fcfd4813b.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "22963f39-a8ba-45d8-9e73-0a6d1e85c603",
+    "fname": "烤豆角",
+    "normprice": 51.5,
+    "realprice": 40.5,
+    "detail": "烤豆角，豆角焖熟香甜可口，外焦里嫩，油香浓郁，下饭佳品，宴客宵夜两相宜。甜香口味，焖制做法，主料豆角 克，辅以菜油 克，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/22963f39-a8ba-45d8-9e73-0a6d1e85c603.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "e208ceb7-c346-45a9-9109-adb3fea92155",
+    "fname": "生熟地麦冬大骨汤",
+    "normprice": 22.3,
+    "realprice": 19.5,
+    "detail": "生熟地麦冬大骨汤，滋阴养颜好汤，大骨慢炖酥软，生熟地麦冬药材滋养，原味煮制，原汁原味，暖胃滋补，适宜早餐或宵夜，暖身又养颜。",
+    "fphoto": "http://localhost:9000/res/files/e208ceb7-c346-45a9-9109-adb3fea92155.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "63763ea7-7c94-453a-af85-bfc81809bc2a",
+    "fname": "秋日暖胃酸萝卜老鸭汤",
+    "normprice": 37.2,
+    "realprice": 33.5,
+    "detail": "秋日暖胃酸萝卜老鸭汤，酸咸适口，老鸭肉炖煮酥烂，白萝卜胡萝卜软糯入味，搭配香菇海带，枸杞大枣提鲜，适宜下饭，暖身暖心。",
+    "fphoto": "http://localhost:9000/res/files/63763ea7-7c94-453a-af85-bfc81809bc2a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "e820a4cd-8fc1-496c-8ea8-f62123353d35",
+    "fname": "乳黄瓜拌豆卷",
+    "normprice": 12.9,
+    "realprice": 11.0,
+    "detail": "乳黄瓜拌豆卷，微辣爽口，黄瓜软滑豆腐卷嫩，蒜香芝麻点缀，下饭早餐皆宜，拌菜首选。微辣口味，拌制做法，主料乳黄瓜 适量，辅以豆腐卷 个 小红椒 个 蒜蓉 适量 熟芝麻",
+    "fphoto": "http://localhost:9000/res/files/e820a4cd-8fc1-496c-8ea8-f62123353d35.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "77f81ed7-4614-401c-8cb9-0648fb8c37e3",
+    "fname": "创意火腿肠花朵",
+    "normprice": 13.5,
+    "realprice": 10.5,
+    "detail": "创意火腿肠花朵，原味点缀。软糯火腿肠搭配嫩滑熟鸡蛋，点缀树叶点缀，清新不腻，早餐下酒皆宜。",
+    "fphoto": "http://localhost:9000/res/files/77f81ed7-4614-401c-8cb9-0648fb8c37e3.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "9d048dbf-b18d-479c-b3fb-6a0d01e7d1b8",
+    "fname": "炒饼丝",
+    "normprice": 19.2,
+    "realprice": 16.0,
+    "detail": "蒜香炒饼丝，饼丝酥脆，搭配鸡蛋绿豆芽胡萝卜烤肠，蒜香浓郁，下饭早餐宴客皆宜。蒜香口味，炒制做法，主料饼丝 份 鸡蛋 个 绿豆芽  胡萝卜 段 烤肠 适量，辅以大蒜 ",
+    "fphoto": "http://localhost:9000/res/files/9d048dbf-b18d-479c-b3fb-6a0d01e7d1b8.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "d0596d30-a52c-4157-812a-9dce2483a9c5",
+    "fname": "荆芥茄子汤",
+    "normprice": 41.2,
+    "realprice": 32.5,
+    "detail": "荆芥茄子汤，清淡爽口，茄子软糯，黑木耳增香，鸡蛋滑嫩，荆芥提鲜，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/d0596d30-a52c-4157-812a-9dce2483a9c5.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0ce13243-653e-446d-965a-0a6d8381b5f8",
+    "fname": "蕨菜炒腊肉",
+    "normprice": 23.5,
+    "realprice": 18.0,
+    "detail": "蕨菜炒腊肉，咸鲜适口，蕨菜柔嫩腊肉香浓，炒制过程腊肉微焦，蕨菜脆爽入味，下饭绝配，宴客佳选。咸鲜口味，炒制做法，主料蕨菜 适量 腊肉 适量 香肠 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/0ce13243-653e-446d-965a-0a6d8381b5f8.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "3b1a929c-4515-4977-bfab-3b9a2289a20f",
+    "fname": "凉拌菠菜",
+    "normprice": 36.4,
+    "realprice": 27.5,
+    "detail": "凉拌菠菜，蒜香扑鼻。菠菜清脆爽口，拌以适量蒜末，清新不腻，下饭佳品，宴客赏心。蒜香口味，拌制做法，主料菠菜 一把，辅以蒜 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/3b1a929c-4515-4977-bfab-3b9a2289a20f.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "5cba5acd-b3b8-4873-9eb1-45ba87510349",
+    "fname": "包菜炒粉签",
+    "normprice": 46.8,
+    "realprice": 38.5,
+    "detail": "包菜炒粉签，原味清炒。惠来粉签嫩滑爽口，包菜翠绿鲜香，五花肉片恰到火候，原汁原味下饭佳选，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/5cba5acd-b3b8-4873-9eb1-45ba87510349.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "ed3aea28-d6f4-4c46-8085-09e3fda95688",
+    "fname": "槐花麦饭",
+    "normprice": 10.2,
+    "realprice": 8.0,
+    "detail": "槐花麦饭，麦香裹槐花，清甜柔滑主食佳。春季上桌宾客夸，下饭佳品暖身心。主料洋槐花 适量，辅以面粉 适量，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/ed3aea28-d6f4-4c46-8085-09e3fda95688.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "b0c81c3d-0c4d-432a-b691-c58f8d920248",
+    "fname": "泡椒鸡丁炒饭",
+    "normprice": 14.7,
+    "realprice": 12.0,
+    "detail": "泡椒鸡丁炒饭，酸辣开胃。鸡丁嫩滑，泡椒爽口，小洋葱提鲜，隔夜米饭粒粒分明，一碗下肚满嘴留香，下饭绝配。",
+    "fphoto": "http://localhost:9000/res/files/b0c81c3d-0c4d-432a-b691-c58f8d920248.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ca08198e-020c-4d58-a23a-ba2374dd199a",
+    "fname": "豆腐丝瓜肉沫汤",
+    "normprice": 19.6,
+    "realprice": 16.0,
+    "detail": "豆腐丝瓜肉沫汤，嫩滑细腻，肉沫鲜香滑嫩，豆腐丝瓜清甜解腻，煮汤清淡原味，适合下饭，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/ca08198e-020c-4d58-a23a-ba2374dd199a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "2f3fbc1f-4f0e-424b-b354-7dea08af9947",
+    "fname": "轻芝士乳酪蛋糕",
+    "normprice": 50.1,
+    "realprice": 45.0,
+    "detail": "轻芝士乳酪蛋糕，细腻丝滑，奶油芝士与鸡蛋细腻融合，蛋糕粉完美烘托层次，原味烤制，松软香滑，早餐甜点或下午茶皆宜。",
+    "fphoto": "http://localhost:9000/res/files/2f3fbc1f-4f0e-424b-b354-7dea08af9947.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "d5dcac57-3f0b-4575-9526-6073bcdac2d0",
+    "fname": "沙葱炒肉",
+    "normprice": 30.8,
+    "realprice": 25.5,
+    "detail": "沙葱炒肉，鲜香适口。葱香肉嫩，炒制过程保持蔬菜的脆嫩与肉的鲜美，早餐下饭佳选，宴客也适宜。是一道不错的热菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/d5dcac57-3f0b-4575-9526-6073bcdac2d0.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "ec533d65-ea63-4e40-b81e-e9a5c9260b33",
+    "fname": "洋葱炒白玉木耳",
+    "normprice": 58.6,
+    "realprice": 47.5,
+    "detail": "洋葱炒白玉木耳，清新爽口。洋葱脆嫩，木耳软糯，炒制过程保留食材原味，下饭菜色诱人，开胃解腻，适合各类餐时。",
+    "fphoto": "http://localhost:9000/res/files/ec533d65-ea63-4e40-b81e-e9a5c9260b33.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "c0b877e7-b4c8-408d-bc89-15d700e825d9",
+    "fname": "低脂低卡银芽牛肉拌饭",
+    "normprice": 15.2,
+    "realprice": 11.5,
+    "detail": "低脂低卡银芽牛肉拌饭，咸香适口，绿豆芽嫩滑牛肉嫩而不柴，米饭松软，早餐午间下饭佳选，亦可宴客。",
+    "fphoto": "http://localhost:9000/res/files/c0b877e7-b4c8-408d-bc89-15d700e825d9.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "f3e2295b-5b83-4cea-b16c-9b15c219cc3a",
+    "fname": "黄瓜拌皮蛋",
+    "normprice": 22.2,
+    "realprice": 19.5,
+    "detail": "黄瓜拌皮蛋，酸辣爽口，黄瓜脆嫩皮蛋滑，清新不腻，下饭佳品，宵夜必备。酸辣口味，拌制做法，主料黄瓜 个 皮蛋 个，辅以小米辣 个 大蒜 瓣 生姜 片，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/f3e2295b-5b83-4cea-b16c-9b15c219cc3a.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e116b273-a000-4c06-a658-8e8b4d5b762e",
+    "fname": "清蒸银雪魚",
+    "normprice": 34.1,
+    "realprice": 30.0,
+    "detail": "清蒸银雪鱼，微辣鲜香。鱼肉嫩滑，红椒葱花点缀，白芝麻添香，蒸制锁住鲜美，适宜下饭，宴客之选。",
+    "fphoto": "http://localhost:9000/res/files/e116b273-a000-4c06-a658-8e8b4d5b762e.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "1e1580ac-cdb6-4f7e-9849-e6ee0aa09611",
+    "fname": "凉拌菜",
+    "normprice": 28.9,
+    "realprice": 22.5,
+    "detail": "凉拌菜，清淡爽口。三色小番茄西兰花黑木耳拌制，脆爽可口，下饭菜色诱人，宴客佳选。清淡口味，拌制做法，主料三色小番茄 适量，辅以西兰花 适量 黑木耳 适量，适合作为凉",
+    "fphoto": "http://localhost:9000/res/files/1e1580ac-cdb6-4f7e-9849-e6ee0aa09611.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "56f83b94-240b-47c8-a2b7-7b2804ffac58",
+    "fname": "海米烧莴笋",
+    "normprice": 29.6,
+    "realprice": 25.5,
+    "detail": "海米烧莴笋，咸鲜适口，莴笋脆嫩海米入味，炒制工艺主菜下饭首选，宴客家常两相宜。咸鲜口味，炒制做法，主料莴笋 两根 海米 一把，辅以姜 少许 干红辣椒 少许，适合作为",
+    "fphoto": "http://localhost:9000/res/files/56f83b94-240b-47c8-a2b7-7b2804ffac58.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "96afe229-6920-4d68-9ec2-5afd1a6860a1",
+    "fname": "春日蔬菜汤",
+    "normprice": 41.4,
+    "realprice": 36.0,
+    "detail": "春日蔬菜汤，清淡煮制。卷心菜与胡萝卜软滑，豌豆苗清新点缀，香菇增添香气，大虾增添鲜美，清淡汤品，早餐宵夜皆宜，营养健康下饭佳。",
+    "fphoto": "http://localhost:9000/res/files/96afe229-6920-4d68-9ec2-5afd1a6860a1.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "3e96eefc-4940-478c-9a01-13856d1cb749",
+    "fname": "醒狮黑金月饼",
+    "normprice": 48.0,
+    "realprice": 39.5,
+    "detail": "醒狮黑金月饼，黑金月饼外皮金黄酥脆，内陷黑芝麻核桃香浓，适口不腻，适合作为下午茶点或宴客佳品，口感丰富层次分明。",
+    "fphoto": "http://localhost:9000/res/files/3e96eefc-4940-478c-9a01-13856d1cb749.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "ad676613-012f-4eaa-a5ce-48d464a7fdf7",
+    "fname": "苋菜发糕",
+    "normprice": 11.6,
+    "realprice": 10.0,
+    "detail": "苋菜发糕，原味蒸制，苋菜与山药玉米粉结合，口感软糯适中，适宜下饭，早餐或午餐皆宜。原味口味，蒸制做法，主料苋菜 克 发酵母 克，辅以牛奶 毫升 水 毫升 山药玉米粉",
+    "fphoto": "http://localhost:9000/res/files/ad676613-012f-4eaa-a5ce-48d464a7fdf7.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "94c4e9e7-13bf-408a-b5ab-a7e1fd123591",
+    "fname": "芝士香肠吐司",
+    "normprice": 22.5,
+    "realprice": 19.0,
+    "detail": "芝士香肠吐司，原味烤制。软糯吐司搭配香脆火腿和浓郁芝士，早餐宵夜皆宜，开胃暖心。原味口味，烤制做法，主料吐司片 适量 火腿肠 适量，辅以芝士碎 适量，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/94c4e9e7-13bf-408a-b5ab-a7e1fd123591.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "9a311bb4-5b88-480d-9443-7d09af97054a",
+    "fname": "薄皮大馅素菜卷",
+    "normprice": 8.4,
+    "realprice": 6.5,
+    "detail": "薄皮大馅素菜卷，咸鲜适口，煎至两面金黄，外皮酥脆内馅软糯，搭配韭菜粉条虾皮，下饭绝佳，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/9a311bb4-5b88-480d-9443-7d09af97054a.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "4e4f56e2-027a-467a-9b6e-d08295005a99",
+    "fname": "打抛猪肉盖饭",
+    "normprice": 12.3,
+    "realprice": 9.5,
+    "detail": "打抛猪肉盖饭，微辣炒制，猪肉嫩滑，打抛叶清新提味，米饭下饭绝配，早餐宵夜皆宜。微辣口味，炒制做法，主料猪肉 ，辅以打抛叶 适量 蒜瓣 瓣 小米辣 颗 青瓜 片 煎蛋",
+    "fphoto": "http://localhost:9000/res/files/4e4f56e2-027a-467a-9b6e-d08295005a99.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "c3d53f47-27c2-4078-8daf-b30a0e668223",
+    "fname": "手抓饼香蕉披萨",
+    "normprice": 36.6,
+    "realprice": 28.0,
+    "detail": "手抓饼香蕉披萨，甜味烤制，香蕉与芝士甜蜜交织，黑芝麻点缀，蛋黄流心，松软适口，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/c3d53f47-27c2-4078-8daf-b30a0e668223.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "499f5b0b-92c9-4921-a6ae-de5027ec9b17",
+    "fname": "自制爽滑凉粉",
+    "normprice": 28.4,
+    "realprice": 24.0,
+    "detail": "自制爽滑凉粉，咸鲜爽口，绿豆淀粉凝结筋道爽滑，凉拌香菜蒜蓉花生米点缀，下饭早餐宴客皆宜。",
+    "fphoto": "http://localhost:9000/res/files/499f5b0b-92c9-4921-a6ae-de5027ec9b17.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "372abdc8-1a8a-411e-b4de-d762aaa01e87",
+    "fname": "戚风蛋糕",
+    "normprice": 56.2,
+    "realprice": 43.0,
+    "detail": "戚风蛋糕，奶香四溢。松软细腻，适宜下午茶点心，亦可宴客甜品，奶香浓郁，口感绵密，甜而不腻。",
+    "fphoto": "http://localhost:9000/res/files/372abdc8-1a8a-411e-b4de-d762aaa01e87.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "19b0f310-2aec-460c-bd00-5c7a1bca7d1c",
+    "fname": "板栗排骨焖饭",
+    "normprice": 18.0,
+    "realprice": 15.5,
+    "detail": "板栗排骨焖饭，软糯香浓，排骨与板栗同煮，胡萝卜增鲜，米饭吸收汤汁，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/19b0f310-2aec-460c-bd00-5c7a1bca7d1c.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "7e02a50e-cd9f-42c6-9c78-9090b689d91d",
+    "fname": "软皮绿豆饼",
+    "normprice": 49.1,
+    "realprice": 42.5,
+    "detail": "软皮绿豆饼，外皮酥脆内馅软糯，原味适口，适合早餐或下午茶时光，下饭佳选。原味口味，烤制做法，主料饼皮 中筋面粉  白糖  酵母粉  水  玉米油  泡打粉 ，辅以绿",
+    "fphoto": "http://localhost:9000/res/files/7e02a50e-cd9f-42c6-9c78-9090b689d91d.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a028dad1-16c0-4068-a1e5-65480a87ab80",
+    "fname": "黑豆绿豆赤小豆汤",
+    "normprice": 19.6,
+    "realprice": 16.0,
+    "detail": "黑豆绿豆赤小豆汤，原味煮制。黑豆绿豆赤小豆软糯弹牙，搭配纯净水煮制，清淡适口，是早餐佳品，下饭暖胃，宴客养生好选择。",
+    "fphoto": "http://localhost:9000/res/files/a028dad1-16c0-4068-a1e5-65480a87ab80.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0fe1ef41-7a55-4279-a611-85da53eb965b",
+    "fname": "牛肉柿子汤",
+    "normprice": 16.5,
+    "realprice": 14.5,
+    "detail": "牛肉柿子汤，原味炖煮。牛肉软糯，西红柿鲜香，葱花点缀，原汁原味，下饭早餐皆宜。原味口味，炖制做法，主料牛肉西红柿 适量，辅以葱花 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/0fe1ef41-7a55-4279-a611-85da53eb965b.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "29ffeb0a-05cb-4873-b288-0fa67fd0be8e",
+    "fname": "“银元宝”米饭",
+    "normprice": 20.0,
+    "realprice": 15.5,
+    "detail": "银元宝米饭，原味焖煮，大米软糯，纯净水增香，每日早餐或宴客佳选，下饭绝配。原味口味，焖制做法，主料大米 杯，辅以纯净水 杯，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/29ffeb0a-05cb-4873-b288-0fa67fd0be8e.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "fccf27c7-28ad-497d-aac6-285632635fb7",
+    "fname": "党归羊排炖土豆青萝卜",
+    "normprice": 31.6,
+    "realprice": 24.0,
+    "detail": "党归羊排炖土豆青萝卜，原味焖煮，羊排软糯，土豆青萝卜香甜，适宜下饭，宴客佳肴。原味口味，焖制做法，主料羊排 根 土豆 个 白萝卜 个，辅以党归 少许 水 大碗，适合",
+    "fphoto": "http://localhost:9000/res/files/fccf27c7-28ad-497d-aac6-285632635fb7.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "bb61272f-548b-4916-afaf-7aa938b4f523",
+    "fname": "什锦排骨焖饭",
+    "normprice": 10.1,
+    "realprice": 9.0,
+    "detail": "什锦排骨焖饭，软糯香滑，排骨与玉米、胡萝卜、豌豆完美融合，大米吸收汤汁，下饭绝配，宴客佳选。",
+    "fphoto": "http://localhost:9000/res/files/bb61272f-548b-4916-afaf-7aa938b4f523.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "557721b4-ab38-4753-b188-aac4ecb725b7",
+    "fname": "凉拌黄瓜",
+    "normprice": 31.1,
+    "realprice": 25.5,
+    "detail": "凉拌黄瓜，酸辣爽口，黄瓜脆嫩小米辣添香，拌黄瓜开胃解腻，下饭宵夜皆宜，拌黄瓜凉拌黄瓜凉拌黄瓜，酸辣口味，拌制做法，主料黄瓜 根，辅以小米辣 个，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/557721b4-ab38-4753-b188-aac4ecb725b7.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "9655959e-ea01-4672-9dfd-b533c24fd0ac",
+    "fname": "丝瓜尖拌菜",
+    "normprice": 25.7,
+    "realprice": 23.0,
+    "detail": "丝瓜尖拌菜，酸辣爽口，嫩滑爽脆，丝瓜尖与小胡萝卜、圣女果清新配伍，蒜蓉提香，下饭佳品，宴客宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/9655959e-ea01-4672-9dfd-b533c24fd0ac.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "c02e2b25-b8ac-4f79-b43b-2c2a6d29ec58",
+    "fname": "酸萝卜焖鱼",
+    "normprice": 50.9,
+    "realprice": 40.5,
+    "detail": "酸萝卜焖鱼，鱼肉嫩滑酸辣开胃，鱼骨酥烂易嚼，酸萝卜爽口解腻，适宜下饭，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/c02e2b25-b8ac-4f79-b43b-2c2a6d29ec58.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "47ffcda3-bd52-41c5-aeca-38472cf4dc62",
+    "fname": "酒酿炖鸡蛋",
+    "normprice": 12.8,
+    "realprice": 10.5,
+    "detail": "酒酿炖鸡蛋，甜香软糯，鸡蛋嫩滑酒酿香浓，红枣黄芪当归增补，适宜早餐下粥，宴客之选。甜香口味，炖制做法，主料酒酿 一小勺 生鸡蛋 一个，辅以红枣 若干 黄芪 两片 枸",
+    "fphoto": "http://localhost:9000/res/files/47ffcda3-bd52-41c5-aeca-38472cf4dc62.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "28169289-9fb2-4fd8-860d-30e3b0a6f321",
+    "fname": "美味炒饭",
+    "normprice": 16.1,
+    "realprice": 12.5,
+    "detail": "美味炒饭，米饭颗粒分明，蛋香四溢，彩椒葱花点缀，软硬适中，下饭佳品，早餐宵夜皆宜。原味口味，炒制做法，主料为米饭，配料可随意搭配，以鸡蛋及蔬菜为辅，米饭与配料的完美",
+    "fphoto": "http://localhost:9000/res/files/28169289-9fb2-4fd8-860d-30e3b0a6f321.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "a1295025-1e48-476b-b23a-0d0bfa6f7c68",
+    "fname": "鸡胸肉版椒盐小酥肉",
+    "normprice": 55.7,
+    "realprice": 46.5,
+    "detail": "鸡胸肉版椒盐小酥肉，外酥里嫩，椒盐味浓郁，咸香适口，鸡胸肉炸至金黄酥脆，下饭宴客两相宜，特别适合宵夜时光享用。",
+    "fphoto": "http://localhost:9000/res/files/a1295025-1e48-476b-b23a-0d0bfa6f7c68.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "08c94dc0-e9bf-4c6a-ba43-f35d25fefd79",
+    "fname": "排骨藕汤",
+    "normprice": 43.1,
+    "realprice": 37.5,
+    "detail": "排骨藕汤，咸鲜入味，排骨软糯莲藕绵滑，炖煮香浓，下饭早餐皆宜，宴客佳品。咸鲜口味，炖制做法，主料排骨  莲藕 ，辅以生姜 片 大葱 段，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/08c94dc0-e9bf-4c6a-ba43-f35d25fefd79.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "ef0355e5-c834-4ba3-b33e-2dc566b09f35",
+    "fname": "豆沙糯米糍",
+    "normprice": 22.3,
+    "realprice": 18.0,
+    "detail": "豆沙糯米糍，香甜软糯，糯米粉与玉米淀粉完美结合，蒸制而成，适合作为早餐或下午茶点，甜而不腻，美味可口。",
+    "fphoto": "http://localhost:9000/res/files/ef0355e5-c834-4ba3-b33e-2dc566b09f35.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "59fc1e9a-0ecf-4c31-b325-36a0b32ba459",
+    "fname": "拌芹菜花生",
+    "normprice": 25.4,
+    "realprice": 19.0,
+    "detail": "拌芹菜花生，脆爽入味。花生米爽口，芹菜清甜，红萝卜添丝丝脆感，凉拌更佳，下饭佳品。主料花生米 适量 芹菜 适量 红萝卜 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/59fc1e9a-0ecf-4c31-b325-36a0b32ba459.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "1c2e9386-8bd0-4ab8-b35a-7dc473696cde",
+    "fname": "排骨腊肠蒸饭",
+    "normprice": 19.9,
+    "realprice": 15.0,
+    "detail": "排骨腊肠蒸饭，软糯香滑，排骨与腊肠完美融合，米饭吸收汤汁，下饭绝佳，早餐宵夜皆宜。原味口味，蒸制做法，主料腊肠 适量 排骨 适量，辅以大米 适量 葱花 适量，适合作",
+    "fphoto": "http://localhost:9000/res/files/1c2e9386-8bd0-4ab8-b35a-7dc473696cde.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "8c27bcfb-61bf-42f8-bc50-adc672b2651c",
+    "fname": "奶香拉丝蜜豆吐司",
+    "normprice": 55.3,
+    "realprice": 41.0,
+    "detail": "奶香拉丝蜜豆吐司，香甜软糯，白糖高筋粉完美结合，烘焙香浓适口，早餐宵夜皆宜，甜蜜滋味唤醒味蕾。甜味口味，烤制做法，主料高筋粉 ，辅以白糖 ，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/8c27bcfb-61bf-42f8-bc50-adc672b2651c.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "d82b3819-e02e-4718-bed9-c150c45816cf",
+    "fname": "鸡胸肉猪肉脯",
+    "normprice": 30.2,
+    "realprice": 22.5,
+    "detail": "甜辣烤鸡胸肉猪肉脯，红曲粉点缀，外皮香脆内肉嫩滑，甜辣适口，下饭佳品，宴客必备。甜辣口味，烤制做法，主料猪肉  鸡胸肉 ，辅以红曲粉  白芝麻 适量，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/d82b3819-e02e-4718-bed9-c150c45816cf.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "9182e5e3-b260-4444-9dc9-1e0a1fd414b4",
+    "fname": "肥牛虾滑菌菇汤",
+    "normprice": 31.7,
+    "realprice": 26.5,
+    "detail": "肥牛虾滑菌菇汤，原味煮制，菌菇软糯肥牛嫩滑，葱花点缀，原味清淡，早餐宵夜皆宜。原味口味，煮制做法，主料肥牛 适量 虾滑 适量 菌菇 适量，辅以葱花 适量，适合作为汤",
+    "fphoto": "http://localhost:9000/res/files/9182e5e3-b260-4444-9dc9-1e0a1fd414b4.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0fb10326-3b73-4ae0-8bec-76ab79a29099",
+    "fname": "茄瓜擂皮蛋",
+    "normprice": 14.7,
+    "realprice": 12.0,
+    "detail": "茄瓜擂皮蛋，咸鲜爽口，茄子皮蛋软糯香滑，蒸制工艺保留食材原汁原味，下饭宴客两相宜，尤其适合凉爽晚餐时光。",
+    "fphoto": "http://localhost:9000/res/files/0fb10326-3b73-4ae0-8bec-76ab79a29099.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "28be1e9f-c808-477c-9c71-aa3d146a2a2a",
+    "fname": "薏米西洋菜猪杂汤",
+    "normprice": 29.6,
+    "realprice": 22.5,
+    "detail": "薏米西洋菜猪杂汤，猪杂软糯浸满汤汁，薏米清香解腻，生姜提味，原味煮制，清淡养胃，早餐宵夜皆宜，下饭佳选。",
+    "fphoto": "http://localhost:9000/res/files/28be1e9f-c808-477c-9c71-aa3d146a2a2a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "c4a7e0e6-5330-4626-ac23-72b751a02cdc",
+    "fname": "百香果柠檬虾",
+    "normprice": 45.7,
+    "realprice": 34.5,
+    "detail": "百香果柠檬煮虾，鲜甜开胃。虾肉嫩滑，百香果酸甜带果香，柠檬清新解腻，开胃佳品，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/c4a7e0e6-5330-4626-ac23-72b751a02cdc.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "b422d3aa-37ca-4253-80bf-2d68b061b94c",
+    "fname": "冬瓜肉沫炖粉条",
+    "normprice": 26.7,
+    "realprice": 21.5,
+    "detail": "冬瓜肉沫炖粉条，原味炖煮。粉条软糯，肉沫嫩滑，冬瓜清甜解腻，原汁原味下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/b422d3aa-37ca-4253-80bf-2d68b061b94c.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "53f64612-382e-4fbb-8d8e-d3a500f90c03",
+    "fname": "凉拌毛豆",
+    "normprice": 27.2,
+    "realprice": 23.5,
+    "detail": "凉拌毛豆，酸辣爽口，嫩滑爽脆，盐香微麻，下饭佳品，宵夜必备。酸辣口味，拌制做法，主料毛豆 斤，辅以煮毛豆 如下 盐 小勺 花椒 多粒 八角 个，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/53f64612-382e-4fbb-8d8e-d3a500f90c03.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "a14ae304-8991-478e-b173-b5fe501fd741",
+    "fname": "海鲜蒸米粉",
+    "normprice": 18.2,
+    "realprice": 14.0,
+    "detail": "海鲜蒸米粉，鲜美原味。蚝仔、鱿鱼、肉沫鲜嫩入味，搭配香菇萝卜干，蒜蓉酱提香，原汁原味下饭绝佳，宵夜佳选。",
+    "fphoto": "http://localhost:9000/res/files/a14ae304-8991-478e-b173-b5fe501fd741.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "c0ed5030-cb42-4bb3-b493-155a68163088",
+    "fname": "牛肉焖饭",
+    "normprice": 14.5,
+    "realprice": 11.5,
+    "detail": "牛肉焖饭，牛肉胡萝卜香菇焖煮，香米点缀，软糯适宜下饭，早餐宵夜皆宜。原味口味，焖制做法，主料牛肉 适量 胡萝卜 适量 洋葱 适量 香菇 适量，辅以葱花 适量 香米 ",
+    "fphoto": "http://localhost:9000/res/files/c0ed5030-cb42-4bb3-b493-155a68163088.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "87225596-c886-4e7c-9c6c-ebc116d267b0",
+    "fname": "巧克力流心蛋糕",
+    "normprice": 27.5,
+    "realprice": 22.5,
+    "detail": "巧克力流心蛋糕，香浓巧克力慕斯搭配细腻海绵蛋糕体，甜而不腻，适合作为下午茶或宵夜享用。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/87225596-c886-4e7c-9c6c-ebc116d267b0.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a0f98554-2c43-4484-86ad-365055eb38c2",
+    "fname": "砂锅素三鲜",
+    "normprice": 43.2,
+    "realprice": 36.0,
+    "detail": "砂锅素三鲜，鲜香软滑，三鲜菌菇与魔芋结，辅以香菇木耳油面筋，原味慢炖，软糯适口，下饭宴客两相宜，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/a0f98554-2c43-4484-86ad-365055eb38c2.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "756609fa-bc43-44e3-80ef-bd2ff597a272",
+    "fname": "咸肉炖春笋",
+    "normprice": 35.9,
+    "realprice": 32.0,
+    "detail": "咸肉炖春笋，咸香适口，笋肉相融，春笋清脆，咸肉醇厚，暖身下饭，早餐宵夜皆宜。是一道不错的热菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/756609fa-bc43-44e3-80ef-bd2ff597a272.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "cc4e6604-2a79-4c91-8aa8-f77a13375b80",
+    "fname": "电饭锅牌盖浇饭",
+    "normprice": 11.8,
+    "realprice": 10.0,
+    "detail": "电饭锅盖浇饭，米饭软糯，胡萝卜香菇增香添味，焖煮入味，下饭绝配，早餐午晚餐皆宜。咸香口味，焖制做法，主料大米 克，辅以胡萝卜 根 香菇 适量 水 毫升，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/cc4e6604-2a79-4c91-8aa8-f77a13375b80.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "82bb16ca-46b8-4b70-ad51-324426f0d4da",
+    "fname": "冬瓜鸡腿薏米去湿汤",
+    "normprice": 25.1,
+    "realprice": 22.5,
+    "detail": "冬瓜鸡腿薏米去湿汤，清淡炖煮，鸡腿软糯，冬瓜爽口，薏米白眉豆健脾去湿，适宜早晚清淡养生，下饭佳品。",
+    "fphoto": "http://localhost:9000/res/files/82bb16ca-46b8-4b70-ad51-324426f0d4da.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "e6d23542-f922-490e-8433-1262313bbf60",
+    "fname": "红茶奶酥月饼",
+    "normprice": 26.5,
+    "realprice": 22.5,
+    "detail": "红茶奶酥月饼，甜味酥饼，黄油炼乳蜂蜜奶香浓郁，红茶粉点缀，酥松可口，早餐宵夜皆宜。甜味口味，烤制做法，主料饼皮 低筋面粉 克 黄油 克 炼乳 克 蜂蜜 克 奶粉 克",
+    "fphoto": "http://localhost:9000/res/files/e6d23542-f922-490e-8433-1262313bbf60.png",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a4b61abf-3b2f-4c0b-a84a-114573eee279",
+    "fname": "鸡肉蔬菜汤",
+    "normprice": 16.0,
+    "realprice": 13.5,
+    "detail": "鸡肉蔬菜汤，咸鲜入味，鸡胸肉与胡萝卜生菜慢煮，汤浓鲜美适宜下饭，早餐午宴皆可。咸鲜口味，煮制做法，主料鸡胸肉 适量 番茄 一个，辅以生菜 适量 胡萝卜 适量 柠檬 ",
+    "fphoto": "http://localhost:9000/res/files/a4b61abf-3b2f-4c0b-a84a-114573eee279.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "2773b2a2-f229-4dbe-a825-5cae79ff3937",
+    "fname": "柿子汤圆",
+    "normprice": 10.3,
+    "realprice": 8.0,
+    "detail": "柿子汤圆，甜味佳品。软糯香甜，黑芝麻花生点缀，猪油糖浆煮制，甜蜜暖心，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/2773b2a2-f229-4dbe-a825-5cae79ff3937.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "88517105-6752-4838-9cf3-cd55ee9419cb",
+    "fname": "白萝卜胡萝卜鲜虾汤",
+    "normprice": 14.8,
+    "realprice": 13.0,
+    "detail": "白萝卜胡萝卜鲜虾汤，鲜甜爽口，白萝卜爽脆、胡萝卜软糯，鲜虾弹牙。清淡口味，鲜香扑鼻，暖身下饭佳品，早餐午宴皆宜。",
+    "fphoto": "http://localhost:9000/res/files/88517105-6752-4838-9cf3-cd55ee9419cb.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "34944b80-f134-4f22-bfd3-32b9f26568c5",
+    "fname": "鸭血粉丝汤",
+    "normprice": 14.1,
+    "realprice": 12.5,
+    "detail": "鸭血粉丝汤，咸鲜适口，鸭血嫩滑粉丝软糯，下饭佳品，早餐宵夜皆宜。咸鲜口味，煮制做法，主料鸭血 盒 鸡胗 适量煮好的 鸡肝 适量煮好的 粉丝 把 豆泡 个，辅以香菜 ",
+    "fphoto": "http://localhost:9000/res/files/34944b80-f134-4f22-bfd3-32b9f26568c5.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "f3401e71-9c1f-40b1-be83-814d04bb1995",
+    "fname": "自制早餐馄饨",
+    "normprice": 21.8,
+    "realprice": 18.5,
+    "detail": "自制早餐馄饨，牛里脊肉煮，姜葱提鲜，香滑软嫩，早餐宵夜皆宜，下饭绝配。咸鲜口味，煮制做法，主料牛里脊肉 适量，辅以姜粉 适量 葱花 适量，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/f3401e71-9c1f-40b1-be83-814d04bb1995.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "57162c43-3e4e-43e7-81bb-e60a6f10cace",
+    "fname": "土豆宽粉焖鸡",
+    "normprice": 41.2,
+    "realprice": 36.0,
+    "detail": "土豆宽粉焖鸡，鸡肉嫩滑，土豆软糯，宽粉筋道，家常热菜，下饭佳品。是一道不错的热菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/57162c43-3e4e-43e7-81bb-e60a6f10cace.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "24150a88-d021-4879-8f19-c73fb087c957",
+    "fname": "客家艾叶焖鸡饭",
+    "normprice": 13.1,
+    "realprice": 10.5,
+    "detail": "客家艾叶焖鸡饭，艾香四溢鸡肉软烂，搭配香喷喷的米饭，适宜下饭，早餐午后皆宜。是一道不错的主食，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/24150a88-d021-4879-8f19-c73fb087c957.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "a32d529e-5442-4f60-bff2-1bf8ea8b01bf",
+    "fname": "凉拌茄泥",
+    "normprice": 14.4,
+    "realprice": 12.5,
+    "detail": "凉拌茄泥，原味爽口。软滑茄泥，蒸制工艺保留本味，清新不腻，下饭菜色诱人，宴客小菜妙选，亦适于宵夜佐餐。",
+    "fphoto": "http://localhost:9000/res/files/a32d529e-5442-4f60-bff2-1bf8ea8b01bf.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "83108506-5d73-4813-9ac1-8d0857c8d2d4",
+    "fname": "蔓越莓蛋糕",
+    "normprice": 24.8,
+    "realprice": 18.5,
+    "detail": "蔓越莓蛋糕，奶香浓郁。细腻松软，烘烤间散发诱人香气，蛋糕体轻盈不腻，适合作为早餐或下午茶点，亦是宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/83108506-5d73-4813-9ac1-8d0857c8d2d4.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "db6a0689-8637-402c-bca7-5d3a8c06ccff",
+    "fname": "牛肉白菜煮年糕",
+    "normprice": 19.6,
+    "realprice": 15.5,
+    "detail": "牛肉白菜煮年糕，牛肉与白菜的鲜香，年糕的软糯，一口下肚满口留香，下饭绝配。原味口味，炒制做法，主料年糕 适量 白菜 适量，辅以牛肉 适量，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/db6a0689-8637-402c-bca7-5d3a8c06ccff.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "a0690f33-088f-4b0e-8f16-cf8bb6269125",
+    "fname": "琥珀核桃",
+    "normprice": 12.6,
+    "realprice": 11.0,
+    "detail": "琥珀核桃，核桃香脆甜滑，白芝麻点缀，外酥内软，甜而不腻，下饭绝佳，宴客小食。甜味口味，炸制做法，主料核桃 适量，辅以白芝麻 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/a0690f33-088f-4b0e-8f16-cf8bb6269125.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "2b4b3466-6014-456f-b48c-447bdab5f3cd",
+    "fname": "捞汁鱿鱼虾",
+    "normprice": 20.5,
+    "realprice": 18.5,
+    "detail": "捞汁鱿鱼虾，爽滑弹牙。主料鱿鱼虾仁，捞汁调味入味，海鲜鲜美口感爽滑，下饭宴客两相宜，宵夜佳品。是一道不错的凉菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/2b4b3466-6014-456f-b48c-447bdab5f3cd.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "062d2d23-9cae-4699-83bb-0c71fae95b61",
+    "fname": "酱香饼",
+    "normprice": 35.9,
+    "realprice": 28.0,
+    "detail": "酱香饼，外焦里嫩。饼香浓郁，外皮香脆内里软糯，适口宜人，下饭绝佳，早餐宵夜两相宜。是一道不错的小吃，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/062d2d23-9cae-4699-83bb-0c71fae95b61.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "02699957-cf19-4a18-ac16-bbb38a3196a9",
+    "fname": "早餐三明治",
+    "normprice": 8.9,
+    "realprice": 7.5,
+    "detail": "早餐三明治，原味酥脆，以面包片为主，辅以鲜嫩生菜、番茄和虾仁，搭配两颗软滑鸡蛋，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/02699957-cf19-4a18-ac16-bbb38a3196a9.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "7ed3dd9a-1017-4f29-ad62-c4af14e12c30",
+    "fname": "麦穗馒头",
+    "normprice": 9.4,
+    "realprice": 7.5,
+    "detail": "麦穗馒头色泽金黄，口感暄软，适合早餐或宴客，搭配豆浆豆浆风味更佳。主料面粉 克 水 克 酵母粉 克 南瓜粉 适量 原味 口味 数小时 耗时 初级 难度 麦穗馒头的做",
+    "fphoto": "http://localhost:9000/res/files/7ed3dd9a-1017-4f29-ad62-c4af14e12c30.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "55bf742e-acfa-4967-8864-32e286414572",
+    "fname": "荠菜春卷",
+    "normprice": 22.0,
+    "realprice": 19.0,
+    "detail": "荠菜春卷，清甜嫩滑，荠菜与香干香菇的清新搭配，煎制外酥里嫩，下饭早餐皆宜。其它口味，煎制做法，主料荠菜 适量 春卷皮 适量 香干 块 新鲜香菇 个，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/55bf742e-acfa-4967-8864-32e286414572.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "f24284b5-38a4-4079-b68c-168251306699",
+    "fname": "腊肠牛肉焖饭",
+    "normprice": 6.2,
+    "realprice": 5.5,
+    "detail": "腊肠牛肉焖饭，牛肉软糯，腊肠香浓，牛肉与米饭完美融合，香浓适口，下饭绝配，早餐宵夜皆宜。原味口味，焖制做法，主料牛肉 适量 腊肠 适量，辅以葱花 适量，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/f24284b5-38a4-4079-b68c-168251306699.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "1b526327-31e1-4e7e-91e2-14b57fc2689d",
+    "fname": "拉丝纳豆",
+    "normprice": 11.2,
+    "realprice": 9.5,
+    "detail": "拉丝纳豆，原味开胃。黄豆软糯，纳豆粉增添微香，早餐宵夜皆宜，轻咬即化，鲜美不腻，下饭佳选。原味口味，其他制做法，主料黄豆  水 适量，辅以纳豆粉 小袋，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/1b526327-31e1-4e7e-91e2-14b57fc2689d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e892901a-9102-4a0a-bac1-4940694f06c9",
+    "fname": "虎皮蛋糕卷",
+    "normprice": 46.1,
+    "realprice": 41.0,
+    "detail": "虎皮蛋糕卷，外皮金黄酥脆内里绵密，甜而不腻，适合作为下午茶点或早餐小甜点，清新解腻。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/e892901a-9102-4a0a-bac1-4940694f06c9.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "5680883f-5f58-4f4e-aed2-05f457aa173f",
+    "fname": "西葫芦鸡蛋蒸饺",
+    "normprice": 21.0,
+    "realprice": 18.0,
+    "detail": "西葫芦鸡蛋蒸饺，咸鲜嫩滑。西葫芦鸡蛋鲜嫩滑口，搭配虾皮葱花增香，蒸制而成，下饭早餐宴客皆宜。",
+    "fphoto": "http://localhost:9000/res/files/5680883f-5f58-4f4e-aed2-05f457aa173f.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "87d8a9c3-6b29-4748-ac11-2d617b4b9f4c",
+    "fname": "低脂低卡西葫芦鸡肉拌饭",
+    "normprice": 13.2,
+    "realprice": 11.0,
+    "detail": "低脂低卡西葫芦鸡肉拌饭，香辣炒制，鸡肉嫩滑西葫芦清脆，适合作为下饭菜，既健康又美味。",
+    "fphoto": "http://localhost:9000/res/files/87d8a9c3-6b29-4748-ac11-2d617b4b9f4c.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "270c4dd8-9bef-4241-b4cf-6e5490982f1d",
+    "fname": "苹果玉米沙拉",
+    "normprice": 23.2,
+    "realprice": 20.5,
+    "detail": "苹果玉米沙拉，酸甜适口，苹果香甜玉米软糯，拌上沙拉酱，清新爽口，既可下饭也能当早餐，轻食佳选。",
+    "fphoto": "http://localhost:9000/res/files/270c4dd8-9bef-4241-b4cf-6e5490982f1d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "28d77eb2-e563-469a-b573-212ca3c596d2",
+    "fname": "剁辣椒",
+    "normprice": 11.1,
+    "realprice": 9.0,
+    "detail": "剁辣椒，中辣腌菜。红辣椒小米椒线椒爽口，嫩姜蒜香脆，一口咬下辣中带香，下饭下酒两相宜，宴客下酒都可人。",
+    "fphoto": "http://localhost:9000/res/files/28d77eb2-e563-469a-b573-212ca3c596d2.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "84f33560-536e-4f6c-9f65-c2282b8bd3e3",
+    "fname": "红柚酸奶碗",
+    "normprice": 14.3,
+    "realprice": 11.5,
+    "detail": "红柚酸奶碗，酸甜爽口，红柚清新酸奶醇厚，核桃杂粮麦片点缀，早餐宵夜皆宜，清新解腻。酸甜口味，拌制做法，主料红柚 瓣 无糖酸奶 或希腊酸奶，辅以核桃 个 杂粮麦片 ，",
+    "fphoto": "http://localhost:9000/res/files/84f33560-536e-4f6c-9f65-c2282b8bd3e3.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "0e1d2f0e-e519-496b-8a41-4b1b5784387e",
+    "fname": "芝士烤贝贝南瓜",
+    "normprice": 27.9,
+    "realprice": 24.0,
+    "detail": "芝士烤贝贝南瓜，南瓜软糯香滑，马苏里拉芝士碎点缀，香浓诱人，下饭早餐皆宜，尤其适合温馨的周末家庭聚餐。",
+    "fphoto": "http://localhost:9000/res/files/0e1d2f0e-e519-496b-8a41-4b1b5784387e.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "6e2359ec-4fce-4a65-81f2-fdf792ade4d2",
+    "fname": "牛肉虾仁炒芦笋",
+    "normprice": 19.6,
+    "realprice": 16.5,
+    "detail": "牛肉虾仁炒芦笋，嫩滑鲜香，牛肉软糯虾仁弹牙，芦笋清脆爽口，原味炒制，下饭宴客两相宜，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/6e2359ec-4fce-4a65-81f2-fdf792ade4d2.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "99387d48-9532-4fbc-895d-d08c15f3acc5",
+    "fname": "糖醋里脊",
+    "normprice": 53.4,
+    "realprice": 46.5,
+    "detail": "糖醋里脊，外酥里嫩。酸甜适口，肉质鲜嫩，裹上一层薄薄的脆皮，适合下饭，也可作为宴客佳肴。是一道不错的热菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/99387d48-9532-4fbc-895d-d08c15f3acc5.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "eebc1eba-e858-4104-bc98-20b37bd3beb2",
+    "fname": "摩卡咖啡脆皮雪糕",
+    "normprice": 8.7,
+    "realprice": 7.0,
+    "detail": "摩卡咖啡脆皮雪糕，香甜滑顺，黑巧脆皮外酥内软，甜而不腻，适合作为下午茶点或宵夜，增添咖啡的香浓与雪糕的细腻。",
+    "fphoto": "http://localhost:9000/res/files/eebc1eba-e858-4104-bc98-20b37bd3beb2.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "6073bd81-9280-45bb-8d90-4acb53ce8042",
+    "fname": "苦菊沙拉",
+    "normprice": 27.8,
+    "realprice": 21.5,
+    "detail": "苦菊沙拉，酸咸适口，苦菊清新小番茄点缀，鸡蛋滑嫩拌以烤花生，清新爽口，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/6073bd81-9280-45bb-8d90-4acb53ce8042.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "7ba6aaf8-1993-4159-af57-d4237a084d71",
+    "fname": "奶油芝士蛋糕",
+    "normprice": 22.0,
+    "realprice": 17.5,
+    "detail": "奶油芝士蛋糕，丝滑浓郁。芝士与奶油融合，口感细腻，适合作为下午茶点或宴客甜点，清新不腻，甜而不燥。",
+    "fphoto": "http://localhost:9000/res/files/7ba6aaf8-1993-4159-af57-d4237a084d71.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "858eca86-1df5-49be-ab64-165d3e33bf25",
+    "fname": "冬瓜虾皮汤",
+    "normprice": 31.6,
+    "realprice": 25.5,
+    "detail": "冬瓜虾皮汤，清淡美味。冬瓜清脆，虾皮鲜香，保元汤增鲜提味，清淡不腻，适宜下饭，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/858eca86-1df5-49be-ab64-165d3e33bf25.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6eee269f-f80c-4968-b122-d03ffaf4bf02",
+    "fname": "卤肉饭",
+    "normprice": 22.1,
+    "realprice": 17.0,
+    "detail": "卤肉饭，五花肉焖煮，肥瘦相间，五香入味，软糯适口，下饭佳品，早餐宵夜皆宜。原味口味，焖制做法，主料五花肉 适量 鹌鹑蛋 适量，辅以生姜 适量 八角 适量 桂皮 适量",
+    "fphoto": "http://localhost:9000/res/files/6eee269f-f80c-4968-b122-d03ffaf4bf02.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "f3352469-db63-493f-8169-ed9013a8dc2a",
+    "fname": "麻婆豆腐皮蛋",
+    "normprice": 50.1,
+    "realprice": 40.5,
+    "detail": "麻婆豆腐皮蛋，中辣炒制。嫩豆腐搭配软滑皮蛋，肉沫增香，酥嫩适口，下饭佳品，宴客下酒两相宜。",
+    "fphoto": "http://localhost:9000/res/files/f3352469-db63-493f-8169-ed9013a8dc2a.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "3a5f4d15-c2f1-4fc1-bd75-8dfd9363a977",
+    "fname": "黄瓜皮炒肉沫",
+    "normprice": 33.7,
+    "realprice": 27.0,
+    "detail": "黄瓜皮炒肉沫，微辣鲜香。黄瓜爽脆，肉沫嫩滑，搭配小米辣与蒜苗提味，炒制快熟，下饭绝配。",
+    "fphoto": "http://localhost:9000/res/files/3a5f4d15-c2f1-4fc1-bd75-8dfd9363a977.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "041b1585-5be7-44e2-8dc5-a4147281d01e",
+    "fname": "三纹魚花朵",
+    "normprice": 26.4,
+    "realprice": 23.0,
+    "detail": "三纹魚花朵微辣凉菜，薄荷清新提味，三纹魚嫩滑可口，适合作为下饭菜，亦可早餐开胃。微辣口味，其他制做法，主料三纹魚 适量，辅以薄荷叶 片，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/041b1585-5be7-44e2-8dc5-a4147281d01e.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "3231dbef-8f9a-465d-a0ed-d70166a1ca3d",
+    "fname": "虾滑肥牛卷",
+    "normprice": 52.8,
+    "realprice": 47.5,
+    "detail": "虾滑肥牛卷，原味烧制，嫩滑弹牙，肥牛的醇厚与虾滑的弹嫩完美融合，下饭绝配，宴客佳选。原味口味，烧制做法，主料虾滑 适量 肥牛 适量，辅以葱花 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/3231dbef-8f9a-465d-a0ed-d70166a1ca3d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "f005c076-7376-414e-bd21-4a687a51fa47",
+    "fname": "咸蛋菜心豆腐掉秤汤",
+    "normprice": 20.2,
+    "realprice": 16.0,
+    "detail": "咸蛋菜心豆腐掉秤汤，咸香浓郁，嫩滑豆腐与菜心相得益彰，煮至入味，适合下饭，早餐或晚餐皆佳。",
+    "fphoto": "http://localhost:9000/res/files/f005c076-7376-414e-bd21-4a687a51fa47.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "9f697de0-572a-47da-9375-c5809e3f7644",
+    "fname": "凉拌猪心",
+    "normprice": 30.3,
+    "realprice": 26.0,
+    "detail": "凉拌猪心，五香入味。猪心嫩滑，五指毛桃小人参增香，开胃下饭菜，宴客宵夜两相宜。五香口味，炖制做法，主料猪心 个 水 适量，辅以五指毛桃 适量 小人参 根，适合作为凉",
+    "fphoto": "http://localhost:9000/res/files/9f697de0-572a-47da-9375-c5809e3f7644.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "34a54f57-3b19-4aee-a982-0fecb1efb9ec",
+    "fname": "新广式软皮月饼",
+    "normprice": 17.9,
+    "realprice": 14.0,
+    "detail": "新广式软皮月饼，外皮鸡蛋糖粉蜂蜜水调制，酥软香甜，内含抹茶牛乳馅，细腻顺滑，适合早餐或下午茶时光，宴客送礼两相宜。",
+    "fphoto": "http://localhost:9000/res/files/34a54f57-3b19-4aee-a982-0fecb1efb9ec.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "3e717857-8c16-4762-9097-36d4400c261b",
+    "fname": "南瓜蔬菜汤",
+    "normprice": 47.2,
+    "realprice": 37.5,
+    "detail": "南瓜蔬菜汤，原味煮制。贝贝南瓜软糯，西兰花嫩滑，豆腐滑嫩，木耳菌香，口蘑提鲜。原味清淡，暖身暖心，适宜下饭，早晚皆宜。",
+    "fphoto": "http://localhost:9000/res/files/3e717857-8c16-4762-9097-36d4400c261b.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "1f56a529-6701-4325-809d-e327438c7707",
+    "fname": "巧克力沙布列",
+    "normprice": 43.0,
+    "realprice": 35.0,
+    "detail": "巧克力沙布列，细腻巧克力融化于绵软欧包中，醇厚香滑，适合作为早餐或下午茶点，亦可搭配一杯热茶。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/1f56a529-6701-4325-809d-e327438c7707.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "1925b195-c74c-4e62-8b19-f58863d5bfbf",
+    "fname": "猪肝生滚枸杞叶",
+    "normprice": 21.3,
+    "realprice": 18.0,
+    "detail": "猪肝生滚枸杞叶，生滚清汤，猪肝瘦肉枸杞叶，生鸡蛋提鲜，煮熟后汤色鲜亮，枸杞叶清香，猪肝嫩滑，瘦肉爽口，清淡不腻，早餐宵夜皆宜，下饭佳品。",
+    "fphoto": "http://localhost:9000/res/files/1925b195-c74c-4e62-8b19-f58863d5bfbf.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "f72b5b5a-e659-40e6-924a-cbbc5ae024d8",
+    "fname": "咖喱土豆肉沫",
+    "normprice": 39.6,
+    "realprice": 30.5,
+    "detail": "咖喱土豆肉沫，浓郁咖喱包裹土豆与肉沫，软糯香滑，适宜下饭，早餐宵夜皆宜。原味口味，烧制做法，主料土豆 适量 胡萝卜 适量 肉沫 适量，辅以洋葱 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/f72b5b5a-e659-40e6-924a-cbbc5ae024d8.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "15cdd404-adf5-439c-bb4c-b6aaf4d3fc62",
+    "fname": "蒜黄炒腐竹",
+    "normprice": 34.8,
+    "realprice": 31.0,
+    "detail": "蒜黄炒腐竹，蒜香扑鼻，腐竹软糯蒜黄嫩滑，炒制过程香气四溢，下饭佳品，早餐宵夜皆宜。蒜香口味，炒制做法，主料蒜黄 一小把 腐竹 一小把，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/15cdd404-adf5-439c-bb4c-b6aaf4d3fc62.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "e1f02341-8bce-42c6-b2a2-a4b1f1c36204",
+    "fname": "黄豆酱焗海鲜",
+    "normprice": 37.4,
+    "realprice": 32.5,
+    "detail": "黄豆酱焗海鲜，海鲜鲜香，黄酱浓郁，小鱿鱼、虾、马头鱼搭配九层塔、蒜头、生姜，焗制而成，海鲜嫩滑，黄酱香浓，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/e1f02341-8bce-42c6-b2a2-a4b1f1c36204.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "7c7987c7-1d01-4b69-9875-a4fc2edc260e",
+    "fname": "芒果盘",
+    "normprice": 26.8,
+    "realprice": 21.5,
+    "detail": "芒果盘，清甜果香。芒果果肉细腻多汁，蓝莓增添酸甜，原味烹饪，清新解腻，早餐午间皆宜。原味口味，其他制做法，主料芒果 个，辅以蓝莓果 适量，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/7c7987c7-1d01-4b69-9875-a4fc2edc260e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "89f126fb-ff73-418e-b5d7-8eaf2ba66472",
+    "fname": "长崎松饼舒芙蕾",
+    "normprice": 26.4,
+    "realprice": 20.5,
+    "detail": "长崎松饼舒芙蕾，细腻松软，奶香浓郁，适合早餐或下午茶时光，口感轻盈适宜搭配咖啡或牛奶。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/89f126fb-ff73-418e-b5d7-8eaf2ba66472.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "20bf1e8e-f183-44d4-8f61-6919e71435bf",
+    "fname": "浙醋萝卜片",
+    "normprice": 22.5,
+    "realprice": 17.5,
+    "detail": "浙醋萝卜片，酸甜爽口，萝卜脆嫩，姜蒜小椒提香，酸辣适中，开胃下饭菜，下饭佳选。酸甜口味，其他制做法，主料胭脂萝卜 个，辅以姜片 适量 蒜片 适量 小辣椒 个，适合作",
+    "fphoto": "http://localhost:9000/res/files/20bf1e8e-f183-44d4-8f61-6919e71435bf.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "92b61f00-582e-48f3-aa36-38c69bbf9913",
+    "fname": "发菜肉丸汤",
+    "normprice": 18.5,
+    "realprice": 15.5,
+    "detail": "发菜肉丸汤，清淡汤羹。肉丸嫩滑，发菜爽滑，青菜点缀，小葱提香，清淡不腻，下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/92b61f00-582e-48f3-aa36-38c69bbf9913.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6e07ddab-a2ad-47d4-8b28-6d6003847b0e",
+    "fname": "自制豆腐脑",
+    "normprice": 10.6,
+    "realprice": 8.0,
+    "detail": "自制豆腐脑，软糯滑嫩，原味纯净，适宜早餐或宵夜，下饭佳品。原味口味，技巧制做法，主料黄豆 ，辅以水 ，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/6e07ddab-a2ad-47d4-8b28-6d6003847b0e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "06d30bf4-1bbd-4b32-be1a-b567774f822a",
+    "fname": "美味早餐",
+    "normprice": 20.1,
+    "realprice": 16.5,
+    "detail": "美味早餐，米饭软糯搭配海参南瓜，咸鲜适口，下饭绝佳，早餐宴客两相宜。咸鲜口味，其他制做法，主料米饭 碗，辅以海参 个 南瓜泥 适量，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/06d30bf4-1bbd-4b32-be1a-b567774f822a.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "163d6a44-0df2-43e9-9b34-8a4a6bc82c83",
+    "fname": "鸡骨草土茯苓薏米汤",
+    "normprice": 24.6,
+    "realprice": 22.0,
+    "detail": "鸡骨草土茯苓薏米汤，原味养生。主要食材鸡骨草、土茯苓、薏米，大骨熬煮，汤色清淡，口感细腻，适合清润养生，下饭佳品，适宜日常早餐或晚餐。",
+    "fphoto": "http://localhost:9000/res/files/163d6a44-0df2-43e9-9b34-8a4a6bc82c83.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "e082f8ca-b6d0-4db5-a55d-1db26dc5dd76",
+    "fname": "凉拌杏鲍菇",
+    "normprice": 29.2,
+    "realprice": 24.0,
+    "detail": "凉拌杏鲍菇，脆嫩爽口，蒜香浓郁，开胃下酒，下饭佳品，宵夜首选。主料杏鲍菇 适量，辅以大蒜 适量 香葱 适量 香菜梗 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/e082f8ca-b6d0-4db5-a55d-1db26dc5dd76.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "1223f891-b893-4682-a12c-29bda44ac86d",
+    "fname": "浙醋萝卜",
+    "normprice": 16.3,
+    "realprice": 12.5,
+    "detail": "浙醋萝卜，酸甜爽口。白萝卜脆嫩，浙醋调和，爽滑适口，佐餐下酒皆宜，宴客下酒两相宜。酸甜口味，其他制做法，主料白萝卜 个 红浙醋 适量，辅以姜 适量 蒜 适量 小红椒",
+    "fphoto": "http://localhost:9000/res/files/1223f891-b893-4682-a12c-29bda44ac86d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e188bb6e-b0e5-4889-8897-87039737b439",
+    "fname": "牛肉粒炒饭",
+    "normprice": 16.6,
+    "realprice": 13.5,
+    "detail": "牛肉粒炒饭，咸鲜适口，牛肉粒软糯弹牙，米饭粒粒分明香弹，早餐宵夜皆宜，下饭神器。咸鲜口味，炒制做法，主料剩米饭 一碗 酱牛肉或鲜牛肉 适量，辅以葱 适量 鸡蛋 一个",
+    "fphoto": "http://localhost:9000/res/files/e188bb6e-b0e5-4889-8897-87039737b439.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "40a76703-760d-44d1-b240-3cd45d4fd612",
+    "fname": "沙茶白萝卜牛肉丸",
+    "normprice": 28.0,
+    "realprice": 24.0,
+    "detail": "沙茶白萝卜牛肉丸，原味煮制，白萝卜爽脆嫩滑，牛肉丸软糯弹牙，肥牛鲜香，原味沙茶汤底，下饭佳品，宴客必备，宵夜首选。",
+    "fphoto": "http://localhost:9000/res/files/40a76703-760d-44d1-b240-3cd45d4fd612.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "6d775a64-b24e-49b7-a5c5-aa324a19518d",
+    "fname": "黄油年糕",
+    "normprice": 47.9,
+    "realprice": 37.0,
+    "detail": "黄油年糕，香滑细腻。黄油与牛奶糅合，奶香浓郁，搭配水磨糯米粉，口感细腻软糯，香浓适口，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/6d775a64-b24e-49b7-a5c5-aa324a19518d.png",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "2fd3edbf-d8e4-4c98-8a98-d8bba658cf55",
+    "fname": "七色杂粮米饭",
+    "normprice": 17.8,
+    "realprice": 15.0,
+    "detail": "七色杂粮米饭，七色米清香软糯，蒸煮间米粒分明，软硬适中，下饭佳品，早餐宵夜皆宜。清淡口味，蒸制做法，主料七色米 适量，辅以水 毫升，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/2fd3edbf-d8e4-4c98-8a98-d8bba658cf55.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "a341d664-7e63-4e34-ada4-b183ccbbd86b",
+    "fname": "碧绿凉拌豇豆",
+    "normprice": 25.4,
+    "realprice": 19.5,
+    "detail": "碧绿凉拌豇豆，微辣爽口，脆嫩豇豆搭配蒜蓉小红椒，清新解腻，下饭菜首选，宵夜佳品。微辣口味，拌制做法，主料豇豆 适量，辅以蒜蓉 适量 小红椒 个，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/a341d664-7e63-4e34-ada4-b183ccbbd86b.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "cac976fd-8388-4f3d-84ae-3248e4eb9d06",
+    "fname": "枣泥饼",
+    "normprice": 38.9,
+    "realprice": 29.0,
+    "detail": "枣泥饼甜香可口，酥软适中，枣香浓郁，适合早餐或宴客，香甜不腻。甜香口味，烤制做法，主料制成的传统面点，造型多种多样，有酥皮、健康改良做法等多种不同做法，自制枣泥饼，",
+    "fphoto": "http://localhost:9000/res/files/cac976fd-8388-4f3d-84ae-3248e4eb9d06.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "c77e9808-2128-4eb1-8ab2-8a24fc4f51ba",
+    "fname": "擂辣椒皮蛋",
+    "normprice": 30.3,
+    "realprice": 23.0,
+    "detail": "擂辣椒皮蛋，酸辣开胃。皮蛋搭配辣椒，蒜香浓郁，爽口不腻，拌入饭中，下饭佳品，宵夜必备。酸辣口味，拌制做法，主料辣椒 个 皮蛋 个，辅以大蒜 瓣，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/c77e9808-2128-4eb1-8ab2-8a24fc4f51ba.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "fcbc8435-8768-4094-8323-b7bfd42d241f",
+    "fname": "秋葵蛋炒饭",
+    "normprice": 26.7,
+    "realprice": 20.5,
+    "detail": "秋葵蛋炒饭，咸鲜适口，秋葵软糯鸡蛋嫩滑，米饭粒粒分明，下饭早餐佳选，宴客也佳。咸鲜口味，炒制做法，主料米饭 适量 秋葵 适量 鸡蛋 适量，辅以青豆角 适量 生抽 适",
+    "fphoto": "http://localhost:9000/res/files/fcbc8435-8768-4094-8323-b7bfd42d241f.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "66ae15ef-f1c3-4bb5-a9fa-4efc3cde4181",
+    "fname": "土豆鸡肉烩饭",
+    "normprice": 26.0,
+    "realprice": 19.5,
+    "detail": "土豆鸡肉烩饭，咸鲜适口，鸡腿肉与土豆软糯入味，烩饭香浓适中，下饭佳品，适合各类餐时食用。咸鲜口味，烩制做法，主料鸡腿肉  土豆 个，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/66ae15ef-f1c3-4bb5-a9fa-4efc3cde4181.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0215e03d-4ee0-45b9-ba23-e8fcc62de840",
+    "fname": "简单蛋炒饭",
+    "normprice": 15.9,
+    "realprice": 13.5,
+    "detail": "简单蛋炒饭，微辣炒制，鸡蛋与熟大米饭搭配火腿肠，软硬适中，葱花点缀，早餐宵夜皆宜。微辣口味，炒制做法，主料鸡蛋 适量 熟大米饭 适量 火腿肠 适量，辅以葱花 适量，",
+    "fphoto": "http://localhost:9000/res/files/0215e03d-4ee0-45b9-ba23-e8fcc62de840.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "2051b834-0623-4219-aa36-4ec9a7e190b9",
+    "fname": "洋芋擦擦",
+    "normprice": 49.5,
+    "realprice": 37.0,
+    "detail": "洋芋擦擦，咸鲜适口，土豆软糯，葱香浓郁，蒸制而成，下饭早餐两相宜，宴客亦佳。咸鲜口味，蒸制做法，主料土豆 个洋芋，辅以葱绿 适量 面粉 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/2051b834-0623-4219-aa36-4ec9a7e190b9.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "e1622f3d-85a9-4b49-9dbe-8eccf6146666",
+    "fname": "美味早餐：西葫芦鸡蛋饼",
+    "normprice": 45.1,
+    "realprice": 40.5,
+    "detail": "西葫芦鸡蛋饼，咸鲜适口，软糯香滑，鸡蛋饼外焦里嫩，西葫芦清甜解腻，适合作为早餐下饭之选，也可宴客。",
+    "fphoto": "http://localhost:9000/res/files/e1622f3d-85a9-4b49-9dbe-8eccf6146666.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "d76eb160-060d-486f-be8d-eac03df90a72",
+    "fname": "抹茶牛乳馅",
+    "normprice": 35.9,
+    "realprice": 30.5,
+    "detail": "抹茶牛乳馅，甜味细腻。抹茶粉与淡奶油融合，奶香浓郁，口感嫩滑，适合作为早餐或宴客甜点。",
+    "fphoto": "http://localhost:9000/res/files/d76eb160-060d-486f-be8d-eac03df90a72.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "bc15c58d-0d62-4ec2-a79d-d2c954e0beca",
+    "fname": "白灼阿根廷红虾",
+    "normprice": 28.7,
+    "realprice": 24.0,
+    "detail": "白灼阿根廷红虾，鲜甜爽滑。虾肉紧实弹，姜葱提鲜去腥，色泽诱人，下饭绝配，宴客佳选。咸鲜口味，煮制做法，主料阿根廷红虾  生姜 块 大葱 块，辅以味极鲜 毫升 菜籽油",
+    "fphoto": "http://localhost:9000/res/files/bc15c58d-0d62-4ec2-a79d-d2c954e0beca.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "5c071950-2ad2-43df-9be3-f9ee2c154f31",
+    "fname": "烤红薯",
+    "normprice": 15.5,
+    "realprice": 11.5,
+    "detail": "烤红薯，香甜软糯。红薯为主料，烤制而成，适宜下饭，温暖人心，早餐佳品，亦可宴客。原味口味，烤制做法，主料红薯 根，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/5c071950-2ad2-43df-9be3-f9ee2c154f31.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "bd0644f7-e560-4f7c-a8ce-f2b58560c913",
+    "fname": "酱黄瓜",
+    "normprice": 11.7,
+    "realprice": 9.5,
+    "detail": "酱黄瓜，爽脆解腻。黄瓜脆嫩，香菜小米辣提香，蒜姜增鲜。下饭开胃妙，早餐宵夜皆宜。主料黄瓜 斤，辅以香菜根 适量 小米辣 适量 蒜 适量 姜 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/bd0644f7-e560-4f7c-a8ce-f2b58560c913.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "28227f1c-179d-4743-8684-b0b6ec1375f0",
+    "fname": "羊排粉丝汤",
+    "normprice": 17.3,
+    "realprice": 14.5,
+    "detail": "羊排粉丝汤，酸辣开胃。羊排肉质鲜嫩，粉丝弹入味，煮熟汤色清澈酸辣适口，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/28227f1c-179d-4743-8684-b0b6ec1375f0.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "5647f7bb-01f5-43fe-80cf-9f0f5cd8990b",
+    "fname": "五香鸡蛋",
+    "normprice": 14.0,
+    "realprice": 11.0,
+    "detail": "五香鸡蛋，鸡蛋醇香，五香入味，卤制入骨，香滑可口，下饭绝配，早餐宵夜皆宜。五香口味，卤制做法，主料鸡蛋 个，辅以八角 个 花椒粒 适量 香叶 片 桅子果 个，适合作",
+    "fphoto": "http://localhost:9000/res/files/5647f7bb-01f5-43fe-80cf-9f0f5cd8990b.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "ed6823d8-037e-4780-b01f-48d4499d7107",
+    "fname": "番茄土豆疙瘩汤",
+    "normprice": 38.4,
+    "realprice": 29.5,
+    "detail": "番茄土豆疙瘩汤，咸鲜适口，番茄土豆软糯入味，疙瘩弹滑嫩，下饭早餐宴客皆宜。咸鲜口味，煮制做法，主料番茄 克 面粉 克，辅以土豆 克 水和面用 克，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/ed6823d8-037e-4780-b01f-48d4499d7107.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "155650aa-5056-4285-b3ff-8371ebc9d05d",
+    "fname": "红豆鲫鱼汤",
+    "normprice": 30.7,
+    "realprice": 24.5,
+    "detail": "红豆鲫鱼汤，咸鲜入味。鲫鱼细嫩，红豆软糯，慢火炖煮汤色清澈，适宜下饭，早餐宵夜皆宜。咸鲜口味，炖制做法，主料鲫鱼 条，辅以红豆 勺，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/155650aa-5056-4285-b3ff-8371ebc9d05d.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "ca2daf98-008b-4d7b-ad13-bcfb277967bb",
+    "fname": "椒盐羊排",
+    "normprice": 33.4,
+    "realprice": 28.0,
+    "detail": "椒盐羊排，外焦里嫩，羊排香酥咸鲜，青椒红椒洋葱姜香增味。下饭佳品，宴客必备。原味口味，炒制做法，主料羊排 适量，辅以青椒 适量 红椒 适量 洋葱 适量 生姜 适量，",
+    "fphoto": "http://localhost:9000/res/files/ca2daf98-008b-4d7b-ad13-bcfb277967bb.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "98c8ba34-8c54-4679-a4b0-478dd3f7e0be",
+    "fname": "猪脚焖芋仔",
+    "normprice": 24.7,
+    "realprice": 20.5,
+    "detail": "猪脚焖芋仔，软糯香滑，猪脚酥烂芋仔糯，原味焖煮，下饭佳品，宴客宵夜两相宜。原味口味，焖制做法，主料猪脚 适量 芋仔 适量，辅以生姜 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/98c8ba34-8c54-4679-a4b0-478dd3f7e0be.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "cfc7f54b-26d0-4d15-a994-a40620a7b8a6",
+    "fname": "紫菜虾仁炒饭",
+    "normprice": 6.9,
+    "realprice": 5.5,
+    "detail": "紫菜虾仁炒饭，原味炒制，紫菜虾仁鲜香滑嫩，米饭粒粒分明，软硬适中，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/cfc7f54b-26d0-4d15-a994-a40620a7b8a6.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ba46f0db-3ed8-4ff0-a6bd-2b740cab44b1",
+    "fname": "酥梨糖醋肉",
+    "normprice": 26.1,
+    "realprice": 19.5,
+    "detail": "酥梨糖醋肉，酸甜可口，外酥里嫩，鸡胸肉搭配翠冠梨、豌豆，炸至金黄。下饭佳品，宴客必备，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/ba46f0db-3ed8-4ff0-a6bd-2b740cab44b1.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "2a82d04b-e0fc-48a4-838e-83915a2b0f22",
+    "fname": "盐水鸭",
+    "normprice": 16.6,
+    "realprice": 13.0,
+    "detail": "盐水鸭，咸鲜入味，鸭腿煮至入骨脱肉，皮酥肉嫩，佐粥下酒两相宜，宴客小聚更显风雅。咸鲜口味，煮制做法，主料选得是鸭腿，没有用全鸭，主要是因为用鸭腿更简单方便操作。",
+    "fphoto": "http://localhost:9000/res/files/2a82d04b-e0fc-48a4-838e-83915a2b0f22.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "cd8a98cd-f0a4-4843-bd3d-18cecc43b814",
+    "fname": "山药莲子乌鸡汤",
+    "normprice": 36.3,
+    "realprice": 33.0,
+    "detail": "山药莲子乌鸡汤，乌鸡滋养，莲子山药软糯，原味煲煮，营养滋补，适宜宴客或早餐享用。原味口味，煲制做法，主料乌鸡 适量，辅以山药 适量 莲子 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/cd8a98cd-f0a4-4843-bd3d-18cecc43b814.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "57b09c74-fdd8-4ae6-b93d-1e11608c3e93",
+    "fname": "卤牛肉",
+    "normprice": 15.7,
+    "realprice": 13.5,
+    "detail": "卤牛肉，咸鲜入味。牛腱子肉炖至软糯，黄豆酱与甜面酱调和，下饭宴客两相宜，宵夜佳选。咸鲜口味，炖制做法，主料牛腱子肉 ，辅以黄豆酱 勺 甜面酱 勺，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/57b09c74-fdd8-4ae6-b93d-1e11608c3e93.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5b7d2689-8c5a-41b0-8aca-90225c06e6c4",
+    "fname": "辣豆腐低卡锅",
+    "normprice": 37.0,
+    "realprice": 29.5,
+    "detail": "辣豆腐低卡锅，豆腐嫩滑魔芋结软糯，金针菇香菇娃娃菜清香，原味煮制健康低脂，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/5b7d2689-8c5a-41b0-8aca-90225c06e6c4.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "f076e158-296a-423c-93b3-60152dfc2cea",
+    "fname": "口蘑牛肉焖饭",
+    "normprice": 14.3,
+    "realprice": 12.5,
+    "detail": "口蘑牛肉焖饭，牛肉与口蘑慢火细炖，软糯入味，牛肉酥烂口蘑鲜香，适宜下饭，早餐宵夜皆可。原味口味，焖制做法，主料牛肉 适量 口蘑 适量，辅以葱花 适量，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/f076e158-296a-423c-93b3-60152dfc2cea.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0e0e2b73-0dcc-47bd-9be7-b2792b9752f1",
+    "fname": "枣仁派",
+    "normprice": 21.7,
+    "realprice": 16.5,
+    "detail": "枣仁派，甜味烤制。红枣核桃蜂蜜少佐，外皮香脆内馅软糯，早餐宵夜皆宜，宴客下饭两相宜。",
+    "fphoto": "http://localhost:9000/res/files/0e0e2b73-0dcc-47bd-9be7-b2792b9752f1.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "5edbf0c5-b9d3-492b-8dc6-b7969500ff84",
+    "fname": "南瓜馒头",
+    "normprice": 20.2,
+    "realprice": 18.0,
+    "detail": "南瓜蒸馒头，原味软糯，南瓜香甜中和面食的寡淡，蒸法锁住营养，营养健康，早餐下粥下茶皆宜。原味口味，蒸制做法，主料面粉 ，辅以南瓜 ，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/5edbf0c5-b9d3-492b-8dc6-b7969500ff84.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "240d44d5-5b4f-4b52-9229-55fc81890ebe",
+    "fname": "蛋饺夜开花煮魔芋粉丝",
+    "normprice": 16.1,
+    "realprice": 14.0,
+    "detail": "蛋饺夜开花煮魔芋粉丝，清淡汤羹。蛋饺嫩滑，夜开花爽脆，魔芋粉丝软糯，煮制入味，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/240d44d5-5b4f-4b52-9229-55fc81890ebe.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "22904e82-69d0-4b95-907b-9f0f49edd3fe",
+    "fname": "麻辣水煮鱼",
+    "normprice": 52.6,
+    "realprice": 40.0,
+    "detail": "麻辣水煮鱼，酸辣鲜香，鱼片嫩滑，金汤酸酱提味，菠菜清爽，煮制而成，下饭宴客两相宜，宵夜佳选。",
+    "fphoto": "http://localhost:9000/res/files/22904e82-69d0-4b95-907b-9f0f49edd3fe.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "ffeebcb3-306f-407c-ad07-3c1602197747",
+    "fname": "清炖时蔬",
+    "normprice": 26.7,
+    "realprice": 22.0,
+    "detail": "清炖时蔬，丝瓜软滑，玉米笋胡萝卜嫩滑，清淡汤羹，煮制入味，适合下饭，早餐宵夜皆宜。清淡口味，煮制做法，主料丝瓜 根，辅以玉米笋 个 胡萝卜 个，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/ffeebcb3-306f-407c-ad07-3c1602197747.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "53344018-8c3d-4305-acf4-421ef8199371",
+    "fname": "肉丝炒黄花菜",
+    "normprice": 30.0,
+    "realprice": 25.5,
+    "detail": "肉丝炒黄花菜，咸鲜适口，鲜黄花菜嫩滑爽口，肉丝鲜香滑嫩，下饭绝配，早餐宵夜皆宜。咸鲜口味，炒制做法，主料鲜黄花菜 适量，辅以肉丝 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/53344018-8c3d-4305-acf4-421ef8199371.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "254fc723-faa5-4510-80e8-10ac065a6799",
+    "fname": "腊味蚕豆焖饭",
+    "normprice": 11.6,
+    "realprice": 10.0,
+    "detail": "腊味蚕豆焖饭，咸香入味，腊肉香肠与蚕豆土豆胡萝卜同煮，软糯香浓，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/254fc723-faa5-4510-80e8-10ac065a6799.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "a5fb4a63-039b-43da-986f-ac4cee48859a",
+    "fname": "番茄土豆蔬菜汤",
+    "normprice": 20.9,
+    "realprice": 15.5,
+    "detail": "番茄土豆蔬菜汤，原味煮制。番茄土豆软糯入味，白菜木耳嫩滑可口，原味下饭早餐皆宜，宴客宵夜两相宜。",
+    "fphoto": "http://localhost:9000/res/files/a5fb4a63-039b-43da-986f-ac4cee48859a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "ba7b477f-fb32-4cfc-8aef-e38d0b7c2b05",
+    "fname": "甜杆西兰花炒鸡排",
+    "normprice": 53.3,
+    "realprice": 44.0,
+    "detail": "甜杆西兰花炒鸡排，蒜香浓郁，鸡排外酥里嫩，西兰花清甜爽口，炒制方式锁住食材原鲜，下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/ba7b477f-fb32-4cfc-8aef-e38d0b7c2b05.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "c9ff363a-8c93-434d-a2cb-e15dc741c03b",
+    "fname": "老式面包(花生油版)",
+    "normprice": 20.6,
+    "realprice": 17.5,
+    "detail": "老式面包花生油版，甜味酥软，主面团与老面团结合，花生油香浓，适合作为早餐或宴客佳品，松软香滑，下饭美味。",
+    "fphoto": "http://localhost:9000/res/files/c9ff363a-8c93-434d-a2cb-e15dc741c03b.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "563e3d67-2c1c-4e67-acf8-de80bf78266d",
+    "fname": "低糖玉米饼干",
+    "normprice": 46.1,
+    "realprice": 37.5,
+    "detail": "低糖玉米饼干，原味酥松，玉米粉与中筋面粉完美结合，烤制过程中散发淡淡奶香，适合作为早餐或下午茶点，健康又美味。",
+    "fphoto": "http://localhost:9000/res/files/563e3d67-2c1c-4e67-acf8-de80bf78266d.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a339503a-7239-489a-84db-9754b015fe8d",
+    "fname": "茶香南瓜子",
+    "normprice": 8.7,
+    "realprice": 7.0,
+    "detail": "茶香南瓜子，五香烤制，南瓜子香脆可口，陈皮绿茶提味，盐糖调味，香郁开胃，下饭菜色诱人，亦可佐餐，宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/a339503a-7239-489a-84db-9754b015fe8d.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "264d2505-8c95-450f-9880-c790cd42e3c6",
+    "fname": "红糖烧饼",
+    "normprice": 38.3,
+    "realprice": 28.5,
+    "detail": "红糖烧饼，香甜软糯。中筋面粉与红糖交融，温水调和酵母发酵，芝麻花生碎点缀，煎制外酥里嫩，早餐佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/264d2505-8c95-450f-9880-c790cd42e3c6.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "a860864c-0127-4cca-87ba-3e83d3eb5e78",
+    "fname": "农家湘味锅巴",
+    "normprice": 15.7,
+    "realprice": 13.0,
+    "detail": "农家湘味锅巴，米饭为底咸鲜香，肥瘦肉末蒜香混合，外酥里嫩下饭绝妙，早餐宵夜皆宜。咸鲜口味，炸制做法，主料米饭 碗，辅以酸豆角  肥瘦馅  大瓣蒜 瓣，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/a860864c-0127-4cca-87ba-3e83d3eb5e78.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "c4e35485-6019-4313-9005-628d82322c09",
+    "fname": "驴打滚",
+    "normprice": 35.7,
+    "realprice": 28.5,
+    "detail": "驴打滚，甜味佳品。水磨糯米粉蒸，外裹黄豆粉，甜而不腻滑入口，糖水豆沙馅料点缀，蒸制工艺保留食材原味，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/c4e35485-6019-4313-9005-628d82322c09.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "57908bbb-5f68-4a83-b00c-51aff08d5aae",
+    "fname": "荔枝乌鸡汤",
+    "normprice": 23.9,
+    "realprice": 19.5,
+    "detail": "荔枝乌鸡汤，原味煲制。乌鸡软糯，荔枝红枣添香，原汁原味暖胃养颜，早餐宵夜皆宜。原味口味，煲制做法，主料乌鸡 适量，辅以荔枝 适量 红枣 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/57908bbb-5f68-4a83-b00c-51aff08d5aae.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6ff05f3b-d2e0-4baf-8c1e-dd22b825e386",
+    "fname": "抹茶红豆泥黄油三明治",
+    "normprice": 19.6,
+    "realprice": 15.5,
+    "detail": "抹茶红豆泥黄油三明治，香滑细腻，外层酥脆内馅绵密，适合作为下午茶点或早餐小食，甜而不腻，美味宜人。",
+    "fphoto": "http://localhost:9000/res/files/6ff05f3b-d2e0-4baf-8c1e-dd22b825e386.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "9f983f4d-20f8-43b8-9cce-5d805d46f8d8",
+    "fname": "陈皮鸽子汤",
+    "normprice": 17.8,
+    "realprice": 15.5,
+    "detail": "陈皮鸽子汤，咸鲜入味，鸽肉嫩滑，陈皮桂圆麦冬等药材助补，滋阴润肺，早餐佳品，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/9f983f4d-20f8-43b8-9cce-5d805d46f8d8.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "320fa07f-a099-490f-973a-9755f64d9c72",
+    "fname": "自制猪心",
+    "normprice": 19.5,
+    "realprice": 16.5,
+    "detail": "自制猪心，五香卤制。猪心软糯，葱姜提香，冰水浸泡去除腥味，下饭宴客两相宜，宵夜佳选。五香口味，卤制做法，主料猪心 个，辅以葱段 段 姜片 片 水 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/320fa07f-a099-490f-973a-9755f64d9c72.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "59ac8991-4e1e-4111-abb7-5a62c1a2f18e",
+    "fname": "口蘑烩虾仁",
+    "normprice": 30.6,
+    "realprice": 27.0,
+    "detail": "口蘑烩虾仁，鲜香原味。虾仁鲜嫩，口蘑软糯，炒制虾仁搭配口蘑，欧芹碎点缀提香，原味烹饪，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/59ac8991-4e1e-4111-abb7-5a62c1a2f18e.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "df773bf1-6745-4ed7-9dff-dbcbfcaf95d1",
+    "fname": "鸡蛋煎馒头",
+    "normprice": 15.1,
+    "realprice": 11.5,
+    "detail": "鸡蛋煎馒头，咸香嫩滑，馒头外焦里嫩，鸡蛋金黄流油。早餐佳品，下饭必备。其它口味，煎制做法，主料馒头 个，辅以鸡蛋 个，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/df773bf1-6745-4ed7-9dff-dbcbfcaf95d1.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "3db1cdef-3e3d-4bb6-a70a-7f1124922dfe",
+    "fname": "童子鸡汤",
+    "normprice": 46.1,
+    "realprice": 35.0,
+    "detail": "童子鸡汤，原味滋补。童子鸡嫩滑，清水煮制鲜美透彻，原汁原味，清淡养胃，适合早餐或宴客，暖心暖身。",
+    "fphoto": "http://localhost:9000/res/files/3db1cdef-3e3d-4bb6-a70a-7f1124922dfe.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "3f24382f-01e8-42ac-b46c-a6b3c27502c4",
+    "fname": "太妃焦糖普洱茶月饼",
+    "normprice": 19.7,
+    "realprice": 16.5,
+    "detail": "太妃焦糖普洱茶月饼，咸香酥软，普洱茶低糖馅料搭配焦糖太妃酱，橙皮丁点缀，饼皮黄油香滑，低筋面粉与杏仁粉的结合恰到好处，适宜下饭，宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/3f24382f-01e8-42ac-b46c-a6b3c27502c4.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "43ad6723-2c36-4d45-b591-5ea41eb7824d",
+    "fname": "娃娃菜炒玉米香肠",
+    "normprice": 48.2,
+    "realprice": 40.0,
+    "detail": "娃娃菜炒玉米香肠，清淡爽口，娃娃菜嫩滑玉米肠香糯，炒制工艺锁住原味，下饭宴客两相宜，尤其适合冬季暖身。",
+    "fphoto": "http://localhost:9000/res/files/43ad6723-2c36-4d45-b591-5ea41eb7824d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "58f7e090-46fd-4131-8012-fefe33dc1397",
+    "fname": "剁椒芋仔",
+    "normprice": 28.3,
+    "realprice": 21.5,
+    "detail": "剁椒芋仔，芋仔软糯芋香四溢，中辣剁椒添味增香，焖煮入味色泽诱人，下饭宴客两相宜，香飘满屋。中辣口味，焖制做法，主料芋仔 适量，辅以葱花 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/58f7e090-46fd-4131-8012-fefe33dc1397.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "b92223b0-ab56-431e-952a-2d64a02879f5",
+    "fname": "丝瓜汤",
+    "normprice": 32.2,
+    "realprice": 28.0,
+    "detail": "丝瓜汤清淡爽口，丝瓜嫩滑，蒜片提香，清淡小菜，下饭早餐佳选，亦可宴客。清淡口味，炒制做法，主料丝瓜 根，辅以蒜片 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/b92223b0-ab56-431e-952a-2d64a02879f5.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "89d12120-4ddc-47e7-a634-6cb6b99ae519",
+    "fname": "苏子月饼",
+    "normprice": 54.7,
+    "realprice": 44.5,
+    "detail": "苏子月饼，甜香酥软。苏子馅料包裹月饼，香甜不腻，适宜中秋宴客，香滑满口，回味无穷。甜香口味，烤制做法，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/89d12120-4ddc-47e7-a634-6cb6b99ae519.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "57e9d612-2edf-4ecc-9c8e-a26a0453a1c4",
+    "fname": "菠菜拌粉丝",
+    "normprice": 22.1,
+    "realprice": 19.5,
+    "detail": "菠菜拌粉丝，酸辣爽口，嫩滑可口，菠菜清脆粉丝弹，拌以小米辣蒜蓉，香麻微辣，下饭佳品，宴客宵夜两相宜。",
+    "fphoto": "http://localhost:9000/res/files/57e9d612-2edf-4ecc-9c8e-a26a0453a1c4.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "39d9201e-6651-4833-b859-01414f90f3de",
+    "fname": "菌菇排骨汤",
+    "normprice": 18.9,
+    "realprice": 17.0,
+    "detail": "菌菇排骨汤，原味炖煮。排骨与羊肚菌等菌菇软糯入味，营养丰富，香浓鲜美，早餐佳品，宴客上菜首选。",
+    "fphoto": "http://localhost:9000/res/files/39d9201e-6651-4833-b859-01414f90f3de.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "8ef0f7f0-b9b7-4f3c-b22f-d9a79cd499b4",
+    "fname": "家庭版风干牛肉干",
+    "normprice": 14.4,
+    "realprice": 11.5,
+    "detail": "家庭版风干牛肉干，咸香诱人，牛肉紧实弹，牛肉干蒸制，适合下饭，早餐宵夜皆宜。咸香口味，蒸制做法，主料牛板肉 ，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/8ef0f7f0-b9b7-4f3c-b22f-d9a79cd499b4.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "76a04308-367f-4fef-9f5b-c606e9cf3604",
+    "fname": "蒜蓉丝瓜粉丝煲",
+    "normprice": 52.9,
+    "realprice": 40.0,
+    "detail": "蒜蓉丝瓜粉丝煲，蒜香浓郁，丝瓜与粉丝软糯入味，焖煮适宜下饭，宴客下酒两相宜。蒜香口味，焖制做法，主料丝瓜 适量 粉丝 适量，辅以蒜蓉 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/76a04308-367f-4fef-9f5b-c606e9cf3604.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "6b6ee8c4-6d4a-44c9-be06-edf34ecc85c9",
+    "fname": "胡萝卜鸭腿汤",
+    "normprice": 41.3,
+    "realprice": 35.0,
+    "detail": "胡萝卜鸭腿汤，原汁原味。鸭肉嫩滑，鸭汤鲜美，胡萝卜软糯，煮至入味，早餐宵夜皆宜，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/6b6ee8c4-6d4a-44c9-be06-edf34ecc85c9.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "449de731-eb71-4814-8278-a0cc4c3d978c",
+    "fname": "拌香菜根",
+    "normprice": 16.3,
+    "realprice": 13.5,
+    "detail": "拌香菜根，咸鲜爽口。脆嫩香菜根，拌以特制酱汁，下饭早餐宴客皆宜，爽滑解腻。咸鲜口味，拌制做法，主料香菜 ，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/449de731-eb71-4814-8278-a0cc4c3d978c.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "ab879677-0f2e-4996-981c-5f7f3faa856f",
+    "fname": "巧克力月饼",
+    "normprice": 33.7,
+    "realprice": 27.5,
+    "detail": "巧克力月饼，甜香浓郁。饼皮香滑，巧克力馅细腻，软糯适中，早餐下午茶皆宜，亦可宴客之选。",
+    "fphoto": "http://localhost:9000/res/files/ab879677-0f2e-4996-981c-5f7f3faa856f.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "8ad42ae3-4d30-4f7b-908a-fa3a26b1b4a0",
+    "fname": "红焖鲤里段",
+    "normprice": 21.1,
+    "realprice": 16.0,
+    "detail": "红焖鲤里段，咸鲜入味。鲤鱼段肉质嫩滑，炖煮入味，搭配姜蒜提香，适宜下饭，宴客佳肴。咸鲜口味，炖制做法，主料鲤鱼段 适量，辅以生姜片 适量 蒜蓉 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/8ad42ae3-4d30-4f7b-908a-fa3a26b1b4a0.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "c9586c19-55a6-4c32-9d69-ca0325690ece",
+    "fname": "茄子土豆盖浇饭",
+    "normprice": 12.0,
+    "realprice": 10.0,
+    "detail": "茄子土豆盖浇饭，金龙鱼胚芽米做底，圆茄子与土豆焖煮，咸鲜适口，软糯香滑，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/c9586c19-55a6-4c32-9d69-ca0325690ece.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "d6618c9a-6c10-44b6-9d1a-51dd74ee0e33",
+    "fname": "炒凉粉",
+    "normprice": 23.0,
+    "realprice": 18.5,
+    "detail": "炒凉粉，酸咸入味，红薯凉粉软糯，搭配西瓜酱和大葱蒜香，下饭绝配，早餐宵夜皆宜。酸咸口味，焖制做法，主料红薯凉粉 ，辅以西瓜酱 勺 大蒜 瓣 大葱 段，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/d6618c9a-6c10-44b6-9d1a-51dd74ee0e33.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "74749b95-85e1-4e2c-a0e7-f8569639273e",
+    "fname": "糯米手指泡芙",
+    "normprice": 47.8,
+    "realprice": 42.0,
+    "detail": "糯米手指泡芙，香软绵密，糯米香浓，适合作为早餐或下午茶点，亦可宴客时的小甜点。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/74749b95-85e1-4e2c-a0e7-f8569639273e.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "c5fb66ff-5d96-46ef-9b2c-823db0fb8498",
+    "fname": "椒盐鸡腿",
+    "normprice": 48.4,
+    "realprice": 43.0,
+    "detail": "椒盐鸡腿，外酥里嫩，烤制而成。鸡腿香脆可口，蘸椒盐粉风味独特，下饭佳品，宴客首选。原味口味，烤制做法，主料鸡腿 适量，辅以鸡蛋 适量 红薯粉 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/c5fb66ff-5d96-46ef-9b2c-823db0fb8498.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "de3cf22c-268c-468b-89eb-60ec163f629c",
+    "fname": "凉拌藕片",
+    "normprice": 29.3,
+    "realprice": 25.5,
+    "detail": "凉拌藕片，原味脆爽。鲜藕切片清甜适口，西兰花胡萝卜点缀，蒜蓉调味，松软适口，下饭佳选。",
+    "fphoto": "http://localhost:9000/res/files/de3cf22c-268c-468b-89eb-60ec163f629c.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "f56f9d35-3f69-4e75-8f11-67181cb621fc",
+    "fname": "肉松小金砖",
+    "normprice": 21.1,
+    "realprice": 17.5,
+    "detail": "肉松小金砖，外酥内软肉松香，早餐宵夜皆宜，香浓滋味难忘怀。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/f56f9d35-3f69-4e75-8f11-67181cb621fc.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "5a562bc5-3b58-48b4-8d0c-fe4bc92a14f0",
+    "fname": "海鲜什锦蛋饺",
+    "normprice": 12.5,
+    "realprice": 9.5,
+    "detail": "海鲜什锦蛋饺，嫩滑蛋皮包裹丰富海鲜，蛋肉交融鲜香四溢，原味焖煮，下饭早餐佳选，宴客也合适。",
+    "fphoto": "http://localhost:9000/res/files/5a562bc5-3b58-48b4-8d0c-fe4bc92a14f0.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "fe478b7f-3e09-42ca-917d-d2a0afd7cf68",
+    "fname": "紅皮白萝卜拌海带丝",
+    "normprice": 14.8,
+    "realprice": 11.0,
+    "detail": "红皮白萝卜拌海带丝，微辣爽口，萝卜脆嫩海带丝爽滑，凉菜下酒拌面皆宜，宵夜必备佳品。微辣口味，拌制做法，主料红皮白萝卜 个，辅以海带丝 包，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/fe478b7f-3e09-42ca-917d-d2a0afd7cf68.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "40833a9a-9d30-4052-a6e7-138d40cc0215",
+    "fname": "醋溜白菜",
+    "normprice": 45.7,
+    "realprice": 37.5,
+    "detail": "醋溜白菜，白菜脆嫩微辣适口，红椒点缀提鲜，炒制快熟，下饭佳品，宴客宵夜皆宜。微辣口味，炒制做法，主料白菜 大片，辅以红辣椒 半个，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/40833a9a-9d30-4052-a6e7-138d40cc0215.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "d010be4c-2a98-45d5-8ef4-7a51b1e45420",
+    "fname": "电火锅版南瓜芝士煎饼",
+    "normprice": 15.8,
+    "realprice": 12.0,
+    "detail": "电火锅版南瓜芝士煎饼，软糯香滑，南瓜与大黄米面结合，马苏里拉奶酪碎点缀，早餐宵夜皆宜，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/d010be4c-2a98-45d5-8ef4-7a51b1e45420.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "101c5dd6-85db-46b3-a3fe-17fe475d8a0b",
+    "fname": "肉汁白萝卜",
+    "normprice": 51.9,
+    "realprice": 38.5,
+    "detail": "肉汁白萝卜，五花肉与白萝卜慢火焖煮，白萝卜软糯入味，五花肉酥烂醇香，下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/101c5dd6-85db-46b3-a3fe-17fe475d8a0b.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "f119cbcf-b144-4ced-a1b6-cbce735b00f1",
+    "fname": "芒果毛巾卷",
+    "normprice": 44.3,
+    "realprice": 39.0,
+    "detail": "芒果毛巾卷，细腻柔软，低筋面粉与牛奶黄油完美结合，煎至金黄，搭配新鲜芒果和蓝莓，早餐或下午茶时光的甜蜜享受。",
+    "fphoto": "http://localhost:9000/res/files/f119cbcf-b144-4ced-a1b6-cbce735b00f1.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "7d9d1eb0-2f5e-4140-8708-5f50bbcadc73",
+    "fname": "青瓜拌蟹柳",
+    "normprice": 27.0,
+    "realprice": 21.0,
+    "detail": "青瓜拌蟹柳，清新爽口，蟹柳嫩滑青瓜脆爽，拌以原味酱汁，开胃下饭，早餐宵夜皆宜。原味口味，拌制做法，主料蟹柳 适量，辅以青瓜 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/7d9d1eb0-2f5e-4140-8708-5f50bbcadc73.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "3a369af2-8018-43ca-8593-4dc7949bccd7",
+    "fname": "黑芝麻馒头",
+    "normprice": 25.3,
+    "realprice": 20.5,
+    "detail": "黑芝麻馒头，原味软糯，黑芝麻点缀，蒸制而成，适合作为早餐或宴客小点，香滑可口。原味口味，蒸制做法，主料面粉 ，辅以黑芝麻粉 ，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/3a369af2-8018-43ca-8593-4dc7949bccd7.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "9f901e55-c6eb-470a-9b40-9ee41556cc12",
+    "fname": "葱油饼(葱肉饼)",
+    "normprice": 27.3,
+    "realprice": 24.0,
+    "detail": "葱油饼葱肉饼，咸鲜适口，外酥里嫩，猪油葱香浓郁。早餐、下饭最佳选择，香脆美味。咸鲜口味，煎制做法，主料特筋面粉 克 酵母 克 盐 克 糖 克 无铝泡打粉 克可不加 ",
+    "fphoto": "http://localhost:9000/res/files/9f901e55-c6eb-470a-9b40-9ee41556cc12.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "7b6f7cf6-a45a-4c1e-8383-24ff12f524ba",
+    "fname": "番茄肥牛芝士焗饭",
+    "normprice": 17.3,
+    "realprice": 13.0,
+    "detail": "番茄肥牛芝士焗饭，奶香浓郁，米饭与番茄炒香，肥牛嫩滑，搭配马苏里拉芝士碎与芝士片，浓郁奶香中夹杂着芝士的丝滑，下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/7b6f7cf6-a45a-4c1e-8383-24ff12f524ba.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "5c38d4e8-ccc8-4782-9eb6-d3a60fbcf766",
+    "fname": "鱿鱼炒饭",
+    "normprice": 16.3,
+    "realprice": 12.5,
+    "detail": "鱿鱼炒饭，咸鲜适口。鱿鱼鲜嫩滑，米饭松软入味，炒制过程香气四溢，下饭佳品，早餐宵夜皆宜。咸鲜口味，炒制做法，主料剩米饭 适量，辅以鱿鱼 适量，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/5c38d4e8-ccc8-4782-9eb6-d3a60fbcf766.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "9fe0def5-183d-40e0-bc24-14a26baf32ff",
+    "fname": "快速极简版辣白菜",
+    "normprice": 11.8,
+    "realprice": 9.0,
+    "detail": "快速极简版辣白菜，酸辣爽口，白菜脆嫩，辣白菜料包提味，开胃下饭，宴客宵夜皆宜。酸辣口味，拌制做法，主料白菜 棵，辅以辣白菜料包 ，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/9fe0def5-183d-40e0-bc24-14a26baf32ff.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "dbe2ed79-5ac8-457b-a310-e9e33cbee35f",
+    "fname": "冷泡汁小龙虾",
+    "normprice": 14.9,
+    "realprice": 12.0,
+    "detail": "冷泡汁小龙虾，微辣开胃佳品，香辣小龙虾肉质紧实，搭配香菜点缀，开胃不油腻，下饭宵夜两相宜。微辣口味，其他制做法，主料小龙虾 适量，辅以香菜 适量，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/dbe2ed79-5ac8-457b-a310-e9e33cbee35f.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "98bbbc80-929d-4147-88ed-f8922489453b",
+    "fname": "燕麦麸皮花卷",
+    "normprice": 9.5,
+    "realprice": 8.0,
+    "detail": "燕麦麸皮花卷，原味蒸制，燕麦麸皮与白面粉完美融合，软糯香滑，早餐佳品，下饭之选，宴客亦宜。",
+    "fphoto": "http://localhost:9000/res/files/98bbbc80-929d-4147-88ed-f8922489453b.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "5e62b6a2-fdcc-49da-8a3b-066835e62e67",
+    "fname": "腊肉豌豆鸡蛋炒饭",
+    "normprice": 21.8,
+    "realprice": 19.5,
+    "detail": "腊肉豌豆鸡蛋炒饭，咸鲜适口，大米饭粒分明弹牙，腊肉丁香脆，豌豆鲜嫩，鸡蛋滑嫩，软硬适中，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/5e62b6a2-fdcc-49da-8a3b-066835e62e67.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ccbca94c-f844-4c00-b7e3-913ed7939bd5",
+    "fname": "三色米饭",
+    "normprice": 10.5,
+    "realprice": 8.5,
+    "detail": "三色米饭，大米、小米、燕麦米蒸煮，软糯香滑，搭配白开水，主食佳选，下饭早餐两相宜。原味口味，蒸制做法，主料大米 克 小米 克 燕麦米 克，辅以白开水 毫升，适合作为",
+    "fphoto": "http://localhost:9000/res/files/ccbca94c-f844-4c00-b7e3-913ed7939bd5.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "9fe9edb3-2224-410d-8623-2532630b2d9b",
+    "fname": "抹茶奶酪磅蛋糕",
+    "normprice": 19.0,
+    "realprice": 15.5,
+    "detail": "抹茶奶酪磅蛋糕，抹茶香浓奶酪丝滑，松软适中，午后甜点或宴客佳品，搭配下午茶时光。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/9fe9edb3-2224-410d-8623-2532630b2d9b.png",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "9e3c7325-7097-41fb-ba25-130920b030c4",
+    "fname": "玫瑰血麦馒头",
+    "normprice": 9.9,
+    "realprice": 9.0,
+    "detail": "玫瑰血麦馒头，原味蒸制，血麦粉软糯适中，玫瑰花添香，原味清甜，适宜早餐下粥下酒，亦可宴客点缀餐桌。",
+    "fphoto": "http://localhost:9000/res/files/9e3c7325-7097-41fb-ba25-130920b030c4.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "40713f5d-1586-4f73-83ea-fd391ccd1a92",
+    "fname": "黑芝麻南瓜馒头",
+    "normprice": 25.3,
+    "realprice": 20.5,
+    "detail": "黑芝麻南瓜馒头，原味蒸制，软糯香滑，南瓜的甜与黑芝麻的醇香完美融合，早餐佳品，亦可宴客，营养健康。",
+    "fphoto": "http://localhost:9000/res/files/40713f5d-1586-4f73-83ea-fd391ccd1a92.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "17432266-423b-4f50-9572-975f4ad58bdf",
+    "fname": "红丝绒五红月饼",
+    "normprice": 19.3,
+    "realprice": 14.5,
+    "detail": "红丝绒五红月饼，甜味酥饼，中筋面粉转化糖浆烘烤，五果八味融合，枣蓉莲蓉间点缀红丝，坚果果干点缀，月饼甜而不腻，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/17432266-423b-4f50-9572-975f4ad58bdf.png",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "3a058f97-a3cf-4e98-9cc6-151ca24abbb5",
+    "fname": "奶香椰蓉酥",
+    "normprice": 48.3,
+    "realprice": 42.0,
+    "detail": "奶香椰蓉酥，原味酥软，蛋黄低粉完美结合，椰蓉奶香浓郁，烤制金黄酥脆，早餐宵夜皆宜。原味口味，烤制做法，主料玉米油  椰蓉  蛋清 ，辅以低筋面粉  蛋黄 个，适合作",
+    "fphoto": "http://localhost:9000/res/files/3a058f97-a3cf-4e98-9cc6-151ca24abbb5.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "4076c010-ac5a-4178-a98f-a30c5d50743d",
+    "fname": "时蔬烤鸡胸肉",
+    "normprice": 33.3,
+    "realprice": 28.0,
+    "detail": "时蔬烤鸡胸肉，咸香入味，鸡胸肉外皮微焦里嫩多汁，搭配贝贝南瓜和西蓝花，红黄小番茄点缀，烤制过程香气四溢，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/4076c010-ac5a-4178-a98f-a30c5d50743d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "fee4f48e-4b6c-4419-9eb4-1b3ceadb7e96",
+    "fname": "海鲜炒饭",
+    "normprice": 25.7,
+    "realprice": 21.0,
+    "detail": "海鲜炒饭，原味炒制，米饭粒粒分明弹牙，搭配新鲜海鲜与青瓜玉米，开胃不油腻，下饭佳品，适合下饭宵夜。",
+    "fphoto": "http://localhost:9000/res/files/fee4f48e-4b6c-4419-9eb4-1b3ceadb7e96.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "2f5b80a4-bf58-4908-aa53-2a900ebd9fe0",
+    "fname": "酸萝卜猪蹄汤",
+    "normprice": 34.6,
+    "realprice": 28.5,
+    "detail": "酸萝卜猪蹄汤，酸咸适口，猪蹄软糯，芸豆海带嫩滑，萝卜爽脆，煮制入味，下饭宴客两相宜，老少皆宜。",
+    "fphoto": "http://localhost:9000/res/files/2f5b80a4-bf58-4908-aa53-2a900ebd9fe0.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "2a1813df-1be9-4038-94a7-b49fe42d58e6",
+    "fname": "香煎蛋米饼",
+    "normprice": 19.1,
+    "realprice": 16.5,
+    "detail": "香煎蛋米饼，咸鲜适口，蛋香浓郁米饼酥脆，煎至两面金黄，下饭佳品，早餐宵夜皆宜。咸鲜口味，煎制做法，主料剩米饭 适量 鸡蛋 适量，辅以胡椒粉 适量 芝麻 适量，适合作",
+    "fphoto": "http://localhost:9000/res/files/2a1813df-1be9-4038-94a7-b49fe42d58e6.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "09b0d6cc-bb88-41e3-b99c-fb8aa8398daa",
+    "fname": "海米冬瓜汤",
+    "normprice": 36.8,
+    "realprice": 32.0,
+    "detail": "海米冬瓜汤，清淡汤羹。海米冬瓜软滑，姜葱提鲜去腻，冬瓜清甜解腻，早餐宵夜皆宜。清淡口味，煮制做法，主料海米  冬瓜 ，辅以姜 片 葱 根 纯净水 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/09b0d6cc-bb88-41e3-b99c-fb8aa8398daa.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "532fa3ef-8c36-45f9-b10c-100c72f67c74",
+    "fname": "卤鸡爪",
+    "normprice": 30.9,
+    "realprice": 25.5,
+    "detail": "卤鸡爪，微辣下饭佳品。鸡爪软糯入味，搭配鸡蛋香滑，适合下饭宵夜，宴客也显大方。微辣口味，卤制做法，主料鸡爪 斤，辅以鸡蛋 个，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/532fa3ef-8c36-45f9-b10c-100c72f67c74.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "802fa763-db33-4ba4-9589-97b12ed2aa2c",
+    "fname": "芝麻五香烤饼",
+    "normprice": 25.6,
+    "realprice": 21.5,
+    "detail": "芝麻五香烤饼，咸香酥脆，面香四溢。辅以芝麻、花生、花椒面，烘烤间香气扑鼻，早餐宵夜皆宜，下饭下酒两相宜。",
+    "fphoto": "http://localhost:9000/res/files/802fa763-db33-4ba4-9589-97b12ed2aa2c.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "40502e16-f2e9-45dd-a846-682a49fc3a26",
+    "fname": "开胃白萝卜丝",
+    "normprice": 18.0,
+    "realprice": 14.0,
+    "detail": "开胃白萝卜丝，酸甜爽口。萝卜脆嫩香菜香，拌制凉菜，酸甜适口开胃佳，下饭拌凉茶点首选，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/40502e16-f2e9-45dd-a846-682a49fc3a26.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "0e929ff9-3818-4f7d-81ce-5c499bbf8d7a",
+    "fname": "羊肚菌椰子汤",
+    "normprice": 27.4,
+    "realprice": 21.5,
+    "detail": "羊肚菌椰子汤，原味原汁。菌菇软糯椰子滑，大骨汤底香浓绵密，原盅慢煮营养丰富，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/0e929ff9-3818-4f7d-81ce-5c499bbf8d7a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "3b12e25b-876b-4dcb-bb47-004e7a5ed359",
+    "fname": "牛油果芒果海鲜沙拉",
+    "normprice": 23.0,
+    "realprice": 18.0,
+    "detail": "牛油果芒果海鲜沙拉，果味十足，虾仁蟹柳爽滑可口，牛油果芒果清甜解腻，拌制海鲜爽脆，酸甜微凉，早餐宵夜皆宜，清新果香。",
+    "fphoto": "http://localhost:9000/res/files/3b12e25b-876b-4dcb-bb47-004e7a5ed359.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5172d1b6-92c5-44a2-8c39-5482707ceb7d",
+    "fname": "葱油手撕鸡",
+    "normprice": 28.6,
+    "realprice": 25.0,
+    "detail": "葱油手撕鸡，鸡肉嫩滑，洋葱姜葱提香，焖煮入味，下饭绝配，宴客佳选。葱香口味，焖制做法，主料鸡 适量，辅以洋葱 适量 生姜 适量 葱 适量，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/5172d1b6-92c5-44a2-8c39-5482707ceb7d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "e994f46e-e5c5-485e-a8c1-0c64ab4fc319",
+    "fname": "烧鹅濑粉",
+    "normprice": 21.5,
+    "realprice": 18.5,
+    "detail": "烧鹅濑粉，咸鲜适口，鹅肉香嫩，米粉软滑，下饭佳品，宴客宵夜两相宜。咸鲜口味，煮制做法，主料米粉 约汤碗量 烧鹅 数块，辅以菜芯 数棵，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/e994f46e-e5c5-485e-a8c1-0c64ab4fc319.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "e541d036-412e-4acf-9811-63232199fd06",
+    "fname": "拌皮芽子辣椒",
+    "normprice": 11.6,
+    "realprice": 9.0,
+    "detail": "拌皮芽子辣椒，酸辣爽口，皮芽子脆嫩青椒微辣，绝佳下饭菜，亦可作宴客凉菜，佐饭下酒两相宜。",
+    "fphoto": "http://localhost:9000/res/files/e541d036-412e-4acf-9811-63232199fd06.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e616ba59-d64e-4f74-ba32-e956f689670b",
+    "fname": "韭菜佃鱼春卷",
+    "normprice": 40.6,
+    "realprice": 36.0,
+    "detail": "韭菜佃鱼春卷，原味炸制，韭菜鲜嫩九肚鱼肉香滑，肉沫增香适中，咸香适口，下饭绝配，宴客佳选。",
+    "fphoto": "http://localhost:9000/res/files/e616ba59-d64e-4f74-ba32-e956f689670b.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "82d0f7f9-c153-4a9a-8591-f432cbdac8c9",
+    "fname": "橙香鸡翅",
+    "normprice": 49.7,
+    "realprice": 38.5,
+    "detail": "橙香鸡翅，咸甜风味，鸡中翅烤至外酥里嫩，橙子香甜增味，早餐宵夜皆宜，橙香四溢美味佳。咸甜口味，烤制做法，主料鸡中翅 斤，辅以橙子 一个，适合作为烘焙享用。",
+    "fphoto": "http://localhost:9000/res/files/82d0f7f9-c153-4a9a-8591-f432cbdac8c9.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "170a2990-274e-4d0f-9d2f-958240c06a7d",
+    "fname": "凉拌紫甘蓝",
+    "normprice": 25.9,
+    "realprice": 22.5,
+    "detail": "凉拌紫甘蓝，脆爽爽口，紫甘蓝黄瓜爽脆，大蒜小米椒香，白芝麻增香提味，下饭开胃妙，宵夜必备好搭档。",
+    "fphoto": "http://localhost:9000/res/files/170a2990-274e-4d0f-9d2f-958240c06a7d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "66e98168-67a9-4877-91cc-045ffbeb5ffe",
+    "fname": "蟹柳滑蛋",
+    "normprice": 52.3,
+    "realprice": 40.0,
+    "detail": "蟹柳滑蛋，咸鲜嫩滑，鸡蛋与蟹柳完美融合，煎至两面金黄，下饭早餐宴客两相宜，香滑美味人人夸。咸鲜口味，煎制做法，主料鸡蛋 个，辅以蟹柳 根，适合作为热菜享用。",
+    "fphoto": "http://localhost:9000/res/files/66e98168-67a9-4877-91cc-045ffbeb5ffe.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "536b5f47-cec1-4589-8bb6-0238e2de3569",
+    "fname": "冬瓜蘑菇汤",
+    "normprice": 27.2,
+    "realprice": 21.5,
+    "detail": "冬瓜蘑菇汤，清淡鲜美。冬瓜嫩滑，口蘑鲜香，煮汤软糯，清汤下饭早餐佳。咸鲜口味，煮制做法，主料口蘑 ，辅以冬瓜 ，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/536b5f47-cec1-4589-8bb6-0238e2de3569.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "9fc175c9-9b3d-4e4e-9fdd-bc2b7c5ece90",
+    "fname": "分心木煮鸡蛋",
+    "normprice": 26.2,
+    "realprice": 22.0,
+    "detail": "分心木煮鸡蛋，咸香适口，鸡蛋嫩滑，分心木增添独特风味，早餐宵夜皆宜，下饭佳选。咸香口味，煮制做法，主料鸡蛋 个，辅以分心木  水 适量，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/9fc175c9-9b3d-4e4e-9fdd-bc2b7c5ece90.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "4546c7ae-6e0f-4c77-bf25-2a2e712184c6",
+    "fname": "百香果蜜汁番茄",
+    "normprice": 27.6,
+    "realprice": 24.0,
+    "detail": "紫罗兰番茄酸甜爽口，五原黄柿黄罗曼柿嫩滑多汁，百香果蜜汁拌制，蜂蜜橙汁绵白糖增香，酸甜可口，开胃下饭菜，宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/4546c7ae-6e0f-4c77-bf25-2a2e712184c6.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "ba5814bc-8cd4-4cc4-8137-f60df45c3195",
+    "fname": "番茄紫菜蛋花汤",
+    "normprice": 40.2,
+    "realprice": 32.5,
+    "detail": "番茄紫菜蛋花汤，咸鲜汤品，鸡蛋嫩滑紫菜爽口，番茄鲜美开胃，煮沸香气四溢，适宜下饭早餐宵夜，清淡口味人人爱。",
+    "fphoto": "http://localhost:9000/res/files/ba5814bc-8cd4-4cc4-8137-f60df45c3195.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "7a68c1bd-fb50-46dc-b331-cad006e1dacb",
+    "fname": "鸡蛋玉米圣女果沙拉",
+    "normprice": 15.8,
+    "realprice": 13.5,
+    "detail": "鸡蛋玉米圣女果沙拉，清新凉拌。主要食材为鸡蛋、圣女果、玉米粒，爽口沙拉酱调味，健康开胃，适合早餐或下午茶时间。",
+    "fphoto": "http://localhost:9000/res/files/7a68c1bd-fb50-46dc-b331-cad006e1dacb.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "70466b0c-dc9a-4aa4-aa44-3457892f592e",
+    "fname": "苹果瘦肉汤",
+    "normprice": 20.2,
+    "realprice": 18.0,
+    "detail": "苹果瘦肉汤，清新果香，苹果与瘦肉细腻煮炖，汤汁浓郁顺滑，适宜早餐或下午茶时光，下饭佳品。",
+    "fphoto": "http://localhost:9000/res/files/70466b0c-dc9a-4aa4-aa44-3457892f592e.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "e5e964b7-0197-4df9-b07f-58a886cd735d",
+    "fname": "手撕鸡肉",
+    "normprice": 12.8,
+    "realprice": 10.0,
+    "detail": "手撕鸡肉，鲜嫩滑口。鸡肉蒸熟，肉质鲜嫩，枣杞生姜调味，搭配柠檬香菜，开胃下酒佳肴，宴客下酒两相宜。",
+    "fphoto": "http://localhost:9000/res/files/e5e964b7-0197-4df9-b07f-58a886cd735d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "b6c2e227-192f-49c1-bd7d-cf25cc6aae9f",
+    "fname": "萝卜丝丸子汤",
+    "normprice": 20.3,
+    "realprice": 16.0,
+    "detail": "萝卜丝丸子汤，原味煮制。萝卜膳食纤维与维生素，丸子肉质鲜嫩滑，营养均衡，下饭早餐皆可。原味口味，煮制做法，主料的汤品，具有营养均衡，增强体质、促进消化等功效。",
+    "fphoto": "http://localhost:9000/res/files/b6c2e227-192f-49c1-bd7d-cf25cc6aae9f.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "13b9f2c2-b923-436e-834f-568f2f2b6bd3",
+    "fname": "山药鸽子汤",
+    "normprice": 29.1,
+    "realprice": 22.0,
+    "detail": "山药鸽子汤，咸鲜炖煮，鸽肉软糯山药滋补，红枣芪参桂圆枸杞当归姜枣，养身佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/13b9f2c2-b923-436e-834f-568f2f2b6bd3.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "eabf8fde-c746-4a54-abfd-29d48d5e6463",
+    "fname": "虾饼",
+    "normprice": 20.9,
+    "realprice": 17.5,
+    "detail": "五香虾饼，外酥里嫩，虾肉鲜美，搭配五花肉碎，油香四溢，适合作为下饭菜，下酒下饭两相宜。",
+    "fphoto": "http://localhost:9000/res/files/eabf8fde-c746-4a54-abfd-29d48d5e6463.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "6404df76-c3ea-4b26-86d6-3971f674f2fd",
+    "fname": "墨鱼干花生排骨汤",
+    "normprice": 42.4,
+    "realprice": 36.0,
+    "detail": "墨鱼干花生排骨汤，原味煲煮。排骨、墨鱼干、花生软糯入味，汤色清澈，原汁原味，下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/6404df76-c3ea-4b26-86d6-3971f674f2fd.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "7ef8836f-90b9-4be5-a446-012b88415f24",
+    "fname": "洪瑞珍吐司",
+    "normprice": 45.4,
+    "realprice": 39.0,
+    "detail": "洪瑞珍吐司，奶香四溢。外皮酥脆，内里松软，烘烤至金黄诱人，早餐或下午茶时光的最佳伴侣，下饭之选。",
+    "fphoto": "http://localhost:9000/res/files/7ef8836f-90b9-4be5-a446-012b88415f24.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "99c26b50-17d2-4757-a7e2-771c5bbe7b2b",
+    "fname": "日式冬瓜裙带鲜虾菌菇汤",
+    "normprice": 39.3,
+    "realprice": 35.5,
+    "detail": "日式冬瓜裙带鲜虾菌菇汤，咸鲜适口，裙带菜与冬瓜、杏鲍菇、胡萝卜、熟虾综合慢煮，汤色清澈鲜美，营养丰富，冰糖提香，下饭宴客两相宜，清淡美味。",
+    "fphoto": "http://localhost:9000/res/files/99c26b50-17d2-4757-a7e2-771c5bbe7b2b.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "94424cf1-0b16-4ff3-a304-0142c58ffd1b",
+    "fname": "营养凉拌菜",
+    "normprice": 14.4,
+    "realprice": 12.0,
+    "detail": "营养凉拌菜，清淡爽口。胡萝卜香菇甜豆元葱红萝卜，柠檬增香，拌制即成，开胃下饭，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/94424cf1-0b16-4ff3-a304-0142c58ffd1b.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "0e67e686-aea0-4b88-b9a4-aea4c685a85b",
+    "fname": "姜粿饼",
+    "normprice": 26.1,
+    "realprice": 22.0,
+    "detail": "姜粿饼，甜辣双宠。软糯外皮包裹，生姜香甜滑嫩，红糖提鲜不腻，早餐宵夜皆宜。甜辣口味，煎制做法，主料生姜  糯米粉 ，辅以红砂糖 ，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/0e67e686-aea0-4b88-b9a4-aea4c685a85b.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "c6dfb910-f390-4e4c-9d22-a79ef23e5ab6",
+    "fname": "苦荞凉粉",
+    "normprice": 30.5,
+    "realprice": 27.0,
+    "detail": "苦荞凉粉，微辣开胃。爽滑细腻，苦中带甜，黄瓜蒜蓉点缀，清淡解腻，下饭早餐好伴侣。微辣口味，其他制做法，主料苦荞粉 碗 水 碗，辅以红椒圈 适量 蒜蓉 适量 黄瓜 适",
+    "fphoto": "http://localhost:9000/res/files/c6dfb910-f390-4e4c-9d22-a79ef23e5ab6.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "92f15179-16b0-467b-a302-2264ad392ae1",
+    "fname": "低卡青椒鸡蛋拌饭",
+    "normprice": 8.8,
+    "realprice": 6.5,
+    "detail": "低卡青椒鸡蛋拌饭，微辣炒制，米饭与鸡蛋嫩滑，青椒红椒提鲜增香，健康美味，下饭佳品，适合任何餐时刻。",
+    "fphoto": "http://localhost:9000/res/files/92f15179-16b0-467b-a302-2264ad392ae1.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "31b83cab-bdc3-42c4-8735-9ee50f7ecdb7",
+    "fname": "海肠捞饭",
+    "normprice": 14.4,
+    "realprice": 12.0,
+    "detail": "海肠捞饭，咸鲜爽口，海肠弹牙米粒松软，韭菜、梅花肉提鲜增香，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/31b83cab-bdc3-42c4-8735-9ee50f7ecdb7.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "fef7429e-d972-4dda-8d9d-b14def0c7534",
+    "fname": "醋泡黑豆",
+    "normprice": 27.4,
+    "realprice": 23.5,
+    "detail": "醋泡黑豆，原味爽口。黑豆软糯，炒制后酸甜适中，开胃下饭，适合宵夜和家常便饭。原味口味，炒制做法，主料黑豆 ，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/fef7429e-d972-4dda-8d9d-b14def0c7534.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "13914fe4-fe48-43d8-a54e-c4e8dec1302e",
+    "fname": "腊肠炒乌米饭",
+    "normprice": 20.4,
+    "realprice": 18.0,
+    "detail": "腊肠炒乌米饭，咸香适口，腊肠与乌米饭搭配炒制，软糯适中，下饭佳品，尤其适合宵夜与家常下饭菜。",
+    "fphoto": "http://localhost:9000/res/files/13914fe4-fe48-43d8-a54e-c4e8dec1302e.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "51a2c8ec-f19c-441a-913a-182f69abc600",
+    "fname": "裙带菜豆腐汤",
+    "normprice": 18.4,
+    "realprice": 14.0,
+    "detail": "裙带菜豆腐汤，咸鲜入味，干裙带菜与内酯豆腐煮制，鸡蛋虾米提鲜，香葱香菜点缀，清淡适宜下饭，早餐宵夜皆可。",
+    "fphoto": "http://localhost:9000/res/files/51a2c8ec-f19c-441a-913a-182f69abc600.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "d295b62b-131b-4b61-bff5-d61346d0eb75",
+    "fname": "春笋焖饭",
+    "normprice": 11.8,
+    "realprice": 10.5,
+    "detail": "春笋焖饭，原味呈现。春笋鲜嫩，五花肉软糯，腊肠香菇提香，香糯软滑，下饭早餐皆宜，宴客佳品。",
+    "fphoto": "http://localhost:9000/res/files/d295b62b-131b-4b61-bff5-d61346d0eb75.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "a9571371-9e3f-4858-bea1-526885ba92d0",
+    "fname": "四喜蒸饺",
+    "normprice": 18.7,
+    "realprice": 17.0,
+    "detail": "四喜蒸饺，咸鲜美味，肉馅裹满黑木耳胡萝卜，西兰花点缀清新，饺子皮包裹细腻，蒸制间香气四溢，下饭佳品，宴客不二之选。",
+    "fphoto": "http://localhost:9000/res/files/a9571371-9e3f-4858-bea1-526885ba92d0.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "c8de1022-8711-465b-9c9c-598173001ba6",
+    "fname": "鸡蛋肉沫粉条汤",
+    "normprice": 34.9,
+    "realprice": 28.0,
+    "detail": "鸡蛋肉沫粉条汤，原味煮制。嫩滑肉沫搭配软糯粉条，鸡蛋滑嫩，原汁原味，下饭佳品，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/c8de1022-8711-465b-9c9c-598173001ba6.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "8ef0d624-c4e2-4e48-9230-7aba2f28555f",
+    "fname": "可可燕麦脆",
+    "normprice": 13.5,
+    "realprice": 10.5,
+    "detail": "可可燕麦脆，原味脆爽。燕麦片烤至微焦，椰香坚果点缀，原味轻烤，早餐宵夜皆宜。原味口味，烤制做法，主料燕麦片 ，辅以椰子油  坚果 ，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/8ef0d624-c4e2-4e48-9230-7aba2f28555f.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "5a1c22ec-d746-42b7-ad25-de38abffc0d0",
+    "fname": "油炸萝卜丝粑",
+    "normprice": 30.2,
+    "realprice": 24.5,
+    "detail": "油炸萝卜丝粑，咸鲜酥脆，红萝卜与面粉完美融合，香菜点缀，下饭佳品，早餐宵夜皆宜。咸鲜口味，炸制做法，主料红萝卜 个 香菜 颗，辅以面粉 ，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/5a1c22ec-d746-42b7-ad25-de38abffc0d0.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "84bdc564-38a2-45e0-8d58-d23ec4817a4b",
+    "fname": "菌香萝卜肉圆汤",
+    "normprice": 20.5,
+    "realprice": 18.5,
+    "detail": "菌香萝卜肉圆汤，咸鲜适口，羊肚菌白萝卜软糯滑嫩，猪肉丸弹细腻，生姜小葱提香增鲜，枸杞点缀增色，煮汤慢炖，滋补暖身，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/84bdc564-38a2-45e0-8d58-d23ec4817a4b.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "caaf440c-526f-4d58-ad3c-acba1e83393d",
+    "fname": "凉拌豇豆",
+    "normprice": 13.2,
+    "realprice": 10.0,
+    "detail": "凉拌豇豆，原味爽口。豇豆清脆，蒜蓉红椒增香，生抽白醋提鲜，香油芝麻增香，原味下饭早餐皆宜。",
+    "fphoto": "http://localhost:9000/res/files/caaf440c-526f-4d58-ad3c-acba1e83393d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "9545a927-9f60-46c5-8474-444ecdafc39d",
+    "fname": "猪肠粉",
+    "normprice": 30.7,
+    "realprice": 25.5,
+    "detail": "猪肠粉，酱香软糯，蒸煮猪肠粉嫩滑适口，搭配适量生油和酱油，下饭早餐皆宜，尤其适合温馨的家常晚餐。",
+    "fphoto": "http://localhost:9000/res/files/9545a927-9f60-46c5-8474-444ecdafc39d.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "ad09af15-8be3-489b-b1c0-59a2fbbb9ad4",
+    "fname": "乳酪冰皮月饼",
+    "normprice": 52.3,
+    "realprice": 43.0,
+    "detail": "乳酪冰皮月饼，甜味冰皮，软糯细腻，搭配香滑乳酪与奥利奥碎，细腻丝滑，适合作为下午茶或宴客甜点，亦可当早餐小点。",
+    "fphoto": "http://localhost:9000/res/files/ad09af15-8be3-489b-b1c0-59a2fbbb9ad4.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "067598b6-fcb6-4fdb-b664-7e28dc0cdc03",
+    "fname": "炸油饼",
+    "normprice": 22.6,
+    "realprice": 17.5,
+    "detail": "炸油饼，外酥里软，包饺子面炸至金黄，下饭早餐皆宜，特别下饭。原味口味，炸制做法，主料包饺子面 克，辅以油 毫升，适合作为小吃享用。",
+    "fphoto": "http://localhost:9000/res/files/067598b6-fcb6-4fdb-b664-7e28dc0cdc03.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "175d0bd8-c7e8-493c-a500-92e1ca38878a",
+    "fname": "灰水蜜枣粽",
+    "normprice": 32.1,
+    "realprice": 24.0,
+    "detail": "灰水蜜枣粽，软糯清香，蜜枣与糯米完美融合，煮制而成，适宜下饭，早晚皆宜。原味口味，煮制做法，主料糯米 适量 蜜枣 适量，辅以稻草 适量 粽叶 适量 粽绳 适量，适合",
+    "fphoto": "http://localhost:9000/res/files/175d0bd8-c7e8-493c-a500-92e1ca38878a.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "8a3524ba-0b2d-4920-a07e-5ae8d12cb944",
+    "fname": "广式腊味煲仔饭",
+    "normprice": 9.1,
+    "realprice": 7.5,
+    "detail": "广式腊味煲仔饭，腊肠米饭，咸鲜美味，煲仔饭香气四溢，腊肠香糯，腊味浓郁，下饭佳品，宴客必备。",
+    "fphoto": "http://localhost:9000/res/files/8a3524ba-0b2d-4920-a07e-5ae8d12cb944.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ae823ff2-5249-434c-914f-8d58e14736f3",
+    "fname": "莲子薏米西米露",
+    "normprice": 30.3,
+    "realprice": 27.0,
+    "detail": "莲子薏米西米露，奶香浓郁，莲薏西米软糯弹，搭配纯牛奶顺滑，早餐宵夜皆宜，清甜解腻润肺。",
+    "fphoto": "http://localhost:9000/res/files/ae823ff2-5249-434c-914f-8d58e14736f3.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "258a3fd1-3916-4c9e-875c-d425163ff419",
+    "fname": "香菜拌肥牛",
+    "normprice": 24.5,
+    "realprice": 21.0,
+    "detail": "香菜拌肥牛，香辣爽口，肥牛嫩滑，香菜提香增味，下饭菜首选，宵夜佳品。香辣口味，拌制做法，主料肥牛 ，辅以香菜  小米辣 个 蒜 瓣，适合作为凉菜享用。",
+    "fphoto": "http://localhost:9000/res/files/258a3fd1-3916-4c9e-875c-d425163ff419.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "8a97b6a4-8d38-449d-8177-890b43bbc87e",
+    "fname": "爽口凉拌菜",
+    "normprice": 13.3,
+    "realprice": 12.0,
+    "detail": "爽口凉拌菜，原味拌制。嫩滑豌豆尖搭配黄彩椒片、彩色小柿子点缀，爽脆适口，清新解腻，下饭佳品，适合宵夜与便餐。",
+    "fphoto": "http://localhost:9000/res/files/8a97b6a4-8d38-449d-8177-890b43bbc87e.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5821c685-f829-4b6b-abf3-b715dc2b63bc",
+    "fname": "冷吃鸡肉卷",
+    "normprice": 12.9,
+    "realprice": 11.5,
+    "detail": "冷吃鸡肉卷，大鸡腿肉质紧实，鸡肉嫩滑，外皮微焦，一口咬下满是鸡香，下饭佳品，尤其适合宵夜时光享用。",
+    "fphoto": "http://localhost:9000/res/files/5821c685-f829-4b6b-abf3-b715dc2b63bc.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "54e799b0-a6e8-4716-90cd-49bbb63296e4",
+    "fname": "羊肉汤炖胡萝卜",
+    "normprice": 26.2,
+    "realprice": 21.0,
+    "detail": "羊肉汤炖胡萝卜，咸鲜入味，羊肉软糯，胡萝卜细腻，暖心暖胃，早餐佳品，下饭绝配。咸鲜口味，炖制做法，主料羊肉 克，辅以胡萝卜 个 油麦菜 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/54e799b0-a6e8-4716-90cd-49bbb63296e4.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "512cbd7a-898d-475a-bb74-4dbdb46ff692",
+    "fname": "腊肉土豆焖饭",
+    "normprice": 7.6,
+    "realprice": 6.0,
+    "detail": "腊肉土豆焖饭，咸鲜适口，腊肉土豆软糯入味，米饭香气四溢，下饭绝配，早餐宵夜皆宜。咸鲜口味，焖制做法，主料米 适量，辅以腊肉 适量 土豆 适量，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/512cbd7a-898d-475a-bb74-4dbdb46ff692.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "476c5cde-af08-437e-af30-3bfe4ff5bcbe",
+    "fname": "土豆泥",
+    "normprice": 13.9,
+    "realprice": 10.5,
+    "detail": "土豆泥，咸鲜适口。软糯细腻，蒸制过程土豆绵软入味，搭配适量牛奶和黄油，口感丰富。早餐佳品，下饭之选，亦可宴客。",
+    "fphoto": "http://localhost:9000/res/files/476c5cde-af08-437e-af30-3bfe4ff5bcbe.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "b4f59a87-b86c-4dd7-992e-c19ce80dcc34",
+    "fname": "蕃茄牛肉饭",
+    "normprice": 6.5,
+    "realprice": 5.5,
+    "detail": "蕃茄牛肉饭，咸鲜可口，牛肉软糯，蕃茄红亮，米饭粒粒分明，下饭绝配。咸鲜口味，煮制做法，主料蕃茄 适量 牛肉 适量 大米 适量，辅以小米 适量 红米 适量 洋葱 适量",
+    "fphoto": "http://localhost:9000/res/files/b4f59a87-b86c-4dd7-992e-c19ce80dcc34.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0542029d-31f2-4224-a061-4e3997f1f090",
+    "fname": "菠菜馒头",
+    "normprice": 18.3,
+    "realprice": 16.0,
+    "detail": "菠菜馒头，咸香软糯，菠菜与面粉完美融合，蒸制而成，暖身暖心，下饭早餐两相宜。咸香口味，蒸制做法，主料菠菜  面粉 ，辅以芝士片 片，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/0542029d-31f2-4224-a061-4e3997f1f090.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "bf296252-028a-4add-a086-f967f90eafbf",
+    "fname": "皮蛋猪肝菠菜汤",
+    "normprice": 19.3,
+    "realprice": 17.0,
+    "detail": "皮蛋猪肝菠菜汤，原味煮制。猪肝嫩滑皮蛋软糯，菠菜清鲜，原味煮制，下饭佳品，早餐宵夜皆宜。原味口味，煮制做法，主料菠菜 适量，辅以皮蛋 适量 猪肝 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/bf296252-028a-4add-a086-f967f90eafbf.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "93edd9e8-3cc2-458f-a6e6-e0a188f08531",
+    "fname": "自制泡椒笋",
+    "normprice": 23.0,
+    "realprice": 20.5,
+    "detail": "自制泡椒笋，清新爽口。主要用竹笋和泡椒，爽脆可口，开胃解腻，下饭佳选，适合各种场合。是一道不错的凉菜，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/93edd9e8-3cc2-458f-a6e6-e0a188f08531.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5f696448-2d3f-4afa-9db2-6494e430c255",
+    "fname": "豇豆拌木耳",
+    "normprice": 25.4,
+    "realprice": 19.5,
+    "detail": "豇豆拌木耳，香辣爽口，脆嫩滑爽，拌以蒜蓉和红绿辣椒，下饭菜色诱人，开胃下饭绝配。香辣口味，拌制做法，主料豇豆 一把 木耳 适量，辅以蒜 少许 红辣椒 两个 绿辣椒 ",
+    "fphoto": "http://localhost:9000/res/files/5f696448-2d3f-4afa-9db2-6494e430c255.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "92adc2e3-ba0b-46e3-9bb5-215b6c9e7f90",
+    "fname": "豆乳盒子蛋糕",
+    "normprice": 45.2,
+    "realprice": 40.5,
+    "detail": "豆乳盒子蛋糕，细腻豆香，轻盈绵密，适中甜度，早餐甜点首选，轻松愉悦的下午茶时光。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/92adc2e3-ba0b-46e3-9bb5-215b6c9e7f90.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "997113bb-a526-4228-9fd3-8f249ebedec0",
+    "fname": "蛋黄花酥",
+    "normprice": 47.5,
+    "realprice": 38.5,
+    "detail": "蛋黄花酥，外皮酥脆内陷香浓，咸蛋黄与红豆沙完美结合，猪油烘烤间香气四溢，早餐宵夜皆宜，酥而不腻风味独特。",
+    "fphoto": "http://localhost:9000/res/files/997113bb-a526-4228-9fd3-8f249ebedec0.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "b9cc3999-22e2-4dac-9ea2-8fc3f845d983",
+    "fname": "抹茶黑芝麻红枣馒头",
+    "normprice": 12.5,
+    "realprice": 11.0,
+    "detail": "抹茶黑芝麻红枣馒头，绵软香甜，黑芝麻红枣点缀，蒸制而成，适合早餐，口感软糯，香甜适口，营养丰富。",
+    "fphoto": "http://localhost:9000/res/files/b9cc3999-22e2-4dac-9ea2-8fc3f845d983.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "df5bbcb1-5906-4599-b925-f6a0c4c89d11",
+    "fname": "酒曲发面馒头",
+    "normprice": 16.6,
+    "realprice": 15.0,
+    "detail": "酒曲发面馒头，糟香满口，细腻柔软，蒸制而成，糯而不烂，适合早餐或宴客，搭配粥品更佳。",
+    "fphoto": "http://localhost:9000/res/files/df5bbcb1-5906-4599-b925-f6a0c4c89d11.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "1c5a8255-4027-4141-ae40-14aaff6e63c9",
+    "fname": "紫菜黄豆芽汤",
+    "normprice": 37.3,
+    "realprice": 29.0,
+    "detail": "紫菜黄豆芽汤，清淡煮制，黄豆芽嫩滑紫菜清鲜，一碗入喉满口生津，早餐宵夜皆宜，清淡养生好汤。",
+    "fphoto": "http://localhost:9000/res/files/1c5a8255-4027-4141-ae40-14aaff6e63c9.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "8300d752-6309-49d9-8579-e554d03882c9",
+    "fname": "朱雀汤",
+    "normprice": 41.3,
+    "realprice": 31.5,
+    "detail": "朱雀汤，咸香诱人。鸡蛋软滑，香油提味，早餐佳品，下饭暖胃。咸香口味，其他制做法，主料鸡蛋 一个，辅以香油 适量，适合作为汤羹享用。",
+    "fphoto": "http://localhost:9000/res/files/8300d752-6309-49d9-8579-e554d03882c9.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "a83affde-d4c7-4c6f-a298-9e13827724e7",
+    "fname": "豌豆粉",
+    "normprice": 13.7,
+    "realprice": 11.0,
+    "detail": "豌豆粉，细滑爽口，豌豆清香，下饭绝配，早餐宵夜皆宜。是一道不错的小吃，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/a83affde-d4c7-4c6f-a298-9e13827724e7.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "8e23f8e3-9d8d-4e07-90cd-ac9e4c0a4b33",
+    "fname": "人参羊肉汤",
+    "normprice": 20.0,
+    "realprice": 16.5,
+    "detail": "人参羊肉汤，原味炖煮。人参补而不燥，羊肉暖胃滋补，枸杞葱姜提鲜，原汁原味滋补佳品，暖身暖心暖胃，适宜早餐和宴客，清汤一碗，滋养身心。",
+    "fphoto": "http://localhost:9000/res/files/8e23f8e3-9d8d-4e07-90cd-ac9e4c0a4b33.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "04508fc5-e9b8-4cf4-ac78-92cdc456b10b",
+    "fname": "鲜奶牧场吐司",
+    "normprice": 16.6,
+    "realprice": 13.5,
+    "detail": "鲜奶牧场吐司，香甜软糯，奶香浓郁，适合作为早餐或宴客点心，每一口都是满满的奶香味。甜味口味，烤制做法，主料配方食材可以做个克吐司 高筋面粉 克日清山茶花 奶粉 克 ",
+    "fphoto": "http://localhost:9000/res/files/04508fc5-e9b8-4cf4-ac78-92cdc456b10b.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "ecb1cadc-434c-4d7a-a53b-d8fbc8ba57b6",
+    "fname": "低卡菜苔牛肉拌饭",
+    "normprice": 8.8,
+    "realprice": 7.0,
+    "detail": "低卡菜苔牛肉拌饭，咸鲜适口，菜苔爽脆牛肉嫩滑，炒制工艺锁住营养，下饭佳品，适合下饭菜。咸鲜口味，炒制做法，主料菜苔  熟牛肉 ，辅以白胡椒粉 ，适合作为主食享用。",
+    "fphoto": "http://localhost:9000/res/files/ecb1cadc-434c-4d7a-a53b-d8fbc8ba57b6.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0f5c5dc6-a47f-4a40-8314-ee7023680735",
+    "fname": "8寸蓝莓乳酪派",
+    "normprice": 38.3,
+    "realprice": 32.5,
+    "detail": "寸蓝莓乳酪派，甜味奶香浓郁。细腻丝滑的乳酪搭配新鲜蓝莓，细腻丝滑，香甜适口，细腻丝滑，适合早餐或下午茶时间，甜品首选。",
+    "fphoto": "http://localhost:9000/res/files/0f5c5dc6-a47f-4a40-8314-ee7023680735.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "2ff0551b-b120-4dc9-8dfa-29d6c1634780",
+    "fname": "猪油版桃酥",
+    "normprice": 37.2,
+    "realprice": 31.0,
+    "detail": "猪油版桃酥，外酥里嫩，猪油香浓，核桃碎点缀，香甜可口，早餐宵夜皆宜，酥而不腻，香脆适口。",
+    "fphoto": "http://localhost:9000/res/files/2ff0551b-b120-4dc9-8dfa-29d6c1634780.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "2f8d17e9-2e15-4a65-9347-35ba785c0543",
+    "fname": "黑椒鸡肉披萨",
+    "normprice": 38.9,
+    "realprice": 34.0,
+    "detail": "黑椒鸡肉披萨，香辣鸡肉粒点缀黑椒酱，外脆里嫩，适口开胃，下饭宴客两相宜。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/2f8d17e9-2e15-4a65-9347-35ba785c0543.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "3526ecce-c363-4fa4-a843-07f54781aaec",
+    "fname": "蛋黄酱薯角培根披萨",
+    "normprice": 29.9,
+    "realprice": 27.0,
+    "detail": "蛋黄酱薯角培根披萨，咸香酥脆，培根土豆奶酪芝士融合，早餐宵夜皆宜，下饭宴客两相宜。咸香口味，烧制做法，主料高粉 克 冰水 克 玉米油 克 糖 克 盐 小匙 酵母粉 ",
+    "fphoto": "http://localhost:9000/res/files/3526ecce-c363-4fa4-a843-07f54781aaec.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "31874487-9204-4be0-a5e8-9a8f97a3c8d0",
+    "fname": "可可蝴蝶酥",
+    "normprice": 37.5,
+    "realprice": 29.5,
+    "detail": "可可蝴蝶酥，巧克力香浓，外脆内软，适合作为下午茶点或早餐享用，甜而不腻，百搭各场景。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/31874487-9204-4be0-a5e8-9a8f97a3c8d0.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "8ee46cf1-7f4c-42f6-9dd5-d500bfe2095d",
+    "fname": "丹麦手撕面包",
+    "normprice": 45.2,
+    "realprice": 35.0,
+    "detail": "丹麦手撕面包，甜味酥软，烤制工艺，早餐宵夜两相宜，松软不腻，甜蜜开胃。甜味口味，烤制做法，主料高筋粉  细砂糖  酵母  奶粉  鸡蛋  水  炼奶  牛奶  盐 ",
+    "fphoto": "http://localhost:9000/res/files/8ee46cf1-7f4c-42f6-9dd5-d500bfe2095d.png",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "5fdfac4c-89d0-4185-86e4-ada2be5a0d76",
+    "fname": "土豆泥芝士挞",
+    "normprice": 25.0,
+    "realprice": 20.5,
+    "detail": "土豆泥芝士挞，软糯香滑，烤制外皮酥脆内里绵密，马苏里拉芝士碎点缀，早餐宵夜皆宜，下饭宴客两相宜。",
+    "fphoto": "http://localhost:9000/res/files/5fdfac4c-89d0-4185-86e4-ada2be5a0d76.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "406d08e1-9659-470d-9695-b8f4d1de9b1e",
+    "fname": "番茄肉酱披萨",
+    "normprice": 47.7,
+    "realprice": 41.5,
+    "detail": "番茄肉酱披萨，咸鲜浓郁，烤制外皮酥脆内里多汁，小香肠与青豆点缀，甜玉米增添清爽，适合下饭，早餐宵夜皆宜。",
+    "fphoto": "http://localhost:9000/res/files/406d08e1-9659-470d-9695-b8f4d1de9b1e.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "42b01f0b-7c2a-47af-b651-dd9c7623409c",
+    "fname": "抹茶戚风",
+    "normprice": 51.3,
+    "realprice": 38.5,
+    "detail": "抹茶戚风，细腻绵密。抹茶清香，搭配细腻戚风，清新不甜，适合作为早餐或下午茶点，亦或是宴客之选。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/42b01f0b-7c2a-47af-b651-dd9c7623409c.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a6f757c8-7a50-484a-9c9c-e976a10cb6f5",
+    "fname": "奶油抱抱卷",
+    "normprice": 22.9,
+    "realprice": 18.0,
+    "detail": "奶油抱抱卷，细腻奶油包裹香滑蛋糕，甜而不腻，适合作为早餐或下午茶点，温馨美味。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/a6f757c8-7a50-484a-9c9c-e976a10cb6f5.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "ae8d86a4-9237-4b6b-a132-79ef71bf2711",
+    "fname": "可可黄油酥粒",
+    "normprice": 41.8,
+    "realprice": 32.5,
+    "detail": "可可黄油酥粒，细腻可可粉搭配金黄酥粒，浓郁黄油香，适合作为早餐或下午茶点，口感丰富层次分明。是一道不错的烘焙，值得一试。",
+    "fphoto": "http://localhost:9000/res/files/ae8d86a4-9237-4b6b-a132-79ef71bf2711.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "f54f04a5-9322-4769-a117-c9b32a294e15",
+    "fname": "蝶豆花粉枣泥饼",
+    "normprice": 22.4,
+    "realprice": 17.5,
+    "detail": "蝶豆花粉枣泥饼，甜香酥软，枣泥与面粉完美融合，酵母粉与泡打粉助其蓬松，早餐或宴客皆宜。",
+    "fphoto": "http://localhost:9000/res/files/f54f04a5-9322-4769-a117-c9b32a294e15.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "8786bb27-4a73-4b0b-9f01-08571eaaa107",
+    "fname": "古早蛋糕",
+    "normprice": 29.1,
+    "realprice": 24.0,
+    "detail": "古早蛋糕，松软香甜。低筋面粉与鸡蛋细腻融合，牛奶与玉米油完美搭配，口感松软，适合下午茶或宴客，甜品优选。",
+    "fphoto": "http://localhost:9000/res/files/8786bb27-4a73-4b0b-9f01-08571eaaa107.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "c2827443-388c-4f85-8721-810778aab433",
+    "fname": "奶香烤馒头",
+    "normprice": 39.4,
+    "realprice": 31.5,
+    "detail": "奶香烤馒头，甜香软糯，牛奶与酵母的完美结合，烤制间散发浓郁奶香，早餐佳品，亦可宴客，甜蜜滋味温暖人心。",
+    "fphoto": "http://localhost:9000/res/files/c2827443-388c-4f85-8721-810778aab433.jpg",
+    "category": "烘焙",
+    "status": 1
+  }
+]

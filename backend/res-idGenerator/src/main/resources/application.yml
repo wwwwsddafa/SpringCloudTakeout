@@ -1,0 +1,121 @@
+server:
+  port: 8090
+
+#idGenerator:
+#  dateFormatter: "yyyy-MM-dd HH:mm:ss.SSS" # 自定义日期格式化模板
+
+
+spring:
+  profiles:
+    active: dev  # 默认激活开发环境
+  cloud:
+    nacos:
+      config: #配置中心配置，只要有这个配置，则服务注册发现也都配置好了
+        refresh-enabled: true  # 默认就是 true，但如果被显式设为 false 则不会刷新
+        # 1. 原先 bootstrap.yml 中的配置迁移到此处
+        server-addr: localhost:8848
+        namespace: public
+        group: DEFAULT_GROUP
+        #        username: nacos
+        #        password: aaaa
+        file-extension: yml  # 你的配置文件是 yml 格式
+        # 2. 关键变更：使用 import 方式导入配置
+        import-check:
+          enabled: false  # 关闭检查，因为使用 import 方式
+  config:
+    import:
+      - optional:nacos:${spring.application.name}-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:actuator-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true      # actuator-dev.yml
+      - optional:nacos:springdoc-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true # springdoc-dev.yml
+  application:
+    name: idGenerator
+  jackson:
+    default-property-inclusion: non-empty  # 只序列化非空属性
+
+## Actuator 默认配置
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: health,info
+#      base-path: /actuator
+#  endpoint:
+#    health:
+#      show-details: always
+
+
+#---
+#spring:
+#  config:
+#    activate:
+#      on-profile: test
+#server:
+#  port: 20001
+#
+#---
+#spring:
+#  config:
+#    activate:
+#      on-profile: prod
+#server:
+#  port: 20002
+#
+## Actuator 生产配置（严格管控）
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: health,info,prometheus
+#      base-path: /actuator
+#  endpoint:
+#    # 各端点独立开关
+#    health:
+#      show-details: when_authorized  # 仅当认证通过时显示详情（若结合Spring Security）
+#    env:
+#      enabled: false          # 直接禁用 env 端点（最安全）
+#    configprops:
+#      enabled: false          # 禁用配置属性端点
+#    beans:
+#      enabled: false          # 禁用 Bean 端点
+#    heapdump:
+#      enabled: false          # 禁用堆转储
+#    shutdown:
+#      enabled: false          # 禁用关闭端点（重要！）
+#    prometheus:
+#      enabled: true           # 保留，用于监控采集
+#  metrics:
+#    enabled: true             # 保留指标端点
+#
+#---
+#spring:
+#  config:
+#    activate:
+#      on-profile: dev
+#server:
+#  port: 20003
+#
+## Actuator 开发配置
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: "*"        # 暴露所有端点
+#      base-path: /actuator   # 默认，可不改
+#  endpoint:
+#    health:
+#      show-details: always  # 显示详细健康信息
+#    env:
+#      show-values: always   # 开发环境可显示配置值（方便调试）
+#  prometheus:
+#    metrics:
+#      export:
+#        enabled: true       # 开发也可开启，方便测试监控链路
+#
+## Swagger 配置
+#springdoc:
+#  # API文档路径，默认是 /v3/api-docs
+#  api-docs:
+#    path: /v3/api-docs
+#  # Swagger-UI 界面路径，默认是 /swagger-ui/index.html
+#  swagger-ui:
+#    path: /swagger-ui.html

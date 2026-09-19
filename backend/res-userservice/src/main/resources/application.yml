@@ -1,0 +1,37 @@
+server:
+  port: 8093
+
+spring:
+  application:
+    name: userservice
+  jackson:
+    default-property-inclusion: non-empty
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      config:
+        refresh-enabled: true
+        server-addr: localhost:8848
+        namespace: public
+        group: DEFAULT_GROUP
+        file-extension: yml
+        import-check:
+          enabled: false
+  config:
+    import:
+      - optional:nacos:${spring.application.name}-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:actuator-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:redis-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:dataSource.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:mybatisPlus.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:jwt.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:qq-oauth.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:rabbitmq-yml?refreshEnabled=true
+
+#  rabbitmq:
+#    host: localhost
+#    port: 5672
+#    username: guest
+#    password: guest
+#    virtual-host: /

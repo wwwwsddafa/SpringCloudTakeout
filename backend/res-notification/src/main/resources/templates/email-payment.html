@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: 'Microsoft YaHei', Arial, sans-serif; background: #f5f5f5; margin: 0; padding: 0; }
+        .container { max-width: 600px; margin: 30px auto; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.1); }
+        .header { background: linear-gradient(135deg, #e53935, #c62828); padding: 30px; text-align: center; color: #fff; }
+        .header h1 { margin: 0; font-size: 24px; }
+        .header p { margin: 8px 0 0; opacity: 0.9; font-size: 14px; }
+        .body { padding: 30px; }
+        .body h2 { color: #333; font-size: 20px; margin-top: 0; }
+        .body p { color: #666; line-height: 1.8; font-size: 15px; }
+        .pay-box { background: #ffebee; border-left: 4px solid #e53935; padding: 16px 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .pay-box p { margin: 6px 0; }
+        .footer { background: #fafafa; padding: 20px; text-align: center; color: #999; font-size: 12px; }
+        .footer p { margin: 4px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>支付成功</h1>
+            <p>支付确认通知</p>
+        </div>
+        <div class="body">
+            <h2>Hi, {username}</h2>
+            <p>你的订单已支付成功，商家正在备餐中。</p>
+            <div class="pay-box">
+                <p><strong>订单编号：</strong>{roid}</p>
+                <p><strong>支付时间：</strong>{payTime}</p>
+                <p><strong>支付金额：</strong>¥{totalPrice}</p>
+                <p><strong>交易流水：</strong>{tradeno}</p>
+            </div>
+            <p>请保持电话畅通，外卖小哥将尽快为你送达！</p>
+        </div>
+        <div class="footer">
+            <p>外卖点餐平台</p>
+            <p>这是一封系统自动发送的邮件，请勿回复。</p>
+        </div>
+    </div>
+</body>
+</html>

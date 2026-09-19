@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!-- ========================= -->
+    <!-- 1. 公共变量定义           -->
+    <!-- ========================= -->
+    <!-- 获取应用名称，若未配置则默认 application -->
+    <springProperty scope="context" name="APP_NAME" source="spring.application.name" defaultValue="application"/>
+    <!-- 动态路径：按服务名分文件夹 -->
+    <property name="LOG_PATH" value="./logs/${APP_NAME}"/>
+    <!-- 日志保留天数 -->
+    <property name="MAX_HISTORY" value="30"/>
+    <!-- 单文件最大大小 -->
+    <property name="MAX_FILE_SIZE" value="100MB"/>
+    <!-- 总容量上限 -->
+    <property name="TOTAL_SIZE_CAP" value="10GB"/>
+
+    <!-- ========================= -->
+    <!-- 2. 日志格式模板（复用）   -->
+    <!-- ========================= -->
+    <!-- 控制台专用的高亮格式（含颜色） -->
+    <property name="CONSOLE_LOG_PATTERN"
+              value="%d{yyyy-MM-dd HH:mm:ss.SSS} %highlight(%-5level) [%thread] %cyan(%logger{50}) - %msg%n"/>
+    <!-- 文件专用格式（无颜色，节省空间） -->
+    <property name="FILE_LOG_PATTERN"
+              value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{50} - %msg%n"/>
+
+    <!-- ========================= -->
+    <!-- 3. Appender 定义          -->
+    <!-- ========================= -->
+
+    <!-- 3.1 控制台 Appender（仅开发环境使用） -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${CONSOLE_LOG_PATTERN}</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+    </appender>
+
+    <!-- 3.2 滚动文件 Appender（同步，实际被异步包装） -->
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_PATH}/${APP_NAME}.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_PATH}/${APP_NAME}.%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>${MAX_FILE_SIZE}</maxFileSize>
+            <maxHistory>${MAX_HISTORY}</maxHistory>
+            <totalSizeCap>${TOTAL_SIZE_CAP}</totalSizeCap>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+        <!-- 保证应用重启时，日志不丢失且不重复 -->
+        <prudent>false</prudent>
+    </appender>
+
+    <!-- 3.3 异步 Appender（生产环境核心） -->
+    <appender name="ASYNC_FILE" class="ch.qos.logback.classic.AsyncAppender">
+        <!-- 引用同步文件 Appender -->
+        <appender-ref ref="FILE"/>
+
+        <!-- 队列最大容量，默认 256，调大以抗突发流量 -->
+        <queueSize>1024</queueSize>
+
+        <!-- 丢弃阈值：当队列剩余容量 < 20% 时，丢弃 TRACE, DEBUG, INFO 级别日志 -->
+        <!-- 设为 0 表示永不丢弃（除非队列满，此时会根据 neverBlock 策略处理） -->
+        <discardingThreshold>0</discardingThreshold>
+
+        <!-- 核心关键：队列满时是否阻塞业务线程。false=不阻塞，直接丢弃日志（保证业务可用） -->
+        <neverBlock>true</neverBlock>
+
+        <!-- 刷盘策略：默认为0，表示立即刷盘。生产环境可保留默认，交由操作系统缓冲 -->
+        <immediateFlush>true</immediateFlush>
+
+        <!-- 队列满时，是否记录丢弃日志的警告（设置为false可减少高频告警刷屏） -->
+        <includeCallerData>false</includeCallerData>
+    </appender>
+
+    <!-- ========================= -->
+    <!-- 4. Logger 级别控制        -->
+    <!-- ========================= -->
+
+    <!-- 开发环境：全开 DEBUG，仅输出控制台（不写磁盘，提升本地编译速度） -->
+    <springProfile name="dev">
+        <!-- 业务包 DEBUG -->
+        <logger name="com.example" level="DEBUG"/>
+        <!-- MyBatis SQL 调试（开启后会打印完整SQL及参数） -->
+        <logger name="com.example.mapper" level="DEBUG"/>
+        <logger name="com.baomidou.mybatisplus" level="DEBUG"/>
+        <logger name="org.mybatis" level="DEBUG"/>
+
+        <root level="INFO">
+            <appender-ref ref="CONSOLE"/>
+        </root>
+    </springProfile>
+
+    <!-- 生产环境：仅 INFO，写入异步文件，彻底关闭控制台输出 -->
+    <springProfile name="prod">
+        <!-- 业务包 INFO（不打印 SQL 细节，保护数据隐私且减少IO） -->
+        <logger name="com.example" level="INFO"/>
+        <logger name="com.example.mapper" level="INFO"/>
+        <logger name="com.baomidou.mybatisplus" level="INFO"/>
+        <logger name="org.mybatis" level="INFO"/>
+
+        <!-- 生产环境极简 Root，只引用异步 Appender -->
+        <root level="INFO">
+            <appender-ref ref="ASYNC_FILE"/>
+            <!-- 注意：没有引用 CONSOLE，生产环境不输出控制台 -->
+        </root>
+    </springProfile>
+
+</configuration>

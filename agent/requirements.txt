@@ -1,0 +1,25 @@
+# AI 客服系统依赖清单
+# 安装：在 .venv 下执行  pip install -r requirements.txt
+# 运行：在 .venv 下执行  python main.py
+
+# --- Web 框架 ---
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+
+# --- LLM 编排（LangGraph / LangChain）---
+# 注：原设计文档锁定 langgraph==0.2.0 与 langchain==0.3.0，但二者对
+# langchain-core 的版本要求互相冲突（0.2.0 要 <0.3，0.3.0 要 >=0.3），
+# 无法共存。这里改为兼容范围，交由 pip 解析一致版本。
+langgraph>=0.2.40
+langchain>=0.3.0
+langchain-openai>=0.2.0
+
+# --- 向量数据库（RAG）---
+chromadb>=0.5.0
+
+# --- 异步 HTTP 客户端（调用 Java 微服务）---
+httpx==0.27.0
+
+# --- 数据校验 / 配置 ---
+pydantic==2.9.0
+python-dotenv==1.0.0

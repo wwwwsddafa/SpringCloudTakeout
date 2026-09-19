@@ -1,0 +1,37 @@
+# Nacos 同步版本，修改后需同步到 Nacos: gateway-auth.yml
+# 前端统一使用 /product/ 前缀，AuthFilter 匹配原始路径（StripPrefix 之前）
+#gateway:
+#  auth:
+#    white-list:
+#      - /user/register
+#      - /user/login
+#      - /user/login/qq
+#      - /user/captcha
+#      - /product/list
+#      - /product/detail/**
+#      - /product/review/**
+#      - /product/like/**/count
+#      - /actuator/**
+#      - /free-order/event/current
+#    role-path-mapping:
+#      GUEST:
+#        - /product/list
+#        - /product/detail/**
+#        - /product/review/**
+#        - /product/like/**/count
+#        - /user/**
+#        - /search/**
+#        - /free-order/event/current
+#      USER:
+#        - /product/list
+#        - /product/detail/**
+#        - /product/like/**
+#        - /product/review/**
+#        - /user/**
+#        - /cart/**
+#        - /order/**
+#        - /search/**
+#        - /free-order/**
+#        - /customer-service/**
+#      ADMIN:
+#        - /**

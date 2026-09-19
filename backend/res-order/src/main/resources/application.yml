@@ -1,0 +1,54 @@
+server:
+  port: 8095
+
+spring:
+  application:
+    name: order
+  jackson:
+    default-property-inclusion: non_null
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      config:
+        refresh-enabled: true
+        server-addr: localhost:8848
+        namespace: public
+        group: DEFAULT_GROUP
+        file-extension: yml
+        import-check:
+          enabled: false
+  config:
+    import:
+      - optional:nacos:${spring.application.name}-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:dataSource.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:mybatisPlus.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:openFeign.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:rabbitmq-yml?refreshEnabled=true
+      - optional:nacos:redis-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+
+alipay:
+  appId: 9021000166673656
+  privateKey: MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCP2JARLa9x7kUwDArL7BzHALlKM4brhvwRtlQEqTqxKS9HzCJTq8szCwpVGHN0ymGxDQXFtyzTgKbH0mZydjK1MVit3n5ue/hlWJZTW0YTs5mwJLd4i/zjyHd9Vr9Di84lUAw94FQzdi1tLfFF82cRTfbQywnGeFzLJ/tdfMHWbatgR5yR6gdWVF2uJn1nAvf7K5eXI7PbTBlsOqjd0KutSBvdlWaJwsjfOdO2GrUi0d6jFJM92NWPb5StS/7FF7OCegqslwC3jZ2BOXbrCEsfSz0+xMB/TfFPJD2KDje/UtLslaB5FgFlDvbOLj2vSKZ2xU+OVx+7T5uXrM010qexAgMBAAECggEACl3ODB7hvPEx9UN457dNX54SvGE4QPMKaXBdX7SecTQJnz/73VHNJBGQng9UCr+nCK5qkxQfW+KyokXsciVIhDxZKraVH/s5LHyU4M78HuFbmxEaU8qq3/OLgPHmeMSzh4bcSv1GtCq5HVwpPiRLcjjPJ77qJm54KX/pIpSiF4TVVI12yxaMoPHkIUVTVUCURq97fjFVpHbgMrNG2JAS2kcrCbWRq+Z6dYitHkXm6bjBilknrWzqwtaCT7e9ud859+MaJxJjaG+7be4FhxhZmwhq0hGapiGgXZWN7aFUn7Qc+lIC1LGoBT7cgR2kZGA5uWVMDcPuQ2X0emjWCs1znQKBgQD0MsMfo1fzSWIxAWlBh7siE4dfmTHFmAPAaPvhdNu/eQRcqgA1PtNM/trGm0slfn99d32XpHXvJFmcBDOLvOoGYGv7a/Go7OaQunGgp5xojOy/0+cT/IfjUCVjZ1EkfsM1rHmjqYEkUGtPyXuLlHNM8RxcE+oVobv/1HHY2NiLiwKBgQCWzDwN5QMpKbMUDtJXGtqyVVxxyjDQn/D9tDEXGMuLG5npimIBIpm3LHb5NwyjOsCrCwfHC486Vmt+zN3U/1iPNPfHsgJGWQkqEHjWsM8za/AkEJhdHjZj5WqGfZ9pmHAjwiR9O75z4NPoECB7rycwyDhLEQ50NhNRKOXU5BPxMwKBgQCzNg28ykNhaBmHnWGBlfrfpzVSEztTp5wZOPKhIwGiI03wM1KzwMeRWfd0icM8YPlvOqIRB8EFH8gjl3G8u4eD5n9YpH9VWYZb8HgzTs6aa9HTdc+/+zQ+vjKyIMCL5/ubCFi8o0kDPYGDrHnelbOIY+pMKNFBztAJj/99BKbmwQJ/Qo/j8j4kJwdBBJmGPuybnBwRsiiNY4k11say5H8NWVnVlkB/AgFD2JbH7TlfWq2UXeuAg1uW3SlISbAkOuB7Nrsqo/rvBh5G7UpYDGv/CbObTFAG8RNk7rNVUgghVXr0BNStRpoYdw3Ge6iirfWiVuYJ8xiUSLeVzz0+Nbp3EwKBgQDSIid3CS9H1noWGi5Vpv2xMY2ozlfl1s0EVlHwFyyBWy6yHcG/+En/nvizeIbJR//As+hAiSCGGj+8ahukNe+aOwsRzbWwmhxFhpXzdkO5brb9p88YVit0p44n7eg6W/sn4i9QJ5KYzi6qs1RJaBWa3qxevNellxwPM+BBDEpOpQ==
+  alipayPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi51mb87pxVCVlP38WaDy5nEnye7YlnuMY/IsVItnaQ5OqswHTdmN6T6WHnjQYbXrY7I1mzMjdL6e1PzY6W57fBcyU/U3ieWkgB4tnpq8sRUffW/gin1y6+KIttCd6Z/qvQ5rqOxmiydIcmf9ctPZ06HidBA1WM57QsWOy+LY/7RQZN7DPCQi61N/ETftmmNPEdPHy1iQWCbtaAIm+A+PmX2F2ri3iksHJbsggSvnFsJMXYTaDi7ocQghEZ7IgST5NZTpDdoMiA2uulF2jqIuBuUghxJD/EuWQgasXzDlimNQ+RMXRzjfinUM65R/9KhPHlxRFJZ9T8rJL0EzG5YuKwIDAQAB
+  gateway-url: https://openapi-sandbox.dl.alipaydev.com/gateway.do
+  notify-url: http://sda25ba6.natappfree.cc/order/alipay/notify
+  return-url: http://localhost:5173/order
+  sign-type: RSA2
+  charset: UTF-8
+  format: json
+
+test:
+  payment:
+    enabled: false
+
+#  rabbitmq:
+#    host: localhost
+#    port: 5672
+#    username: guest
+#    password: guest
+#    virtual-host: /

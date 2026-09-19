@@ -1,0 +1,34 @@
+server:
+  port: 8097
+
+spring:
+  application:
+    name: operations
+  jackson:
+    default-property-inclusion: non-empty
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      config:
+        refresh-enabled: true
+        server-addr: localhost:8848
+        namespace: public
+        group: DEFAULT_GROUP
+        file-extension: yml
+        import-check:
+          enabled: false
+  config:
+    import:
+      - optional:nacos:${spring.application.name}-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:actuator-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:springdoc-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:redis-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:dataSource.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:mybatisPlus.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:openFeign.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:rabbitmq-yml?refreshEnabled=true
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true

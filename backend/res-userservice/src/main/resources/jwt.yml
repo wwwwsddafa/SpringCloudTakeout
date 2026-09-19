@@ -1,0 +1,4 @@
+#spring:
+#  jwt:
+#    secret: resUserServiceSecretKeyForJwtTokenGeneration2024!
+#    expiration: 7200

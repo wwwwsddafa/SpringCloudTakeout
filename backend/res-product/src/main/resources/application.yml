@@ -1,0 +1,35 @@
+server:
+  port: 8092
+
+
+spring:
+  application:
+    name: product
+  jackson:
+    default-property-inclusion: non-empty  # 只序列化非空属性
+  profiles:
+    active: dev  # 默认激活开发环境
+  cloud:
+    nacos:
+      config: #配置中心配置，只要有这个配置，则服务注册发现也都配置好了
+        refresh-enabled: true  # 默认就是 true，但如果被显式设为 false 则不会刷新
+        # 1. 原先 bootstrap.yml 中的配置迁移到此处
+        server-addr: localhost:8848
+        namespace: public
+        group: DEFAULT_GROUP
+        #        username: nacos
+        #        password: aaaa
+        file-extension: yml  # 你的配置文件是 yml 格式
+        # 2. 关键变更：使用 import 方式导入配置
+        import-check:
+          enabled: false  # 关闭检查，因为使用 import 方式
+  config:
+    import:
+      - optional:nacos:${spring.application.name}-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:actuator-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true      # actuator-dev.yml
+      - optional:nacos:springdoc-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true # springdoc-dev.yml
+      - optional:nacos:redis-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true      #redis-dev.yml
+      - optional:nacos:dataSource.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true      #dataSource.yml
+      - optional:nacos:mybatisPlus.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true      #mybatisPlus.yml
+      - optional:nacos:openFeign.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true      #openFeign.yml
+      - optional:nacos:rabbitmq-yml?refreshEnabled=true

@@ -1,0 +1,38 @@
+server:
+  port: 8093
+
+spring:
+  application:
+    name: userservice
+  jackson:
+    default-property-inclusion: non-empty
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/resboot?useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+    username: root
+    password: root
+    type: com.alibaba.druid.pool.DruidDataSource
+  data:
+    redis:
+      host: localhost
+      port: 6379
+  cloud:
+    nacos:
+      discovery:
+        enabled: false
+      config:
+        enabled: false
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+jwt:
+  secret: testSecretKeyForJwtTokenGeneration2024!
+  expiration: 7200
+
+qq:
+  oauth:
+    app-id: test_app_id
+    app-secret: test_app_secret
+    redirect-uri: http://localhost:3000/callback

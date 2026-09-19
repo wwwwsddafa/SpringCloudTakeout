@@ -1,0 +1,22 @@
+{
+  "completed": 20000,
+  "failed": 48,
+  "lastUpdate": "2026-09-17T21:49:41",
+  "browse_pv": 32618,
+  "orders_unpaid": 14573,
+  "orders_paid": 5427,
+  "cs_connects": 288,
+  "reviews": 1733,
+  "likes": 1468,
+  "requests": 107319,
+  "device_pv": {
+    "DESKTOP": 14429,
+    "MOBILE": 13227,
+    "TABLET": 4962
+  },
+  "device_orders": {
+    "DESKTOP": 8536,
+    "MOBILE": 8291,
+    "TABLET": 3173
+  }
+}

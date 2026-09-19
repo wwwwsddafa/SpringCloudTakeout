@@ -1,0 +1,28 @@
+server:
+  port: 8094
+
+spring:
+  application:
+    name: cart
+  jackson:
+    default-property-inclusion: non_null
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        namespace: public
+        group: DEFAULT_GROUP
+      config:
+        refresh-enabled: true
+        server-addr: localhost:8848
+        namespace: public
+        group: DEFAULT_GROUP
+        file-extension: yml
+        import-check:
+          enabled: true
+  config:
+    import:
+      - optional:nacos:${spring.application.name}-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:redis-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true

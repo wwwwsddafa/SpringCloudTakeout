@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: 'Microsoft YaHei', Arial, sans-serif; background: #f5f5f5; margin: 0; padding: 0; }
+        .container { max-width: 600px; margin: 30px auto; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.1); }
+        .header { background: linear-gradient(135deg, #ff6b35, #f7931e); padding: 30px; text-align: center; color: #fff; }
+        .header h1 { margin: 0; font-size: 24px; }
+        .header p { margin: 8px 0 0; opacity: 0.9; font-size: 14px; }
+        .body { padding: 30px; }
+        .body h2 { color: #333; font-size: 20px; margin-top: 0; }
+        .body p { color: #666; line-height: 1.8; font-size: 15px; }
+        .welcome-box { background: #fff8f0; border-left: 4px solid #ff6b35; padding: 16px 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .footer { background: #fafafa; padding: 20px; text-align: center; color: #999; font-size: 12px; }
+        .footer p { margin: 4px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>欢迎加入外卖点餐</h1>
+            <p>注册成功通知</p>
+        </div>
+        <div class="body">
+            <h2>Hi, {username}</h2>
+            <p>恭喜你成功注册外卖点餐平台！现在你可以浏览美食、下单点餐，享受便捷的外卖服务。</p>
+            <div class="welcome-box">
+                <p style="margin:0; color:#ff6b35;"><strong>注册时间：</strong>{datetime}</p>
+            </div>
+            <p>如有任何问题，请随时联系客服。</p>
+        </div>
+        <div class="footer">
+            <p>外卖点餐平台</p>
+            <p>这是一封系统自动发送的邮件，请勿回复。</p>
+        </div>
+    </div>
+</body>
+</html>

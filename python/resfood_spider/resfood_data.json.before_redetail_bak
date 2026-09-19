@@ -1,0 +1,4982 @@
+[
+  {
+    "fid": "c2dc1e30-25f1-49a0-a34a-a063112725c7",
+    "fname": "菠萝炒饭",
+    "normprice": 7.4,
+    "realprice": 5.5,
+    "detail": "菠萝添香炒饭香辣可口粒粒分明菠萝块新鲜 芒果味",
+    "fphoto": "http://localhost:9000/res/files/c2dc1e30-25f1-49a0-a34a-a063112725c7.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "88a1afd8-48bc-4946-af9c-0ccad0b27384",
+    "fname": "肥牛响铃卷粉丝煲",
+    "normprice": 47.6,
+    "realprice": 41.5,
+    "detail": "秘制肥牛响铃卷鲜香四溢粉丝煲营养更丰富",
+    "fphoto": "http://localhost:9000/res/files/88a1afd8-48bc-4946-af9c-0ccad0b27384.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "5588dc31-8a7e-46fc-9f43-b2514d9abece",
+    "fname": "香橙酥饼",
+    "normprice": 33.3,
+    "realprice": 29.0,
+    "detail": "香橙融于酥饼间甜而不腻诱人一尝",
+    "fphoto": "http://localhost:9000/res/files/5588dc31-8a7e-46fc-9f43-b2514d9abece.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "6b7654d7-4da4-4539-b532-b22cd4992d8c",
+    "fname": "凉拌双脆",
+    "normprice": 19.9,
+    "realprice": 16.5,
+    "detail": "脆嫩鱼皮鸭掌爽口不腻嚼两遍",
+    "fphoto": "http://localhost:9000/res/files/6b7654d7-4da4-4539-b532-b22cd4992d8c.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "1e40ca02-606e-4133-8f17-f6b53251df54",
+    "fname": "披萨",
+    "normprice": 15.6,
+    "realprice": 14.0,
+    "detail": "香脆底料鲜披萨诱惑味蕾不容错过",
+    "fphoto": "http://localhost:9000/res/files/1e40ca02-606e-4133-8f17-f6b53251df54.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "6e9ad0e3-a052-4aa3-a938-373a287b7caf",
+    "fname": "绿茄子炒彩椒",
+    "normprice": 53.0,
+    "realprice": 41.5,
+    "detail": "绿意浓情彩椒伴茄子鲜香四溢",
+    "fphoto": "http://localhost:9000/res/files/6e9ad0e3-a052-4aa3-a938-373a287b7caf.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "e1f053e9-e1cb-4ca7-b01c-35f06700d958",
+    "fname": "梅菜排骨焖饭",
+    "normprice": 22.9,
+    "realprice": 20.5,
+    "detail": "香滑排骨梅菜香焖饭软糯可口营养全",
+    "fphoto": "http://localhost:9000/res/files/e1f053e9-e1cb-4ca7-b01c-35f06700d958.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "fe9b2c3e-4d86-40cb-bbf2-300275c7d7e0",
+    "fname": "抹茶泡芙蛋糕",
+    "normprice": 20.6,
+    "realprice": 17.5,
+    "detail": "抹茶香浓泡芙蛋糕口感细腻层次丰富美味推荐",
+    "fphoto": "http://localhost:9000/res/files/fe9b2c3e-4d86-40cb-bbf2-300275c7d7e0.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a6dd7c38-6e91-4422-9a4c-7b51648c1461",
+    "fname": "茉莉抹香黄油年糕",
+    "normprice": 8.3,
+    "realprice": 7.0,
+    "detail": "茉莉香氲黄油融年糕抹味蕾惊喜",
+    "fphoto": "http://localhost:9000/res/files/a6dd7c38-6e91-4422-9a4c-7b51648c1461.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "fef337df-abd4-4956-b542-b69c5361b01b",
+    "fname": "素炒黄西葫芦丝",
+    "normprice": 47.0,
+    "realprice": 41.5,
+    "detail": "清脆西葫芦丝炒出厨房新味道",
+    "fphoto": "http://localhost:9000/res/files/fef337df-abd4-4956-b542-b69c5361b01b.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "1784fcda-396c-4c16-86f2-1cfcfebde5fc",
+    "fname": "香草泡芙",
+    "normprice": 27.5,
+    "realprice": 21.5,
+    "detail": "香草浓郁泡芙外脆内软奶酪酱更添风味",
+    "fphoto": "http://localhost:9000/res/files/1784fcda-396c-4c16-86f2-1cfcfebde5fc.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "50aca0f6-d1eb-474a-8119-62f4a81ea5fb",
+    "fname": "海参型皮冻",
+    "normprice": 27.0,
+    "realprice": 21.0,
+    "detail": "海参点缀皮冻入口即化爽滑脆嫩滋味鲜美",
+    "fphoto": "http://localhost:9000/res/files/50aca0f6-d1eb-474a-8119-62f4a81ea5fb.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "6f3b8735-f45b-4c77-9a7d-6ec4a3527fdf",
+    "fname": "酸辣水煮魚",
+    "normprice": 30.3,
+    "realprice": 24.5,
+    "detail": "麻辣鲜香一锅出嫩滑鱼肉吸汁多",
+    "fphoto": "http://localhost:9000/res/files/6f3b8735-f45b-4c77-9a7d-6ec4a3527fdf.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "5c017e05-cc7d-4c79-8156-e33644e4c63d",
+    "fname": "紫薯糯米丸",
+    "normprice": 20.3,
+    "realprice": 17.5,
+    "detail": "紫薯香糯味美糯米丸外酥内软",
+    "fphoto": "http://localhost:9000/res/files/5c017e05-cc7d-4c79-8156-e33644e4c63d.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "654a2bdd-4e47-4477-9598-1c59f846b0d0",
+    "fname": "酸辣土豆丝",
+    "normprice": 24.1,
+    "realprice": 21.0,
+    "detail": "酸辣开胃土豆丝脆嫩爽口一盘接一盘",
+    "fphoto": "http://localhost:9000/res/files/654a2bdd-4e47-4477-9598-1c59f846b0d0.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "f2ab21a4-73b6-4aa0-bc39-e72cb91ea810",
+    "fname": "鸡蛋煎糍粑",
+    "normprice": 9.9,
+    "realprice": 8.0,
+    "detail": "香脆糍粑裹蛋黄外酥里嫩一次满足",
+    "fphoto": "http://localhost:9000/res/files/f2ab21a4-73b6-4aa0-bc39-e72cb91ea810.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "b76de8f1-0947-4d6e-a9a3-32f5ef99037d",
+    "fname": "贝贝南瓜酿肉",
+    "normprice": 56.4,
+    "realprice": 43.5,
+    "detail": "香嫩南瓜裹肉汁入口即化营养又健康",
+    "fphoto": "http://localhost:9000/res/files/b76de8f1-0947-4d6e-a9a3-32f5ef99037d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "6292883b-a55e-453b-a25d-ece1aefed68c",
+    "fname": "芋泥饼",
+    "normprice": 34.8,
+    "realprice": 26.5,
+    "detail": "香脆外皮软糯内陷芋香四溢酥脆芋泥饼",
+    "fphoto": "http://localhost:9000/res/files/6292883b-a55e-453b-a25d-ece1aefed68c.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "0497d01c-63c6-42a8-8147-78d4eac0f467",
+    "fname": "凉拌苦瓜",
+    "normprice": 27.6,
+    "realprice": 23.0,
+    "detail": "脆爽苦瓜清热解暑口口留香",
+    "fphoto": "http://localhost:9000/res/files/0497d01c-63c6-42a8-8147-78d4eac0f467.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e009166f-42d1-4ca1-934b-4cacd8db398a",
+    "fname": "上汤豆腐",
+    "normprice": 35.1,
+    "realprice": 29.0,
+    "detail": "嫩滑豆腐上汤鲜香满口豆腐软烂汤鲜味美",
+    "fphoto": "http://localhost:9000/res/files/e009166f-42d1-4ca1-934b-4cacd8db398a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "5157c365-89fa-4c39-b8f5-21b399b93281",
+    "fname": "菠菜猪肝汤",
+    "normprice": 27.2,
+    "realprice": 22.5,
+    "detail": "菠菜猪肝汤鲜香浓郁营养好滋补一碗下肚浑身暖",
+    "fphoto": "http://localhost:9000/res/files/5157c365-89fa-4c39-b8f5-21b399b93281.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "420647ed-3db6-41ea-b6d6-bfece67e06b0",
+    "fname": "自制拉皮",
+    "normprice": 22.8,
+    "realprice": 19.5,
+    "detail": "凉脆黄瓜拌粉丝口感爽脆全家爱",
+    "fphoto": "http://localhost:9000/res/files/420647ed-3db6-41ea-b6d6-bfece67e06b0.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "cef12b09-c1ad-4bb5-b283-9c8119fe8b02",
+    "fname": "凉拌藕",
+    "normprice": 21.6,
+    "realprice": 19.0,
+    "detail": "脆藕软爽拌黄瓜口感鲜香脆",
+    "fphoto": "http://localhost:9000/res/files/cef12b09-c1ad-4bb5-b283-9c8119fe8b02.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "2bc17ba9-0bdb-4e82-bf43-791a80f4fdaf",
+    "fname": "杂粮米饭",
+    "normprice": 23.4,
+    "realprice": 19.5,
+    "detail": "香软米饭夹杂多种谷物营养加倍每一口都是惊喜",
+    "fphoto": "http://localhost:9000/res/files/2bc17ba9-0bdb-4e82-bf43-791a80f4fdaf.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "e6df553e-b744-4a6b-abb2-65a9e4cd43c7",
+    "fname": "焖猪心",
+    "normprice": 14.6,
+    "realprice": 12.5,
+    "detail": "香脆猪心粒粒香外酥里嫩入口即化",
+    "fphoto": "http://localhost:9000/res/files/e6df553e-b744-4a6b-abb2-65a9e4cd43c7.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "f3573272-e99e-4a80-a91d-3b67ac4851dd",
+    "fname": "创意花朵米饭",
+    "normprice": 28.0,
+    "realprice": 22.0,
+    "detail": "创意花朵米饭外观诱人香辣可口米饭软烂别具一格",
+    "fphoto": "http://localhost:9000/res/files/f3573272-e99e-4a80-a91d-3b67ac4851dd.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "6b531532-b2fa-4836-be81-17bcb5a15ecd",
+    "fname": "丝状葱花饼",
+    "normprice": 22.5,
+    "realprice": 18.0,
+    "detail": "酥香丝状葱花饼外酥里嫩一咬喷香",
+    "fphoto": "http://localhost:9000/res/files/6b531532-b2fa-4836-be81-17bcb5a15ecd.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0bd92343-7de0-4275-b527-aba7526f690c",
+    "fname": "大肉炖长茄子",
+    "normprice": 31.6,
+    "realprice": 26.0,
+    "detail": "麻辣鲜香大肉炖长茄酥软嫩滑美味佳肴",
+    "fphoto": "http://localhost:9000/res/files/0bd92343-7de0-4275-b527-aba7526f690c.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "a462fdb9-1c02-4482-b97a-b2ec3b2009e1",
+    "fname": "快手蛋黄酥",
+    "normprice": 46.5,
+    "realprice": 36.0,
+    "detail": "快手蛋黄酥外酥里嫩蛋黄香酥一口满足",
+    "fphoto": "http://localhost:9000/res/files/a462fdb9-1c02-4482-b97a-b2ec3b2009e1.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "7170c180-3804-4cdf-84db-6ff348c68614",
+    "fname": "奶酪熔岩面包",
+    "normprice": 43.8,
+    "realprice": 38.0,
+    "detail": "香滑奶酪融化在烤至金黄的面包里诱惑无比",
+    "fphoto": "http://localhost:9000/res/files/7170c180-3804-4cdf-84db-6ff348c68614.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "f7b2ea8c-25a9-441b-b02d-03321fd61ac1",
+    "fname": "胡萝卜土豆焖鸡",
+    "normprice": 57.0,
+    "realprice": 43.0,
+    "detail": "香辣胡萝卜土豆炖鸡鲜嫩入味营养佳",
+    "fphoto": "http://localhost:9000/res/files/f7b2ea8c-25a9-441b-b02d-03321fd61ac1.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "a0da4a9f-9e0d-480b-b16d-45752b85d1ba",
+    "fname": "灵芝乌鸡汤",
+    "normprice": 45.2,
+    "realprice": 37.0,
+    "detail": "灵芝乌鸡汤暖身又养颜红枣枸杞共助你健康",
+    "fphoto": "http://localhost:9000/res/files/a0da4a9f-9e0d-480b-b16d-45752b85d1ba.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "c789c6c6-e42c-4a7c-b037-270b16cb81bc",
+    "fname": "鲈鱼菜花汤",
+    "normprice": 41.7,
+    "realprice": 37.0,
+    "detail": "鲈鱼鲜香菜花软汤鲜味美",
+    "fphoto": "http://localhost:9000/res/files/c789c6c6-e42c-4a7c-b037-270b16cb81bc.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "375d6400-1161-44ce-942d-50d029b9a36e",
+    "fname": "烤红薯",
+    "normprice": 29.0,
+    "realprice": 21.5,
+    "detail": "香甜外皮酥软内里软糯红薯烤至金黄诱惑十足",
+    "fphoto": "http://localhost:9000/res/files/375d6400-1161-44ce-942d-50d029b9a36e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "1e48326f-e564-4915-8378-c783ad155693",
+    "fname": "黑蒜羊肚菌猪骨汤",
+    "normprice": 22.2,
+    "realprice": 17.0,
+    "detail": "黑蒜增香羊肚菌猪骨汤营养又鲜美",
+    "fphoto": "http://localhost:9000/res/files/1e48326f-e564-4915-8378-c783ad155693.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "26bbedc7-6079-46e2-801b-daaebfd8a443",
+    "fname": "凉拌黄瓜",
+    "normprice": 30.9,
+    "realprice": 24.0,
+    "detail": "脆爽黄瓜拌香辣花生粒粒分明凉拌菜解暑好滋味",
+    "fphoto": "http://localhost:9000/res/files/26bbedc7-6079-46e2-801b-daaebfd8a443.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "6818fa51-ccbb-4ae1-a4e3-f8394d36dca3",
+    "fname": "原味贝果",
+    "normprice": 44.3,
+    "realprice": 38.0,
+    "detail": "酥脆外皮软糯内馅黄金比例完美贝果",
+    "fphoto": "http://localhost:9000/res/files/6818fa51-ccbb-4ae1-a4e3-f8394d36dca3.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "6ceea616-ed57-42a6-bda9-78146209ad11",
+    "fname": "干贝丝瓜肉沫汤",
+    "normprice": 37.9,
+    "realprice": 32.0,
+    "detail": "鲜香干贝丝瓜肉沫汤鲜嫩入味每一口都是惊喜",
+    "fphoto": "http://localhost:9000/res/files/6ceea616-ed57-42a6-bda9-78146209ad11.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "7e1c3c9c-37e4-4c98-8f27-e422f644da44",
+    "fname": "荠菜鲜肉汤圆",
+    "normprice": 17.1,
+    "realprice": 13.5,
+    "detail": "荠香肉嫩汤圆滑入口外酥里嫩味醇美",
+    "fphoto": "http://localhost:9000/res/files/7e1c3c9c-37e4-4c98-8f27-e422f644da44.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "dbf3dfe3-5fe4-46fa-997f-0dfa96b7d266",
+    "fname": "拉花古早蛋糕",
+    "normprice": 38.6,
+    "realprice": 34.0,
+    "detail": "古早味拉花蛋糕口感细腻奶香浓甜蜜汁诱人",
+    "fphoto": "http://localhost:9000/res/files/dbf3dfe3-5fe4-46fa-997f-0dfa96b7d266.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "dc753d6a-bb7d-462d-9334-e72adc9eb9de",
+    "fname": "胡萝卜馒头",
+    "normprice": 20.6,
+    "realprice": 15.5,
+    "detail": "酥香外皮软糯内里胡萝卜香甜营养又健康",
+    "fphoto": "http://localhost:9000/res/files/dc753d6a-bb7d-462d-9334-e72adc9eb9de.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "defc6a09-eda5-4881-a4e5-5b597d5c1357",
+    "fname": "雪菜冬瓜汤",
+    "normprice": 39.9,
+    "realprice": 35.0,
+    "detail": "雪菜冬瓜汤鲜香软滑味美汤汁浓雪里蕻冬瓜炖",
+    "fphoto": "http://localhost:9000/res/files/defc6a09-eda5-4881-a4e5-5b597d5c1357.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0bb66ac4-b8f0-41d0-b044-ff7ecf48983d",
+    "fname": "洪瑞珍鸡蛋火腿三明治",
+    "normprice": 21.8,
+    "realprice": 16.5,
+    "detail": "酥香火腿配鸡蛋金黄三明治层次分明",
+    "fphoto": "http://localhost:9000/res/files/0bb66ac4-b8f0-41d0-b044-ff7ecf48983d.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "f0ce2ac3-7a24-4e8f-b9cf-4941afb64368",
+    "fname": "蛋炒饭",
+    "normprice": 21.5,
+    "realprice": 19.5,
+    "detail": "香嫩蛋炒饭粒粒分明满口流香",
+    "fphoto": "http://localhost:9000/res/files/f0ce2ac3-7a24-4e8f-b9cf-4941afb64368.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "48dd06c9-749e-46f9-ba64-e3770f704474",
+    "fname": "低卡黑椒鸡丁拌饭",
+    "normprice": 15.3,
+    "realprice": 13.0,
+    "detail": "低卡黑椒鸡丁拌饭鲜香适口米饭粒粒分明",
+    "fphoto": "http://localhost:9000/res/files/48dd06c9-749e-46f9-ba64-e3770f704474.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "5a8b5eed-bc01-4ebf-bdd5-aec10786ff80",
+    "fname": "橙子炖猪排",
+    "normprice": 55.6,
+    "realprice": 46.0,
+    "detail": "橙香四溢猪排慢炖橙汁橙色诱惑不可错过",
+    "fphoto": "http://localhost:9000/res/files/5a8b5eed-bc01-4ebf-bdd5-aec10786ff80.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "84e1d321-655f-4cd1-88a2-f23332d09bf3",
+    "fname": "巧克力玛芬蛋糕",
+    "normprice": 22.7,
+    "realprice": 18.0,
+    "detail": "丝滑巧克力香浓玛芬一口甜蜜到心里",
+    "fphoto": "http://localhost:9000/res/files/84e1d321-655f-4cd1-88a2-f23332d09bf3.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "8d2f46cf-c550-4345-b6b0-6d39b5e71931",
+    "fname": "番茄土豆炖牛肉",
+    "normprice": 45.5,
+    "realprice": 41.0,
+    "detail": "香辣番茄炖牛肉土豆软烂肉酥香",
+    "fphoto": "http://localhost:9000/res/files/8d2f46cf-c550-4345-b6b0-6d39b5e71931.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "bf184994-839c-4736-ba4c-b549a0a21191",
+    "fname": "中式花酥",
+    "normprice": 14.6,
+    "realprice": 12.5,
+    "detail": "酥皮金黄馅料香层层诱人美味蛋糕",
+    "fphoto": "http://localhost:9000/res/files/bf184994-839c-4736-ba4c-b549a0a21191.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "2c80a0e8-41e1-4465-bc2f-228d8e76cce9",
+    "fname": "口蘑黑椒牛仔骨",
+    "normprice": 49.4,
+    "realprice": 39.5,
+    "detail": "香嫩牛仔骨黑椒口蘑鲜香四溢",
+    "fphoto": "http://localhost:9000/res/files/2c80a0e8-41e1-4465-bc2f-228d8e76cce9.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "fe288fab-322b-4556-81bf-880d3591bbf4",
+    "fname": "方便面鸡蛋煎饼",
+    "normprice": 15.3,
+    "realprice": 13.0,
+    "detail": "懒人必备早餐快捷又营养鸡蛋煎饼",
+    "fphoto": "http://localhost:9000/res/files/fe288fab-322b-4556-81bf-880d3591bbf4.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "fe07e325-66ba-46b2-a87f-7d074d03f259",
+    "fname": "猫舌抹茶夹心饼干",
+    "normprice": 41.9,
+    "realprice": 37.5,
+    "detail": "抹茶香浓猫舌巧设计心间饼干滋味美",
+    "fphoto": "http://localhost:9000/res/files/fe07e325-66ba-46b2-a87f-7d074d03f259.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "96ba278d-8196-4864-b1cb-8f0fd7852e87",
+    "fname": "西葫芦虾饼",
+    "normprice": 53.8,
+    "realprice": 45.0,
+    "detail": "酥炸西葫芦虾饼外酥里嫩香甜虾仁配西葫丝",
+    "fphoto": "http://localhost:9000/res/files/96ba278d-8196-4864-b1cb-8f0fd7852e87.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "31ee3802-bafb-4e1e-831c-6d011994f594",
+    "fname": "凉拌娃娃菜",
+    "normprice": 12.3,
+    "realprice": 11.0,
+    "detail": "脆嫩娃娃菜拌香辣花生味鲜美",
+    "fphoto": "http://localhost:9000/res/files/31ee3802-bafb-4e1e-831c-6d011994f594.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "4db5a8ef-e3a9-460d-b86e-e81eae7ccad5",
+    "fname": "清蒸秋葵",
+    "normprice": 36.6,
+    "realprice": 30.0,
+    "detail": "清蒸秋葵鲜嫩滑口感舌尖留香",
+    "fphoto": "http://localhost:9000/res/files/4db5a8ef-e3a9-460d-b86e-e81eae7ccad5.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "739f5504-271e-4a85-b3c7-ba18283afcd8",
+    "fname": "子姜鱼片",
+    "normprice": 53.9,
+    "realprice": 42.5,
+    "detail": "鲜嫩鱼片配子姜香辣鲜美一尝难忘",
+    "fphoto": "http://localhost:9000/res/files/739f5504-271e-4a85-b3c7-ba18283afcd8.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "ad8ba0bb-74e1-443a-97a8-7b1f09a203df",
+    "fname": "白糖糕",
+    "normprice": 27.0,
+    "realprice": 23.0,
+    "detail": "软糯香甜白糖糕一口入魂推荐尝试",
+    "fphoto": "http://localhost:9000/res/files/ad8ba0bb-74e1-443a-97a8-7b1f09a203df.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "31f902cf-5e30-41ff-a264-f21baca38126",
+    "fname": "口蘑排骨焖饭",
+    "normprice": 24.9,
+    "realprice": 21.5,
+    "detail": "口蘑排骨焖饭香辣鲜香米饭软糯全家爱",
+    "fphoto": "http://localhost:9000/res/files/31f902cf-5e30-41ff-a264-f21baca38126.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "1c642e9d-5445-4cd8-bb77-bcd7e5102e2e",
+    "fname": "南瓜豆沙吐司",
+    "normprice": 49.3,
+    "realprice": 43.0,
+    "detail": "香甜南瓜融入软糯吐司豆沙美味无比",
+    "fphoto": "http://localhost:9000/res/files/1c642e9d-5445-4cd8-bb77-bcd7e5102e2e.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "d48ed4ea-2bae-43eb-a604-40daa016b4f6",
+    "fname": "鸡汤馄饨",
+    "normprice": 26.2,
+    "realprice": 23.5,
+    "detail": "浓香鸡汤煮馄饨汤鲜肉嫩一碗暖心胃",
+    "fphoto": "http://localhost:9000/res/files/d48ed4ea-2bae-43eb-a604-40daa016b4f6.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "e89861e4-f24f-4a10-8e2e-d3a9340e2540",
+    "fname": "戚风蛋糕",
+    "normprice": 19.6,
+    "realprice": 15.0,
+    "detail": "轻盈细腻口感蛋糕层层叠美味不停电",
+    "fphoto": "http://localhost:9000/res/files/e89861e4-f24f-4a10-8e2e-d3a9340e2540.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "94e777af-8800-49d7-8dfa-0346b1b340b9",
+    "fname": "海苔花生",
+    "normprice": 31.0,
+    "realprice": 24.5,
+    "detail": "酥脆海苔包裹香脆花生爽口开胃",
+    "fphoto": "http://localhost:9000/res/files/94e777af-8800-49d7-8dfa-0346b1b340b9.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "88c0f3fe-74ae-4faf-96a8-4684d88c981d",
+    "fname": "菊花酥",
+    "normprice": 41.2,
+    "realprice": 35.5,
+    "detail": "香脆外层裹金黄菊花香甜内里",
+    "fphoto": "http://localhost:9000/res/files/88c0f3fe-74ae-4faf-96a8-4684d88c981d.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "9494751b-d7bc-48b0-bd03-228bc391554a",
+    "fname": "梦龙脆皮蛋糕盒子",
+    "normprice": 27.9,
+    "realprice": 23.0,
+    "detail": "酥脆外皮软嫩内馅冰淇淋梦龙蛋糕尝一尝",
+    "fphoto": "http://localhost:9000/res/files/9494751b-d7bc-48b0-bd03-228bc391554a.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "f78fb7bd-aa72-47e9-9fa2-1034dd845ce5",
+    "fname": "潮汕菜头粿",
+    "normprice": 30.4,
+    "realprice": 23.0,
+    "detail": "潮味十足菜头粿外酥里嫩香脆可口",
+    "fphoto": "http://localhost:9000/res/files/f78fb7bd-aa72-47e9-9fa2-1034dd845ce5.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "2a498268-107f-4e44-8fa3-42d59ad5957a",
+    "fname": "蒜蓉冬瓜",
+    "normprice": 37.3,
+    "realprice": 33.0,
+    "detail": "蒜香四溢冬瓜软糯入口即化",
+    "fphoto": "http://localhost:9000/res/files/2a498268-107f-4e44-8fa3-42d59ad5957a.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "52af8488-7136-42e0-ba25-683669cea801",
+    "fname": "凉拌黄瓜腐竹木耳",
+    "normprice": 17.2,
+    "realprice": 14.5,
+    "detail": "脆嫩黄瓜爽滑腐竹木耳拌 细腻口感凉菜解暑佳",
+    "fphoto": "http://localhost:9000/res/files/52af8488-7136-42e0-ba25-683669cea801.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "6f0b1e45-b777-444b-a9b6-c4778f0bd585",
+    "fname": "酱卤牛肉",
+    "normprice": 24.0,
+    "realprice": 18.5,
+    "detail": "酱香四溢卤煮牛肉口感绝回味无穷",
+    "fphoto": "http://localhost:9000/res/files/6f0b1e45-b777-444b-a9b6-c4778f0bd585.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "74ca8478-5d68-4c2b-a921-18b04e6b3e67",
+    "fname": "凉拌柚子皮",
+    "normprice": 19.5,
+    "realprice": 16.0,
+    "detail": "柚香四溢凉拌柚子皮脆爽可口开胃绝",
+    "fphoto": "http://localhost:9000/res/files/74ca8478-5d68-4c2b-a921-18b04e6b3e67.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "264c3f49-cb35-4633-8e4c-7c2fe6685184",
+    "fname": "雪媚娘",
+    "normprice": 22.7,
+    "realprice": 19.5,
+    "detail": "雪柔奶软蜜桃味雪媚娘",
+    "fphoto": "http://localhost:9000/res/files/264c3f49-cb35-4633-8e4c-7c2fe6685184.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "22e12da9-c072-4f45-882e-a80b9c4044df",
+    "fname": "腌笃鲜",
+    "normprice": 23.9,
+    "realprice": 18.0,
+    "detail": "老鲜肉嫩笋味鲜香汤滑糯",
+    "fphoto": "http://localhost:9000/res/files/22e12da9-c072-4f45-882e-a80b9c4044df.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0b23ecb1-b2b6-4b99-a077-4d9549b917f1",
+    "fname": "白萝卜牛尾骨汤",
+    "normprice": 42.1,
+    "realprice": 36.0,
+    "detail": "白萝卜牛尾骨汤靓味十足暖身又养胃",
+    "fphoto": "http://localhost:9000/res/files/0b23ecb1-b2b6-4b99-a077-4d9549b917f1.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0ccd2537-0f3f-423b-9086-9d83203293bf",
+    "fname": "香菇鸡丁青菜炒饭",
+    "normprice": 12.5,
+    "realprice": 11.0,
+    "detail": "香菇鸡丁青菜炒饭风味独特米饭粒粒香甜鸡肉嫩青菜鲜",
+    "fphoto": "http://localhost:9000/res/files/0ccd2537-0f3f-423b-9086-9d83203293bf.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "d26d3d45-e299-4b95-974b-bc63b80d99da",
+    "fname": "粉蒸板筋肉",
+    "normprice": 22.2,
+    "realprice": 17.0,
+    "detail": "麻辣鲜香板筋肉香滑粉蒸嫩一尝难忘",
+    "fphoto": "http://localhost:9000/res/files/d26d3d45-e299-4b95-974b-bc63b80d99da.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "707c0a81-75f5-4cc4-8cc3-29aac792d533",
+    "fname": "五仁月饼",
+    "normprice": 23.9,
+    "realprice": 20.0,
+    "detail": "香滑五仁月饼中秋美味享团圆",
+    "fphoto": "http://localhost:9000/res/files/707c0a81-75f5-4cc4-8cc3-29aac792d533.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "13ab1135-21fb-4f1c-bcf7-d77dc4b0005e",
+    "fname": "混合面馒头",
+    "normprice": 6.4,
+    "realprice": 5.0,
+    "detail": "香辣肉松混合营养又美味主食",
+    "fphoto": "http://localhost:9000/res/files/13ab1135-21fb-4f1c-bcf7-d77dc4b0005e.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "dfb42dc3-88e9-4fd3-9a65-91a2be2411cb",
+    "fname": "葱油鲍鱼",
+    "normprice": 27.2,
+    "realprice": 23.0,
+    "detail": "秘制葱油鲍鱼香酥嫩鲜味绝赞",
+    "fphoto": "http://localhost:9000/res/files/dfb42dc3-88e9-4fd3-9a65-91a2be2411cb.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "7a66f7b9-dcad-420d-bd2f-bd39875c685e",
+    "fname": "土豆焖鸭",
+    "normprice": 21.5,
+    "realprice": 16.5,
+    "detail": "香辣土豆完美包容鸭肉鲜香回味无穷",
+    "fphoto": "http://localhost:9000/res/files/7a66f7b9-dcad-420d-bd2f-bd39875c685e.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "ac590468-74b3-41a9-92f5-f21be677bd5d",
+    "fname": "脆甜梅",
+    "normprice": 27.9,
+    "realprice": 21.0,
+    "detail": "脆甜梅酸甜适口外皮酥脆口感极佳",
+    "fphoto": "http://localhost:9000/res/files/ac590468-74b3-41a9-92f5-f21be677bd5d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "8e8c0247-ed8a-40f9-95bb-717706182d86",
+    "fname": "油酥烧饼",
+    "normprice": 53.9,
+    "realprice": 40.0,
+    "detail": "外焦里嫩酥香外皮金黄内馅流心好滋味",
+    "fphoto": "http://localhost:9000/res/files/8e8c0247-ed8a-40f9-95bb-717706182d86.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "b65080b8-7898-4713-802b-cd6cc74d0e69",
+    "fname": "一口一酥脆——杏仁瓦片",
+    "normprice": 51.5,
+    "realprice": 41.0,
+    "detail": "一口一酥脆杏仁瓦片层层绽放香脆滋味",
+    "fphoto": "http://localhost:9000/res/files/b65080b8-7898-4713-802b-cd6cc74d0e69.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "b23a9b89-9643-47ef-ac4d-be94ff1239f8",
+    "fname": "四喜福袋",
+    "normprice": 17.9,
+    "realprice": 13.5,
+    "detail": "四喜福袋香脆外层软糯内里惊喜味美极",
+    "fphoto": "http://localhost:9000/res/files/b23a9b89-9643-47ef-ac4d-be94ff1239f8.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "30f5b565-a540-4bf9-a010-cc54445e2491",
+    "fname": "番茄肥牛滑蛋",
+    "normprice": 44.8,
+    "realprice": 39.0,
+    "detail": "番茄酸甜肥牛嫩滑蛋鲜美绝伦",
+    "fphoto": "http://localhost:9000/res/files/30f5b565-a540-4bf9-a010-cc54445e2491.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "18473d1f-6603-462e-926f-747c4b2b8658",
+    "fname": "雪菜牛肉炒饭",
+    "normprice": 21.0,
+    "realprice": 19.0,
+    "detail": "雪菜牛肉香四溢炒饭粒粒鲜香口",
+    "fphoto": "http://localhost:9000/res/files/18473d1f-6603-462e-926f-747c4b2b8658.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "aa493530-34e8-4a2a-aba1-6a91a78b2e6e",
+    "fname": "荠菜煮鸡蛋",
+    "normprice": 10.5,
+    "realprice": 9.0,
+    "detail": "荠香嫩滑蛋香醇一口入心",
+    "fphoto": "http://localhost:9000/res/files/aa493530-34e8-4a2a-aba1-6a91a78b2e6e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "ce2986de-f349-4125-97ae-74ee11d19ee6",
+    "fname": "午餐肉",
+    "normprice": 31.9,
+    "realprice": 24.0,
+    "detail": "午餐肉爽滑弹味鲜香一筷子入口",
+    "fphoto": "http://localhost:9000/res/files/ce2986de-f349-4125-97ae-74ee11d19ee6.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "f0016615-a505-47f2-9bdb-4f7fbdaf559b",
+    "fname": "大米饭团",
+    "normprice": 15.8,
+    "realprice": 13.5,
+    "detail": "香软米饭包裹细腻紫菜鲜美虾仁外皮酥脆",
+    "fphoto": "http://localhost:9000/res/files/f0016615-a505-47f2-9bdb-4f7fbdaf559b.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "c9bf86a9-aa10-4970-a468-d6774b081e4c",
+    "fname": "凉拌绿豆芽",
+    "normprice": 13.2,
+    "realprice": 10.0,
+    "detail": "脆嫩绿豆芽酸甜适口拌黄瓜",
+    "fphoto": "http://localhost:9000/res/files/c9bf86a9-aa10-4970-a468-d6774b081e4c.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e09d4a9b-ebb2-480e-99ed-003ed7d01434",
+    "fname": "玛格丽特可可饼干",
+    "normprice": 35.8,
+    "realprice": 32.0,
+    "detail": "甜蜜玛格丽特滋味可可饼干酥脆诱人",
+    "fphoto": "http://localhost:9000/res/files/e09d4a9b-ebb2-480e-99ed-003ed7d01434.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a6bc7dc9-b045-4d37-a8c4-12003b6c2ac0",
+    "fname": "炒时蔬",
+    "normprice": 22.5,
+    "realprice": 19.5,
+    "detail": "新鲜时蔬快炒嫩滑香辣有嚼劲",
+    "fphoto": "http://localhost:9000/res/files/a6bc7dc9-b045-4d37-a8c4-12003b6c2ac0.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "146ebccd-2744-4106-96b9-1e2a652d84e8",
+    "fname": "广式炒粿条",
+    "normprice": 23.8,
+    "realprice": 20.5,
+    "detail": "老城味道现炒粿条香脆爽滑家常美味",
+    "fphoto": "http://localhost:9000/res/files/146ebccd-2744-4106-96b9-1e2a652d84e8.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "b45d02ce-ca90-4489-b43a-0df5f8b49875",
+    "fname": "四神汤炖鸽子",
+    "normprice": 48.3,
+    "realprice": 36.5,
+    "detail": "滋补四神鸽汤暖胃补肾一碗尽享养生滋味",
+    "fphoto": "http://localhost:9000/res/files/b45d02ce-ca90-4489-b43a-0df5f8b49875.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0fb164db-53b6-46e5-9502-8840dc493ffb",
+    "fname": "蒸菜米米蒿",
+    "normprice": 18.5,
+    "realprice": 15.5,
+    "detail": "嫩蒿清香蒸米粒满口留香",
+    "fphoto": "http://localhost:9000/res/files/0fb164db-53b6-46e5-9502-8840dc493ffb.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "95c2a142-40fd-4989-8b10-d20faf9e4220",
+    "fname": "凉拌菜",
+    "normprice": 10.7,
+    "realprice": 9.5,
+    "detail": "脆皮豆腐黄瓜条酸甜适口感骨脆",
+    "fphoto": "http://localhost:9000/res/files/95c2a142-40fd-4989-8b10-d20faf9e4220.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "b6e05ca8-5ed0-4dd3-9a0f-e83237f301dd",
+    "fname": "黑芝麻杂粮包",
+    "normprice": 21.8,
+    "realprice": 19.5,
+    "detail": "黑芝麻杂粮香软糯嚼劲十足营养又健康",
+    "fphoto": "http://localhost:9000/res/files/b6e05ca8-5ed0-4dd3-9a0f-e83237f301dd.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ecbe55d1-d333-422e-8978-7c6d1a2c8b14",
+    "fname": "减脂虾仁白菜豆腐汤",
+    "normprice": 38.6,
+    "realprice": 35.0,
+    "detail": "减脂三宝炖汤鲜美清淡虾仁白菜豆腐营养减脂",
+    "fphoto": "http://localhost:9000/res/files/ecbe55d1-d333-422e-8978-7c6d1a2c8b14.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0e018cc3-4ef6-43df-8999-3c08e11510bd",
+    "fname": "巧克力玛芬蛋糕",
+    "normprice": 45.2,
+    "realprice": 41.0,
+    "detail": "浓郁巧克力香气四溢玛芬蛋糕甜而不腻每一口都是享受",
+    "fphoto": "http://localhost:9000/res/files/0e018cc3-4ef6-43df-8999-3c08e11510bd.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "fd4fea1b-7de4-435d-8d40-fbc2670a73cf",
+    "fname": "洋葱拌木耳",
+    "normprice": 10.7,
+    "realprice": 9.5,
+    "detail": "香脆洋葱拌爽口木耳清爽不油腻",
+    "fphoto": "http://localhost:9000/res/files/fd4fea1b-7de4-435d-8d40-fbc2670a73cf.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "abe30346-4615-4f6d-842f-9488ed041954",
+    "fname": "茄子鸡肉",
+    "normprice": 56.9,
+    "realprice": 45.0,
+    "detail": "香嫩茄子裹鸡丁炒出家常味",
+    "fphoto": "http://localhost:9000/res/files/abe30346-4615-4f6d-842f-9488ed041954.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "0c637dd7-890f-4fe2-893f-3f7f4e6c4d1c",
+    "fname": "自制糯米藕",
+    "normprice": 13.2,
+    "realprice": 12.0,
+    "detail": "蜜汁香甜糯米藕软糯清凉解暑意",
+    "fphoto": "http://localhost:9000/res/files/0c637dd7-890f-4fe2-893f-3f7f4e6c4d1c.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "a64d8a95-7770-4b8d-a6e5-73f4c3b0690c",
+    "fname": "玉米面馒头",
+    "normprice": 8.6,
+    "realprice": 6.5,
+    "detail": "香甜玉米香软玉米面馒头一口一个回味无穷",
+    "fphoto": "http://localhost:9000/res/files/a64d8a95-7770-4b8d-a6e5-73f4c3b0690c.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "6faf3311-4f2e-4e9f-b4a4-32308481ea8e",
+    "fname": "擂辣椒皮蛋",
+    "normprice": 13.2,
+    "realprice": 10.0,
+    "detail": "凉爽皮蛋配特制辣椒味蕾炸裂推荐",
+    "fphoto": "http://localhost:9000/res/files/6faf3311-4f2e-4e9f-b4a4-32308481ea8e.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "c11c7a82-c0b0-4706-88d5-2b6d41ec1b41",
+    "fname": "玉米鸡翅煲",
+    "normprice": 37.1,
+    "realprice": 28.0,
+    "detail": "香辣玉米炖鸡翅外酥里嫩玉米饱满",
+    "fphoto": "http://localhost:9000/res/files/c11c7a82-c0b0-4706-88d5-2b6d41ec1b41.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "c907cd70-869b-4f87-a5eb-3c4ae7a0e81e",
+    "fname": "酸菜小笋午餐肉炒饭",
+    "normprice": 15.5,
+    "realprice": 12.5,
+    "detail": "酸辣小笋伴午餐肉炒饭香辣可口拌饭高手必点",
+    "fphoto": "http://localhost:9000/res/files/c907cd70-869b-4f87-a5eb-3c4ae7a0e81e.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ab4be9ac-a4ea-4107-9ec7-5970104e8c6e",
+    "fname": "桂花蜜奶冻",
+    "normprice": 33.5,
+    "realprice": 25.0,
+    "detail": "香醇桂花蜜奶冻甜蜜入口回味无穷",
+    "fphoto": "http://localhost:9000/res/files/ab4be9ac-a4ea-4107-9ec7-5970104e8c6e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "1dca20fa-5f99-4246-bd96-6569f6ca8b73",
+    "fname": "蛋黄肉粽",
+    "normprice": 32.8,
+    "realprice": 29.5,
+    "detail": "香糯外皮藏诱人蛋黄肉香满口回味长",
+    "fphoto": "http://localhost:9000/res/files/1dca20fa-5f99-4246-bd96-6569f6ca8b73.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "51df522b-759f-4784-b4d7-20e1c481349d",
+    "fname": "创意金汤玉米笋",
+    "normprice": 53.9,
+    "realprice": 41.0,
+    "detail": "创意金汤玉米笋鲜香嫩滑汤汁浓郁",
+    "fphoto": "http://localhost:9000/res/files/51df522b-759f-4784-b4d7-20e1c481349d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "fa446cc8-feff-4099-9fbe-2f58a2767527",
+    "fname": "啤酒香辣蟹",
+    "normprice": 64.0,
+    "realprice": 47.5,
+    "detail": "啤酒香辣蟹肉质鲜嫩外皮酥脆香辣过瘾开胃好菜",
+    "fphoto": "http://localhost:9000/res/files/fa446cc8-feff-4099-9fbe-2f58a2767527.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "6d55537e-5cdc-4d3e-8bde-75286e73943b",
+    "fname": "牛肝菌牛排焖饭",
+    "normprice": 18.2,
+    "realprice": 13.5,
+    "detail": "香嫩牛排菌香四溢焖煮出绝美米饭饭粒粘稠美味佳选",
+    "fphoto": "http://localhost:9000/res/files/6d55537e-5cdc-4d3e-8bde-75286e73943b.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "2597e4ca-1962-4cf7-b9fe-3c0d25b3ed51",
+    "fname": "山药米酒蛋花汤",
+    "normprice": 35.2,
+    "realprice": 29.5,
+    "detail": "暖心山药暖胃酒香蛋花汤一碗温情满人间",
+    "fphoto": "http://localhost:9000/res/files/2597e4ca-1962-4cf7-b9fe-3c0d25b3ed51.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "88f22831-6b4b-48f6-8b79-b9a388e803ab",
+    "fname": "玉米面菜团",
+    "normprice": 25.5,
+    "realprice": 21.0,
+    "detail": "香甜玉米面团包裹鲜嫩小菜色香味俱全",
+    "fphoto": "http://localhost:9000/res/files/88f22831-6b4b-48f6-8b79-b9a388e803ab.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "2cf97991-f521-40d4-8bcb-4f59e52db3b9",
+    "fname": "香菇小白菜汤",
+    "normprice": 42.8,
+    "realprice": 34.0,
+    "detail": "鲜香菇小白菜汤鲜香滑口开胃绝配",
+    "fphoto": "http://localhost:9000/res/files/2cf97991-f521-40d4-8bcb-4f59e52db3b9.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "943a652d-4aed-4e4a-999e-fe1d94a5c320",
+    "fname": "紫苏仔姜桃子",
+    "normprice": 18.3,
+    "realprice": 14.5,
+    "detail": "紫苏嫩姜脆桃爽口凉菜开胃绝",
+    "fphoto": "http://localhost:9000/res/files/943a652d-4aed-4e4a-999e-fe1d94a5c320.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "d2b41cf2-b685-44f9-8e17-922250f68dc8",
+    "fname": "豌豆腊肠焖饭",
+    "normprice": 7.1,
+    "realprice": 5.5,
+    "detail": "香辣豌豆腊肠焖饭粒粒饱满营养丰富开胃下饭",
+    "fphoto": "http://localhost:9000/res/files/d2b41cf2-b685-44f9-8e17-922250f68dc8.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "478ea7dd-0310-44a0-8995-954a5b279cfa",
+    "fname": "金沙肉松蛋黄酥",
+    "normprice": 45.7,
+    "realprice": 37.0,
+    "detail": "香醇蛋黄肉松裹金沙奶黄皮酥外松内软",
+    "fphoto": "http://localhost:9000/res/files/478ea7dd-0310-44a0-8995-954a5b279cfa.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "18fbae33-df79-4030-9321-005a9bc45d3f",
+    "fname": "洪湖莲藕排骨汤",
+    "normprice": 27.2,
+    "realprice": 21.0,
+    "detail": "洪湖莲藕排骨汤鲜香软糯莲藕助消化排骨不油腻",
+    "fphoto": "http://localhost:9000/res/files/18fbae33-df79-4030-9321-005a9bc45d3f.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "ced5b42e-bbff-4caa-a097-af9605aa1c0d",
+    "fname": "西红柿烩饭",
+    "normprice": 25.6,
+    "realprice": 20.0,
+    "detail": "香浓番茄味鲜肉厚饭粒松软每一口都是满足",
+    "fphoto": "http://localhost:9000/res/files/ced5b42e-bbff-4caa-a097-af9605aa1c0d.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "4e66bef1-b95a-45bc-852b-827c48d97e43",
+    "fname": "萝卜煎蛋掉秤汤",
+    "normprice": 31.7,
+    "realprice": 26.5,
+    "detail": "萝卜鲜香蛋鲜嫩汤鲜滑掉秤诱惑",
+    "fphoto": "http://localhost:9000/res/files/4e66bef1-b95a-45bc-852b-827c48d97e43.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "a5740c4c-7023-4ef7-9c49-7495745f3758",
+    "fname": "荠菜冬笋豆干春卷",
+    "normprice": 25.5,
+    "realprice": 19.0,
+    "detail": "荠香嫩笋春卷外酥里嫩尝一口荠菜香",
+    "fphoto": "http://localhost:9000/res/files/a5740c4c-7023-4ef7-9c49-7495745f3758.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "5a27ffdc-ba61-48f6-9405-dded4880af0d",
+    "fname": "烧麦纸皮烧卖",
+    "normprice": 10.0,
+    "realprice": 7.5,
+    "detail": "皮薄馅嫩外皮香酥一口满足",
+    "fphoto": "http://localhost:9000/res/files/5a27ffdc-ba61-48f6-9405-dded4880af0d.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "767ac2a3-37fb-447f-a9df-2f8e7824f42f",
+    "fname": "简版五色糯米饭",
+    "normprice": 18.5,
+    "realprice": 15.5,
+    "detail": "五彩糯米饭香糯软滑营养全一碗解决一餐",
+    "fphoto": "http://localhost:9000/res/files/767ac2a3-37fb-447f-a9df-2f8e7824f42f.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "bac8dc91-078d-48b8-a6e2-cc1f17935787",
+    "fname": "青椒木耳炒肉",
+    "normprice": 22.9,
+    "realprice": 17.0,
+    "detail": "香辣肉嫩青椒脆木耳炒菜开胃绝配",
+    "fphoto": "http://localhost:9000/res/files/bac8dc91-078d-48b8-a6e2-cc1f17935787.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "4d219d03-9b3a-41d4-accb-5580effe8e0a",
+    "fname": "乌鸡蘑菇汤",
+    "normprice": 17.4,
+    "realprice": 14.0,
+    "detail": "乌鸡红枣炖蘑菇汤滋养又暖胃",
+    "fphoto": "http://localhost:9000/res/files/4d219d03-9b3a-41d4-accb-5580effe8e0a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "b82724f5-baac-48dc-a113-a7e1d13433d4",
+    "fname": "红薯烤蛋奶",
+    "normprice": 52.7,
+    "realprice": 43.0,
+    "detail": "红薯香烤奶蛋奶香浓郁口感独特",
+    "fphoto": "http://localhost:9000/res/files/b82724f5-baac-48dc-a113-a7e1d13433d4.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "5c50f9ef-ebd0-4f06-bc0e-dec05dc61dc4",
+    "fname": "培根披萨",
+    "normprice": 22.2,
+    "realprice": 20.0,
+    "detail": "金黄培根披萨香脆外皮夹杂酥软内层 外酥里嫩诱人食欲",
+    "fphoto": "http://localhost:9000/res/files/5c50f9ef-ebd0-4f06-bc0e-dec05dc61dc4.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "685f68e9-c641-4145-8698-81226689cf9d",
+    "fname": "山药虾仁旮瘩汤",
+    "normprice": 8.4,
+    "realprice": 7.5,
+    "detail": "鲜嫩山药伴虾仁咕咾味疙瘩汤香浓一碗",
+    "fphoto": "http://localhost:9000/res/files/685f68e9-c641-4145-8698-81226689cf9d.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "ca07baf1-aafe-4f83-a892-33e7a3062f71",
+    "fname": "百金春兰饭",
+    "normprice": 22.1,
+    "realprice": 19.0,
+    "detail": "百金春兰饭香软糯满口香米饭粒粒分明鲜香味美",
+    "fphoto": "http://localhost:9000/res/files/ca07baf1-aafe-4f83-a892-33e7a3062f71.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "07648157-3d01-4f65-92e5-dbef0405249f",
+    "fname": "巧克力慕斯蛋糕",
+    "normprice": 34.8,
+    "realprice": 27.0,
+    "detail": "丝滑巧克力慕斯口感细腻甜而不腻每一口都是幸福",
+    "fphoto": "http://localhost:9000/res/files/07648157-3d01-4f65-92e5-dbef0405249f.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "051d512d-a9da-4b73-8853-0142ce3851a6",
+    "fname": "缤纷炒时蔬",
+    "normprice": 25.9,
+    "realprice": 23.5,
+    "detail": "缤纷色彩时蔬炒制香嫩健康味美",
+    "fphoto": "http://localhost:9000/res/files/051d512d-a9da-4b73-8853-0142ce3851a6.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "5254fa09-b893-4dd4-b4a9-8b03a7e26b18",
+    "fname": "午餐肉虾仁紫菜炒饭",
+    "normprice": 13.2,
+    "realprice": 11.5,
+    "detail": "午餐肉虾仁紫菜炒饭粒粒香滑午餐肉虾仁紫菜鲜香绝配",
+    "fphoto": "http://localhost:9000/res/files/5254fa09-b893-4dd4-b4a9-8b03a7e26b18.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "6b26df63-ce9e-4f5b-adff-a8d0b36d6224",
+    "fname": "牛奶松饼",
+    "normprice": 18.1,
+    "realprice": 15.0,
+    "detail": "香甜牛奶味松软饼外酥里嫩",
+    "fphoto": "http://localhost:9000/res/files/6b26df63-ce9e-4f5b-adff-a8d0b36d6224.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "b7cd959c-ae5d-4482-9c9e-04cc1878cfcc",
+    "fname": "紫菜虾滑掉秤汤",
+    "normprice": 33.2,
+    "realprice": 27.5,
+    "detail": "紫菜虾滑鲜香汤滑入口间",
+    "fphoto": "http://localhost:9000/res/files/b7cd959c-ae5d-4482-9c9e-04cc1878cfcc.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "e0d059d9-ec59-43ae-afa8-abbfa7f549c1",
+    "fname": "凉拌杏鲍菇",
+    "normprice": 27.9,
+    "realprice": 23.0,
+    "detail": "脆嫩杏鲍菇酸辣味鲜口口留香",
+    "fphoto": "http://localhost:9000/res/files/e0d059d9-ec59-43ae-afa8-abbfa7f549c1.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "c286fdfa-6c51-4621-be76-2c0f981094af",
+    "fname": "心形椰蓉面包",
+    "normprice": 49.8,
+    "realprice": 37.5,
+    "detail": "酥脆外壳甜蜜心形内里一口咬下幸福直达心窝",
+    "fphoto": "http://localhost:9000/res/files/c286fdfa-6c51-4621-be76-2c0f981094af.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "b3101160-5c08-47c9-b82b-24e501d00d3b",
+    "fname": "绿豆软酥饼",
+    "normprice": 49.3,
+    "realprice": 37.5,
+    "detail": "绿豆软酥饼外酥里嫩香甜可口尝试一下",
+    "fphoto": "http://localhost:9000/res/files/b3101160-5c08-47c9-b82b-24e501d00d3b.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a5a1f5b2-cd28-45f5-a1c5-fb6785726d8b",
+    "fname": "卤猪心",
+    "normprice": 24.8,
+    "realprice": 21.0,
+    "detail": "凉滑细嚼香四溢猪心别有风味待尝",
+    "fphoto": "http://localhost:9000/res/files/a5a1f5b2-cd28-45f5-a1c5-fb6785726d8b.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "f3f2808f-acfc-4472-a618-3b278e4afa80",
+    "fname": "抹茶奶酪奶角蛋糕",
+    "normprice": 37.6,
+    "realprice": 30.5,
+    "detail": "抹茶奶酪口感细腻奶角蛋糕奶香浓郁甜而不腻",
+    "fphoto": "http://localhost:9000/res/files/f3f2808f-acfc-4472-a618-3b278e4afa80.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "1b808f02-9fd0-4d27-b17d-c781b903d5f9",
+    "fname": "刷脂口蘑裙带汤",
+    "normprice": 38.1,
+    "realprice": 29.5,
+    "detail": "刷脂口蘑裙带汤鲜香浓郁口蘑香裙带营养足",
+    "fphoto": "http://localhost:9000/res/files/1b808f02-9fd0-4d27-b17d-c781b903d5f9.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "a0f84a44-5159-4e49-b7f9-5ff0c3d99505",
+    "fname": "虾仁土豆豆角焖饭",
+    "normprice": 9.4,
+    "realprice": 7.5,
+    "detail": "香辣虾仁土豆豆角焖饭粒粒饱满鲜香满口虾仁味儿",
+    "fphoto": "http://localhost:9000/res/files/a0f84a44-5159-4e49-b7f9-5ff0c3d99505.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "18378223-f691-43fd-bc84-57b0bf2e12b3",
+    "fname": "肉松蛋糕",
+    "normprice": 40.6,
+    "realprice": 35.0,
+    "detail": "香滑蛋糕夹肉松层层叠口感丰富层次分明",
+    "fphoto": "http://localhost:9000/res/files/18378223-f691-43fd-bc84-57b0bf2e12b3.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "372e3da3-f932-4f25-aa4e-5ace351a5d1a",
+    "fname": "火腿虾仁紫菜炒饭",
+    "normprice": 18.5,
+    "realprice": 14.5,
+    "detail": "鲜香火腿虾仁紫菜炒饭粒粒香满口",
+    "fphoto": "http://localhost:9000/res/files/372e3da3-f932-4f25-aa4e-5ace351a5d1a.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "d9781c2c-b02a-461d-bad1-5ac716855c6d",
+    "fname": "羊排萝卜汤",
+    "normprice": 45.6,
+    "realprice": 38.0,
+    "detail": "香辣羊排萝卜汤暖胃又暖心滋味佳",
+    "fphoto": "http://localhost:9000/res/files/d9781c2c-b02a-461d-bad1-5ac716855c6d.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "1e24343d-e47c-449d-820d-f50eb6f99228",
+    "fname": "酸汤酥肉",
+    "normprice": 29.0,
+    "realprice": 22.0,
+    "detail": "酸香四溢酥肉烂煮酸汤鲜美味",
+    "fphoto": "http://localhost:9000/res/files/1e24343d-e47c-449d-820d-f50eb6f99228.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "c7f9bf3d-49f2-42c9-a8b8-a596309058e5",
+    "fname": "红枣糯米糕",
+    "normprice": 11.0,
+    "realprice": 8.5,
+    "detail": "红枣香糯米软滑甜蜜暖心糕",
+    "fphoto": "http://localhost:9000/res/files/c7f9bf3d-49f2-42c9-a8b8-a596309058e5.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "532fd228-b368-46b4-9f47-a154bee16d41",
+    "fname": "牛奶小松饼",
+    "normprice": 22.5,
+    "realprice": 17.0,
+    "detail": "香滑牛奶小松饼松软外皮奶香浓郁内里",
+    "fphoto": "http://localhost:9000/res/files/532fd228-b368-46b4-9f47-a154bee16d41.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "3187d75d-dc3f-48b4-b155-7023e04e4b84",
+    "fname": "豆腐丝小白菜肉块汤",
+    "normprice": 35.8,
+    "realprice": 31.0,
+    "detail": "鲜嫩豆腐小白菜肉块汤营养鲜美一碗足",
+    "fphoto": "http://localhost:9000/res/files/3187d75d-dc3f-48b4-b155-7023e04e4b84.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "abbf0cc3-6ee3-4aa6-9c4d-8c5f3abded46",
+    "fname": "紫苏焗鸡",
+    "normprice": 47.1,
+    "realprice": 37.0,
+    "detail": "香滑紫苏鸡肉嫩味鲜搭配完美",
+    "fphoto": "http://localhost:9000/res/files/abbf0cc3-6ee3-4aa6-9c4d-8c5f3abded46.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "c1b1f3dc-1e6c-44b4-83d1-467f90ba8e02",
+    "fname": "抹茶奶酪夹心司康",
+    "normprice": 30.2,
+    "realprice": 23.5,
+    "detail": "抹茶香气奶酪香夹软滑司康里一口暖心",
+    "fphoto": "http://localhost:9000/res/files/c1b1f3dc-1e6c-44b4-83d1-467f90ba8e02.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "61e7a0bf-707c-4f7c-a2dd-407e050c8208",
+    "fname": "薏米木耳大骨汤",
+    "normprice": 22.4,
+    "realprice": 17.0,
+    "detail": "养生美味薏米木耳大骨汤暖胃又美容",
+    "fphoto": "http://localhost:9000/res/files/61e7a0bf-707c-4f7c-a2dd-407e050c8208.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6ecfb58a-d53f-4b45-a057-c0cf9f7458ed",
+    "fname": "无花果蜜枣椰肉养生鸡汤",
+    "normprice": 29.6,
+    "realprice": 24.0,
+    "detail": "无花果蜜枣椰肉炖鸡汤红枣红枣红枣红枣红枣红枣红枣红枣红枣",
+    "fphoto": "http://localhost:9000/res/files/6ecfb58a-d53f-4b45-a057-c0cf9f7458ed.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "3ba620db-2a4d-4687-a44d-2b1a17b0e1ff",
+    "fname": "自制凉粉",
+    "normprice": 36.2,
+    "realprice": 27.0,
+    "detail": "清凉解腻自制凉粉入口即化好滋味",
+    "fphoto": "http://localhost:9000/res/files/3ba620db-2a4d-4687-a44d-2b1a17b0e1ff.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "17a82d3d-ee74-4e53-b510-492c8a42b143",
+    "fname": "麻椒鸡肉彩蔬沙拉",
+    "normprice": 11.0,
+    "realprice": 9.0,
+    "detail": "麻辣鲜香鸡肉拌彩蔬清爽一餐开胃菜",
+    "fphoto": "http://localhost:9000/res/files/17a82d3d-ee74-4e53-b510-492c8a42b143.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "734b2e47-e252-4099-9bd0-8e0db86c7fe7",
+    "fname": "小鲫鱼汤",
+    "normprice": 38.7,
+    "realprice": 32.0,
+    "detail": "鲜嫩小鲫鱼汤味道醇鲜营养佳",
+    "fphoto": "http://localhost:9000/res/files/734b2e47-e252-4099-9bd0-8e0db86c7fe7.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "84f7081d-d430-48ad-aebb-5fde8995edd4",
+    "fname": "肉沫雪菜毛豆",
+    "normprice": 44.8,
+    "realprice": 35.0,
+    "detail": "肉沫雪菜鲜香毛豆爽口热菜开胃",
+    "fphoto": "http://localhost:9000/res/files/84f7081d-d430-48ad-aebb-5fde8995edd4.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "0bac8418-df62-4921-b123-05b348caf568",
+    "fname": "黄瓜干炒五花肉",
+    "normprice": 25.1,
+    "realprice": 20.5,
+    "detail": "脆黄瓜香嫩五花肉一尝难忘",
+    "fphoto": "http://localhost:9000/res/files/0bac8418-df62-4921-b123-05b348caf568.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "74f72084-fd87-43fb-a18b-416fd2905dca",
+    "fname": "牛油果煎蛋三明治",
+    "normprice": 23.0,
+    "realprice": 19.0,
+    "detail": "香嫩牛油果蛋香满溢金黄酥脆三明治",
+    "fphoto": "http://localhost:9000/res/files/74f72084-fd87-43fb-a18b-416fd2905dca.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "b3a59d4d-ba54-4a90-a3b7-de4a9f82017e",
+    "fname": "创意蛋黄米饭",
+    "normprice": 12.2,
+    "realprice": 11.0,
+    "detail": "创意蛋黄米饭香滑米饭中嵌入新鲜蛋黄味美绝伦",
+    "fphoto": "http://localhost:9000/res/files/b3a59d4d-ba54-4a90-a3b7-de4a9f82017e.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "f3064d3e-c8e7-4ae2-8282-dbcc686898ff",
+    "fname": "车厘子果脯",
+    "normprice": 15.6,
+    "realprice": 12.5,
+    "detail": "甜蜜果脯尝鲜车厘子风味小吃",
+    "fphoto": "http://localhost:9000/res/files/f3064d3e-c8e7-4ae2-8282-dbcc686898ff.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "95865e37-defb-4587-a17e-15b8b7f082e8",
+    "fname": "韩式大酱汤",
+    "normprice": 22.6,
+    "realprice": 17.0,
+    "detail": "韩式大酱汤鲜香浓郁味美汤鲜肉嫩",
+    "fphoto": "http://localhost:9000/res/files/95865e37-defb-4587-a17e-15b8b7f082e8.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "a345213c-0fb4-443c-83ce-7aabf75c3f68",
+    "fname": "榆钱窝窝",
+    "normprice": 17.3,
+    "realprice": 13.5,
+    "detail": "榆钱翠绿裹面香咬一口春意浓",
+    "fphoto": "http://localhost:9000/res/files/a345213c-0fb4-443c-83ce-7aabf75c3f68.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "7061e67e-7d8a-4919-98d0-cbc7665e6eb0",
+    "fname": "广式肠粉",
+    "normprice": 25.0,
+    "realprice": 20.0,
+    "detail": "香滑肠粉软糯味鲜香一咬难忘",
+    "fphoto": "http://localhost:9000/res/files/7061e67e-7d8a-4919-98d0-cbc7665e6eb0.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "4fc01293-8fd7-405f-9e47-d509ccb00478",
+    "fname": "沙葛焖猪肚",
+    "normprice": 45.4,
+    "realprice": 41.0,
+    "detail": "香辣沙葛炖猪肚软糯可口全家乐",
+    "fphoto": "http://localhost:9000/res/files/4fc01293-8fd7-405f-9e47-d509ccb00478.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "0f6999dc-62ad-4eb4-9afc-96b640b428cb",
+    "fname": "鲜虾馄饨",
+    "normprice": 19.1,
+    "realprice": 15.0,
+    "detail": "鲜嫩虾仁配细滑馄饨汤色色诱人",
+    "fphoto": "http://localhost:9000/res/files/0f6999dc-62ad-4eb4-9afc-96b640b428cb.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "ccf6969a-424c-49ad-b2c6-98237654d7d4",
+    "fname": "肇庆艾糍青团",
+    "normprice": 34.8,
+    "realprice": 27.0,
+    "detail": "肇庆艾香裹青团甜蜜暖心糯香满口",
+    "fphoto": "http://localhost:9000/res/files/ccf6969a-424c-49ad-b2c6-98237654d7d4.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "4429a166-5184-41b3-8e50-19e7d894370d",
+    "fname": "黄瓜苹果蟹柳沙拉",
+    "normprice": 20.0,
+    "realprice": 17.0,
+    "detail": "清新黄瓜苹果配蟹柳爽口沙拉",
+    "fphoto": "http://localhost:9000/res/files/4429a166-5184-41b3-8e50-19e7d894370d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "601a2331-0fd3-41d8-9af8-acd05fa698f3",
+    "fname": "浇汁豆腐",
+    "normprice": 53.5,
+    "realprice": 41.5,
+    "detail": "麻辣鲜香浇汁豆腐爽滑可口开胃绝配",
+    "fphoto": "http://localhost:9000/res/files/601a2331-0fd3-41d8-9af8-acd05fa698f3.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "11c8ff08-c3ee-4e4a-8709-74466a2aa476",
+    "fname": "藜麦三文鱼沙拉",
+    "normprice": 12.9,
+    "realprice": 10.5,
+    "detail": "藜麦三文鱼沙拉清新爽口金鱼戏藜麦",
+    "fphoto": "http://localhost:9000/res/files/11c8ff08-c3ee-4e4a-8709-74466a2aa476.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5fe57c2d-e099-4b69-a52e-7908de9efd2c",
+    "fname": "广式蛋黄莲蓉月饼",
+    "normprice": 36.8,
+    "realprice": 31.0,
+    "detail": "金黄酥皮夹蛋黄莲蓉香甜软糯",
+    "fphoto": "http://localhost:9000/res/files/5fe57c2d-e099-4b69-a52e-7908de9efd2c.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "c32cb959-f8d5-4b62-a767-a8076e30f6a7",
+    "fname": "鲫鱼豆腐汤",
+    "normprice": 27.9,
+    "realprice": 23.5,
+    "detail": "嫩鲫鱼豆腐汤鲜香滑嫩味美豆腐软烂营养佳",
+    "fphoto": "http://localhost:9000/res/files/c32cb959-f8d5-4b62-a767-a8076e30f6a7.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "89ba2f29-667d-4a8e-ae70-c12608bf4dda",
+    "fname": "菠萝香菜拌牛肉",
+    "normprice": 23.9,
+    "realprice": 20.0,
+    "detail": "菠萝香菜拌牛肉酸辣鲜香口感绝",
+    "fphoto": "http://localhost:9000/res/files/89ba2f29-667d-4a8e-ae70-c12608bf4dda.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "c913b156-4c86-4cbb-8979-08eb287cb82d",
+    "fname": "家常炒饭",
+    "normprice": 22.9,
+    "realprice": 20.5,
+    "detail": "金黄米饭粒粒饱满香脆鸡蛋火候恰鸡蛋香鲜美",
+    "fphoto": "http://localhost:9000/res/files/c913b156-4c86-4cbb-8979-08eb287cb82d.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "abe80753-4c3a-4a6f-a552-9f2307017fa9",
+    "fname": "皮蛋拌豆腐",
+    "normprice": 26.5,
+    "realprice": 21.0,
+    "detail": "嫩滑豆腐配软糯皮蛋味美绝配凉拌一碗下肚",
+    "fphoto": "http://localhost:9000/res/files/abe80753-4c3a-4a6f-a552-9f2307017fa9.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "7bf64530-6fb4-4d39-b5a6-fdd7e0da108a",
+    "fname": "牛肉鱼片泡菜锅",
+    "normprice": 35.3,
+    "realprice": 28.0,
+    "detail": "劲爽鱼片泡椒锅肉香四溢鲜辣开胃",
+    "fphoto": "http://localhost:9000/res/files/7bf64530-6fb4-4d39-b5a6-fdd7e0da108a.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "00635b91-78fb-4dae-b66b-cefb3a26dcb3",
+    "fname": "黄瓜鸡蛋虾滑汤",
+    "normprice": 15.0,
+    "realprice": 13.0,
+    "detail": "鲜嫩虾滑汤中和香脆黄瓜蛋花绝配",
+    "fphoto": "http://localhost:9000/res/files/00635b91-78fb-4dae-b66b-cefb3a26dcb3.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6f4e5bcc-4f28-436f-8faa-dc36415497ab",
+    "fname": "肉片青菜炒年糕",
+    "normprice": 17.8,
+    "realprice": 15.0,
+    "detail": "肉片青菜炒年糕鲜香爽滑主辅味美绝搭配",
+    "fphoto": "http://localhost:9000/res/files/6f4e5bcc-4f28-436f-8faa-dc36415497ab.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "78bcde21-edbf-4397-8426-b98ddccc6fc6",
+    "fname": "自制春饼",
+    "normprice": 26.8,
+    "realprice": 20.5,
+    "detail": "酥脆春饼卷番茄鸡蛋香嫩爽口回味无穷",
+    "fphoto": "http://localhost:9000/res/files/78bcde21-edbf-4397-8426-b98ddccc6fc6.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "6884693c-84fb-4e06-91c5-346fd7deda39",
+    "fname": "凉拌浦公英",
+    "normprice": 28.3,
+    "realprice": 22.0,
+    "detail": "凉爽一口清风过鲜嫩浦公英拌味绝",
+    "fphoto": "http://localhost:9000/res/files/6884693c-84fb-4e06-91c5-346fd7deda39.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "fcc7c6f1-d0c4-4815-8619-4ac79a75fbeb",
+    "fname": "非糯米棕子",
+    "normprice": 14.6,
+    "realprice": 13.0,
+    "detail": "香糯外皮包裹鲜肉枣甜口感丰富粽子",
+    "fphoto": "http://localhost:9000/res/files/fcc7c6f1-d0c4-4815-8619-4ac79a75fbeb.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "496a0cb6-7bc4-494c-bb0f-6e5b1c4e8996",
+    "fname": "火龙果汁米饭",
+    "normprice": 15.7,
+    "realprice": 12.5,
+    "detail": "火龙果汁香甜煮饭粒粒饱满营养又解腻",
+    "fphoto": "http://localhost:9000/res/files/496a0cb6-7bc4-494c-bb0f-6e5b1c4e8996.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "2a1e923f-9f07-4def-b6d3-1f34ea0306a2",
+    "fname": "平菇鸡蛋汤",
+    "normprice": 29.9,
+    "realprice": 22.5,
+    "detail": "鲜菇滑蛋汤营养又暖胃一碗暖心佳品",
+    "fphoto": "http://localhost:9000/res/files/2a1e923f-9f07-4def-b6d3-1f34ea0306a2.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6a747799-2e2c-4a6a-8548-c40e937a3b71",
+    "fname": "东北驴打滚",
+    "normprice": 20.5,
+    "realprice": 15.5,
+    "detail": "甜糯绿豆粉衣香酥红豆馅外皮内陷溶为一体",
+    "fphoto": "http://localhost:9000/res/files/6a747799-2e2c-4a6a-8548-c40e937a3b71.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "68015051-da7e-4a67-ba80-d55a2bbde6db",
+    "fname": "麻酱拌米粉",
+    "normprice": 17.5,
+    "realprice": 13.5,
+    "detail": "香辣麻酱拌爽滑米粉味鲜香回味无穷",
+    "fphoto": "http://localhost:9000/res/files/68015051-da7e-4a67-ba80-d55a2bbde6db.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "51c36fe1-2048-421c-8b90-d6553bd22954",
+    "fname": "人参莲肉汤",
+    "normprice": 15.6,
+    "realprice": 12.5,
+    "detail": "人参莲肉汤养生暖身味道鲜美每一口都是享受",
+    "fphoto": "http://localhost:9000/res/files/51c36fe1-2048-421c-8b90-d6553bd22954.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "121bcbd7-d10b-4170-bdc8-63aae112faf7",
+    "fname": "凉拌木耳面筋",
+    "normprice": 14.6,
+    "realprice": 12.5,
+    "detail": "凉爽木耳拌面筋口感绝绝子",
+    "fphoto": "http://localhost:9000/res/files/121bcbd7-d10b-4170-bdc8-63aae112faf7.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "df4cba82-23c9-4069-a66a-4dced6ea55a6",
+    "fname": "月饼",
+    "normprice": 23.9,
+    "realprice": 21.0,
+    "detail": "香滑奶黄月饼中秋暖心甜点",
+    "fphoto": "http://localhost:9000/res/files/df4cba82-23c9-4069-a66a-4dced6ea55a6.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "f7e57cff-6cf6-4cbe-8b66-10d434a1e730",
+    "fname": "棉花蛋糕",
+    "normprice": 55.8,
+    "realprice": 42.0,
+    "detail": "棉花般细腻轻软入口即化每一口都是幸福滋味",
+    "fphoto": "http://localhost:9000/res/files/f7e57cff-6cf6-4cbe-8b66-10d434a1e730.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "60af8948-2b4c-4b84-a38e-c858f5d5e29f",
+    "fname": "闽南咸饭",
+    "normprice": 24.3,
+    "realprice": 21.5,
+    "detail": "闽南地道咸饭香软可口肉菜鲜",
+    "fphoto": "http://localhost:9000/res/files/60af8948-2b4c-4b84-a38e-c858f5d5e29f.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "7a1240b5-deba-42f8-b9f1-abe43dde592c",
+    "fname": "手抓饼卷",
+    "normprice": 31.9,
+    "realprice": 24.0,
+    "detail": "酥脆手抓饼夹新鲜蔬菜牛肉香四溢",
+    "fphoto": "http://localhost:9000/res/files/7a1240b5-deba-42f8-b9f1-abe43dde592c.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "20b767bf-8990-4013-b140-ffbae3aa742d",
+    "fname": "葱油鸡腿焖饭",
+    "normprice": 20.7,
+    "realprice": 16.5,
+    "detail": "葱香四溢鸡腿肉烂烂米饭香酥软",
+    "fphoto": "http://localhost:9000/res/files/20b767bf-8990-4013-b140-ffbae3aa742d.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "1fdf5417-7170-4c4c-8650-59889fef77c0",
+    "fname": "五香卤花生",
+    "normprice": 27.0,
+    "realprice": 21.5,
+    "detail": "五香卤香酥外皮内嫩嚼劲足酥而不散",
+    "fphoto": "http://localhost:9000/res/files/1fdf5417-7170-4c4c-8650-59889fef77c0.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5e41dae9-412d-45e7-84f6-44914d00c34e",
+    "fname": "羊肚菌乌鸡汤",
+    "normprice": 33.0,
+    "realprice": 25.0,
+    "detail": "羊肚菌炖乌鸡汤鲜滑汤浓味醇香",
+    "fphoto": "http://localhost:9000/res/files/5e41dae9-412d-45e7-84f6-44914d00c34e.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "bbb35a00-100d-48a5-b477-47bc35e5b384",
+    "fname": "凉拌菜",
+    "normprice": 20.0,
+    "realprice": 17.5,
+    "detail": "脆爽口感酸辣鲜香口齿留香",
+    "fphoto": "http://localhost:9000/res/files/bbb35a00-100d-48a5-b477-47bc35e5b384.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "9d20b899-9407-4181-a01a-e0a318d90acb",
+    "fname": "奶香芝士玉米",
+    "normprice": 22.0,
+    "realprice": 16.5,
+    "detail": "奶香浓郁芝士香玉米入口即化美味推荐",
+    "fphoto": "http://localhost:9000/res/files/9d20b899-9407-4181-a01a-e0a318d90acb.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "afb9e53b-b412-4b0d-bfa1-74acc87f067d",
+    "fname": "口蘑冬瓜牛肉汤",
+    "normprice": 17.1,
+    "realprice": 14.0,
+    "detail": "鲜嫩口蘑冬瓜牛肉汤暖心暖胃美味无穷",
+    "fphoto": "http://localhost:9000/res/files/afb9e53b-b412-4b0d-bfa1-74acc87f067d.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "b51bc261-1030-4052-8cc3-44aa26b21e14",
+    "fname": "抹茶蛋糕面包卷",
+    "normprice": 53.9,
+    "realprice": 43.5,
+    "detail": "抹茶蛋糕香浓外脆内软一口惊艳",
+    "fphoto": "http://localhost:9000/res/files/b51bc261-1030-4052-8cc3-44aa26b21e14.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "006ac831-ca1c-40c1-9f39-f2663a5ad91a",
+    "fname": "土豆乌米焖饭",
+    "normprice": 23.5,
+    "realprice": 19.5,
+    "detail": "香软土豆乌米拌饭营养又美味",
+    "fphoto": "http://localhost:9000/res/files/006ac831-ca1c-40c1-9f39-f2663a5ad91a.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0db75a81-2e8a-4b40-b7ed-d1ae25747452",
+    "fname": "茶粉鸡肉丸汤",
+    "normprice": 22.3,
+    "realprice": 18.0,
+    "detail": "茶香四溢鸡肉丸汤鲜美如画",
+    "fphoto": "http://localhost:9000/res/files/0db75a81-2e8a-4b40-b7ed-d1ae25747452.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "1121c195-c26f-4a06-9cd1-9a2cb8c8aae7",
+    "fname": "怪味鸡爪",
+    "normprice": 49.1,
+    "realprice": 38.5,
+    "detail": "麻辣鲜香怪味绝美味嚼舌尖上惊喜",
+    "fphoto": "http://localhost:9000/res/files/1121c195-c26f-4a06-9cd1-9a2cb8c8aae7.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "46c2c0c2-2b6e-4b80-b8d7-f755eb32c49c",
+    "fname": "原味巴斯克蛋糕",
+    "normprice": 34.4,
+    "realprice": 31.0,
+    "detail": "香浓黄油原味巴斯克蛋糕柔软丝滑口感独特",
+    "fphoto": "http://localhost:9000/res/files/46c2c0c2-2b6e-4b80-b8d7-f755eb32c49c.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "e9f30b17-7408-4c92-895e-f45b1292c1a5",
+    "fname": "红糖酥饼",
+    "normprice": 26.7,
+    "realprice": 22.0,
+    "detail": "甜蜜酥脆红糖香一口咬定暖人心",
+    "fphoto": "http://localhost:9000/res/files/e9f30b17-7408-4c92-895e-f45b1292c1a5.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "656d94c8-24f9-42e6-80ec-ec3d22290a67",
+    "fname": "咖喱牛肉酱拌饭",
+    "normprice": 12.6,
+    "realprice": 10.0,
+    "detail": "香辣咖喱牛肉酱拌饭粒粒分明香辣可口",
+    "fphoto": "http://localhost:9000/res/files/656d94c8-24f9-42e6-80ec-ec3d22290a67.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "d97924cf-8e38-4860-8994-7a675fe0865e",
+    "fname": "自制转化糖浆",
+    "normprice": 19.5,
+    "realprice": 16.0,
+    "detail": "自制转化糖浆甜而不腻解腻佳品",
+    "fphoto": "http://localhost:9000/res/files/d97924cf-8e38-4860-8994-7a675fe0865e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "5864333f-fff5-4f00-a957-03131abc9ebc",
+    "fname": "奶香红豆小圆子",
+    "normprice": 31.1,
+    "realprice": 26.0,
+    "detail": "香甜奶香包裹红豆软糯小圆子",
+    "fphoto": "http://localhost:9000/res/files/5864333f-fff5-4f00-a957-03131abc9ebc.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "703e5adb-f3ae-4f09-82ae-974fcfd4813b",
+    "fname": "擂辣椒茄子皮蛋",
+    "normprice": 14.4,
+    "realprice": 12.0,
+    "detail": "麻辣鲜香擂辣椒皮蛋茄子爽口开胃",
+    "fphoto": "http://localhost:9000/res/files/703e5adb-f3ae-4f09-82ae-974fcfd4813b.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "22963f39-a8ba-45d8-9e73-0a6d1e85c603",
+    "fname": "烤豆角",
+    "normprice": 51.5,
+    "realprice": 40.5,
+    "detail": "香辣豆角外焦里嫩香脆口一次上瘾",
+    "fphoto": "http://localhost:9000/res/files/22963f39-a8ba-45d8-9e73-0a6d1e85c603.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "e208ceb7-c346-45a9-9109-adb3fea92155",
+    "fname": "生熟地麦冬大骨汤",
+    "normprice": 22.3,
+    "realprice": 19.5,
+    "detail": "滋阴养胃大骨汤鲜香麦冬地瓜润肺气",
+    "fphoto": "http://localhost:9000/res/files/e208ceb7-c346-45a9-9109-adb3fea92155.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "63763ea7-7c94-453a-af85-bfc81809bc2a",
+    "fname": "秋日暖胃酸萝卜老鸭汤",
+    "normprice": 37.2,
+    "realprice": 33.5,
+    "detail": "秋日暖阳下酸萝卜老鸭汤暖心胃",
+    "fphoto": "http://localhost:9000/res/files/63763ea7-7c94-453a-af85-bfc81809bc2a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "e820a4cd-8fc1-496c-8ea8-f62123353d35",
+    "fname": "乳黄瓜拌豆卷",
+    "normprice": 12.9,
+    "realprice": 11.0,
+    "detail": "凉爽黄瓜伴豆卷清新解暑味蕾盛宴",
+    "fphoto": "http://localhost:9000/res/files/e820a4cd-8fc1-496c-8ea8-f62123353d35.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "77f81ed7-4614-401c-8cb9-0648fb8c37e3",
+    "fname": "创意火腿肠花朵",
+    "normprice": 13.5,
+    "realprice": 10.5,
+    "detail": "创意火腿肠花朵酸甜适口感十足凉菜开胃好滋味",
+    "fphoto": "http://localhost:9000/res/files/77f81ed7-4614-401c-8cb9-0648fb8c37e3.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "9d048dbf-b18d-479c-b3fb-6a0d01e7d1b8",
+    "fname": "炒饼丝",
+    "normprice": 19.2,
+    "realprice": 16.0,
+    "detail": "酥脆饼丝炒香百味一口尽享",
+    "fphoto": "http://localhost:9000/res/files/9d048dbf-b18d-479c-b3fb-6a0d01e7d1b8.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "d0596d30-a52c-4157-812a-9dce2483a9c5",
+    "fname": "荆芥茄子汤",
+    "normprice": 41.2,
+    "realprice": 32.5,
+    "detail": "荆芥香浓茄子软嫩汤鲜味正一碗暖胃暖心",
+    "fphoto": "http://localhost:9000/res/files/d0596d30-a52c-4157-812a-9dce2483a9c5.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0ce13243-653e-446d-965a-0a6d8381b5f8",
+    "fname": "蕨菜炒腊肉",
+    "normprice": 23.5,
+    "realprice": 18.0,
+    "detail": "香脆腊肉嫩蕨菜锅巴里满满幸福",
+    "fphoto": "http://localhost:9000/res/files/0ce13243-653e-446d-965a-0a6d8381b5f8.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "3b1a929c-4515-4977-bfab-3b9a2289a20f",
+    "fname": "凉拌菠菜",
+    "normprice": 36.4,
+    "realprice": 27.5,
+    "detail": "麻辣鲜香菠菜爽脆一盘解你馋",
+    "fphoto": "http://localhost:9000/res/files/3b1a929c-4515-4977-bfab-3b9a2289a20f.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "5cba5acd-b3b8-4873-9eb1-45ba87510349",
+    "fname": "包菜炒粉签",
+    "normprice": 46.8,
+    "realprice": 38.5,
+    "detail": "脆爽包菜炒粉签风味独特开胃绝搭配",
+    "fphoto": "http://localhost:9000/res/files/5cba5acd-b3b8-4873-9eb1-45ba87510349.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "ed3aea28-d6f4-4c46-8085-09e3fda95688",
+    "fname": "槐花麦饭",
+    "normprice": 10.2,
+    "realprice": 8.0,
+    "detail": "槐花香里麦饭香尝鲜主食温馨一碗尝",
+    "fphoto": "http://localhost:9000/res/files/ed3aea28-d6f4-4c46-8085-09e3fda95688.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "b0c81c3d-0c4d-432a-b691-c58f8d920248",
+    "fname": "泡椒鸡丁炒饭",
+    "normprice": 14.7,
+    "realprice": 12.0,
+    "detail": "麻辣鲜香鸡丁炒饭香米饭粒粒分明",
+    "fphoto": "http://localhost:9000/res/files/b0c81c3d-0c4d-432a-b691-c58f8d920248.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ca08198e-020c-4d58-a23a-ba2374dd199a",
+    "fname": "豆腐丝瓜肉沫汤",
+    "normprice": 19.6,
+    "realprice": 16.0,
+    "detail": "嫩豆腐丝瓜肉沫汤鲜香浓汤味美口",
+    "fphoto": "http://localhost:9000/res/files/ca08198e-020c-4d58-a23a-ba2374dd199a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "2f3fbc1f-4f0e-424b-b354-7dea08af9947",
+    "fname": "轻芝士乳酪蛋糕",
+    "normprice": 50.1,
+    "realprice": 45.0,
+    "detail": "轻芝士口感细腻丝滑乳酪蛋糕甜蜜诱惑",
+    "fphoto": "http://localhost:9000/res/files/2f3fbc1f-4f0e-424b-b354-7dea08af9947.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "d5dcac57-3f0b-4575-9526-6073bcdac2d0",
+    "fname": "沙葱炒肉",
+    "normprice": 30.8,
+    "realprice": 25.5,
+    "detail": "香辣沙葱炒肉肉嫩味鲜色诱人尝试一次",
+    "fphoto": "http://localhost:9000/res/files/d5dcac57-3f0b-4575-9526-6073bcdac2d0.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "ec533d65-ea63-4e40-b81e-e9a5c9260b33",
+    "fname": "洋葱炒白玉木耳",
+    "normprice": 58.6,
+    "realprice": 47.5,
+    "detail": "香脆洋葱拌白玉木耳营养美味开胃菜",
+    "fphoto": "http://localhost:9000/res/files/ec533d65-ea63-4e40-b81e-e9a5c9260b33.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "c0b877e7-b4c8-408d-bc89-15d700e825d9",
+    "fname": "低脂低卡银芽牛肉拌饭",
+    "normprice": 15.2,
+    "realprice": 11.5,
+    "detail": "低脂低卡银芽拌牛肉饭营养美味一碗足",
+    "fphoto": "http://localhost:9000/res/files/c0b877e7-b4c8-408d-bc89-15d700e825d9.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "f3e2295b-5b83-4cea-b16c-9b15c219cc3a",
+    "fname": "黄瓜拌皮蛋",
+    "normprice": 22.2,
+    "realprice": 19.5,
+    "detail": "清新黄瓜伴嫩滑皮蛋爽口绝",
+    "fphoto": "http://localhost:9000/res/files/f3e2295b-5b83-4cea-b16c-9b15c219cc3a.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e116b273-a000-4c06-a658-8e8b4d5b762e",
+    "fname": "清蒸银雪魚",
+    "normprice": 34.1,
+    "realprice": 30.0,
+    "detail": "清蒸银雪鱼鲜嫩滑口感蕾香四溢",
+    "fphoto": "http://localhost:9000/res/files/e116b273-a000-4c06-a658-8e8b4d5b762e.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "1e1580ac-cdb6-4f7e-9849-e6ee0aa09611",
+    "fname": "凉拌菜",
+    "normprice": 28.9,
+    "realprice": 22.5,
+    "detail": "脆爽黄瓜拌木耳口感好凉菜开胃正合适",
+    "fphoto": "http://localhost:9000/res/files/1e1580ac-cdb6-4f7e-9849-e6ee0aa09611.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "56f83b94-240b-47c8-a2b7-7b2804ffac58",
+    "fname": "海米烧莴笋",
+    "normprice": 29.6,
+    "realprice": 25.5,
+    "detail": "香脆海米伴清甜莴笋味美绝伦",
+    "fphoto": "http://localhost:9000/res/files/56f83b94-240b-47c8-a2b7-7b2804ffac58.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "96afe229-6920-4d68-9ec2-5afd1a6860a1",
+    "fname": "春日蔬菜汤",
+    "normprice": 41.4,
+    "realprice": 36.0,
+    "detail": "春日蔬菜汤鲜香暖心暖胃色香味俱全",
+    "fphoto": "http://localhost:9000/res/files/96afe229-6920-4d68-9ec2-5afd1a6860a1.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "3e96eefc-4940-478c-9a01-13856d1cb749",
+    "fname": "醒狮黑金月饼",
+    "normprice": 48.0,
+    "realprice": 39.5,
+    "detail": "醒狮黑金月饼金黄酥脆香甜美味外皮松软内陷浓香",
+    "fphoto": "http://localhost:9000/res/files/3e96eefc-4940-478c-9a01-13856d1cb749.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "ad676613-012f-4eaa-a5ce-48d464a7fdf7",
+    "fname": "苋菜发糕",
+    "normprice": 11.6,
+    "realprice": 10.0,
+    "detail": "苋香软糯发糕味鲜香一碗暖心胃",
+    "fphoto": "http://localhost:9000/res/files/ad676613-012f-4eaa-a5ce-48d464a7fdf7.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "94c4e9e7-13bf-408a-b5ab-a7e1fd123591",
+    "fname": "芝士香肠吐司",
+    "normprice": 22.5,
+    "realprice": 19.0,
+    "detail": "芝士香肠点缀金黄吐司香浓美味不容错过",
+    "fphoto": "http://localhost:9000/res/files/94c4e9e7-13bf-408a-b5ab-a7e1fd123591.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "9a311bb4-5b88-480d-9443-7d09af97054a",
+    "fname": "薄皮大馅素菜卷",
+    "normprice": 8.4,
+    "realprice": 6.5,
+    "detail": "鲜嫩白菜包裹紫菜薄皮一口咬尽春夏滋味",
+    "fphoto": "http://localhost:9000/res/files/9a311bb4-5b88-480d-9443-7d09af97054a.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "4e4f56e2-027a-467a-9b6e-d08295005a99",
+    "fname": "打抛猪肉盖饭",
+    "normprice": 12.3,
+    "realprice": 9.5,
+    "detail": "香辣打抛猪肉盖绝味盖饭米饭香粉嫩别具风味",
+    "fphoto": "http://localhost:9000/res/files/4e4f56e2-027a-467a-9b6e-d08295005a99.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "c3d53f47-27c2-4078-8daf-b30a0e668223",
+    "fname": "手抓饼香蕉披萨",
+    "normprice": 36.6,
+    "realprice": 28.0,
+    "detail": "香脆手抓饼底香蕉切片鲜奶芝士披萨",
+    "fphoto": "http://localhost:9000/res/files/c3d53f47-27c2-4078-8daf-b30a0e668223.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "499f5b0b-92c9-4921-a6ae-de5027ec9b17",
+    "fname": "自制爽滑凉粉",
+    "normprice": 28.4,
+    "realprice": 24.0,
+    "detail": "自制爽滑凉粉口感细腻筋道酸辣适中开胃解腻",
+    "fphoto": "http://localhost:9000/res/files/499f5b0b-92c9-4921-a6ae-de5027ec9b17.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "372abdc8-1a8a-411e-b4de-d762aaa01e87",
+    "fname": "戚风蛋糕",
+    "normprice": 56.2,
+    "realprice": 43.0,
+    "detail": "丝滑细腻戚风蛋糕香甜可口尝试一下",
+    "fphoto": "http://localhost:9000/res/files/372abdc8-1a8a-411e-b4de-d762aaa01e87.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "19b0f310-2aec-460c-bd00-5c7a1bca7d1c",
+    "fname": "板栗排骨焖饭",
+    "normprice": 18.0,
+    "realprice": 15.5,
+    "detail": "香浓板栗炖排骨饭粒松软饭香四溢",
+    "fphoto": "http://localhost:9000/res/files/19b0f310-2aec-460c-bd00-5c7a1bca7d1c.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "7e02a50e-cd9f-42c6-9c78-9090b689d91d",
+    "fname": "软皮绿豆饼",
+    "normprice": 49.1,
+    "realprice": 42.5,
+    "detail": "酥皮外脆内软绿豆香甜口感美",
+    "fphoto": "http://localhost:9000/res/files/7e02a50e-cd9f-42c6-9c78-9090b689d91d.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a028dad1-16c0-4068-a1e5-65480a87ab80",
+    "fname": "黑豆绿豆赤小豆汤",
+    "normprice": 19.6,
+    "realprice": 16.0,
+    "detail": "黑豆绿豆赤小豆暖胃汤健康美味",
+    "fphoto": "http://localhost:9000/res/files/a028dad1-16c0-4068-a1e5-65480a87ab80.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0fe1ef41-7a55-4279-a611-85da53eb965b",
+    "fname": "牛肉柿子汤",
+    "normprice": 16.5,
+    "realprice": 14.5,
+    "detail": "鲜香牛肉和甜蜜柿子汤鲜美绝配诱惑你",
+    "fphoto": "http://localhost:9000/res/files/0fe1ef41-7a55-4279-a611-85da53eb965b.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "29ffeb0a-05cb-4873-b288-0fa67fd0be8e",
+    "fname": "“银元宝”米饭",
+    "normprice": 20.0,
+    "realprice": 15.5,
+    "detail": "香滑米饭外层金黄似银元宝分外诱人",
+    "fphoto": "http://localhost:9000/res/files/29ffeb0a-05cb-4873-b288-0fa67fd0be8e.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "fccf27c7-28ad-497d-aac6-285632635fb7",
+    "fname": "党归羊排炖土豆青萝卜",
+    "normprice": 31.6,
+    "realprice": 24.0,
+    "detail": "党归羊排香炖土豆青萝卜肉香浓郁味鲜美",
+    "fphoto": "http://localhost:9000/res/files/fccf27c7-28ad-497d-aac6-285632635fb7.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "bb61272f-548b-4916-afaf-7aa938b4f523",
+    "fname": "什锦排骨焖饭",
+    "normprice": 10.1,
+    "realprice": 9.0,
+    "detail": "什锦排骨炖饭香辣可口米饭软糯排骨酥烂",
+    "fphoto": "http://localhost:9000/res/files/bb61272f-548b-4916-afaf-7aa938b4f523.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "557721b4-ab38-4753-b188-aac4ecb725b7",
+    "fname": "凉拌黄瓜",
+    "normprice": 31.1,
+    "realprice": 25.5,
+    "detail": "脆嫩黄瓜爽口开胃凉拌味美推荐",
+    "fphoto": "http://localhost:9000/res/files/557721b4-ab38-4753-b188-aac4ecb725b7.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "9655959e-ea01-4672-9dfd-b533c24fd0ac",
+    "fname": "丝瓜尖拌菜",
+    "normprice": 25.7,
+    "realprice": 23.0,
+    "detail": "丝瓜脆嫩菜爽口拌出夏日凉意",
+    "fphoto": "http://localhost:9000/res/files/9655959e-ea01-4672-9dfd-b533c24fd0ac.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "c02e2b25-b8ac-4f79-b43b-2c2a6d29ec58",
+    "fname": "酸萝卜焖鱼",
+    "normprice": 50.9,
+    "realprice": 40.5,
+    "detail": "酸辣开胃酸萝卜炖鱼鲜嫩入味回味无穷",
+    "fphoto": "http://localhost:9000/res/files/c02e2b25-b8ac-4f79-b43b-2c2a6d29ec58.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "47ffcda3-bd52-41c5-aeca-38472cf4dc62",
+    "fname": "酒酿炖鸡蛋",
+    "normprice": 12.8,
+    "realprice": 10.5,
+    "detail": "甜蜜酒酿泡软嫩鸡蛋一口入魂",
+    "fphoto": "http://localhost:9000/res/files/47ffcda3-bd52-41c5-aeca-38472cf4dc62.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "28169289-9fb2-4fd8-860d-30e3b0a6f321",
+    "fname": "美味炒饭",
+    "normprice": 16.1,
+    "realprice": 12.5,
+    "detail": "香辣软糯鸡蛋与 虾仁炒饭诱惑无限",
+    "fphoto": "http://localhost:9000/res/files/28169289-9fb2-4fd8-860d-30e3b0a6f321.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "a1295025-1e48-476b-b23a-0d0bfa6f7c68",
+    "fname": "鸡胸肉版椒盐小酥肉",
+    "normprice": 55.7,
+    "realprice": 46.5,
+    "detail": "椒盐鸡胸嫩酥脆外皮肉质鲜香嫩美",
+    "fphoto": "http://localhost:9000/res/files/a1295025-1e48-476b-b23a-0d0bfa6f7c68.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "08c94dc0-e9bf-4c6a-ba43-f35d25fefd79",
+    "fname": "排骨藕汤",
+    "normprice": 43.1,
+    "realprice": 37.5,
+    "detail": "精选猪肋排慢炖藕香四溢鲜美无比",
+    "fphoto": "http://localhost:9000/res/files/08c94dc0-e9bf-4c6a-ba43-f35d25fefd79.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "ef0355e5-c834-4ba3-b33e-2dc566b09f35",
+    "fname": "豆沙糯米糍",
+    "normprice": 22.3,
+    "realprice": 18.0,
+    "detail": "香软糯米包裹甜蜜豆沙一口入魂",
+    "fphoto": "http://localhost:9000/res/files/ef0355e5-c834-4ba3-b33e-2dc566b09f35.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "59fc1e9a-0ecf-4c31-b325-36a0b32ba459",
+    "fname": "拌芹菜花生",
+    "normprice": 25.4,
+    "realprice": 19.0,
+    "detail": "脆嫩芹菜香中和花生香酥爽口绝配",
+    "fphoto": "http://localhost:9000/res/files/59fc1e9a-0ecf-4c31-b325-36a0b32ba459.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "1c2e9386-8bd0-4ab8-b35a-7dc473696cde",
+    "fname": "排骨腊肠蒸饭",
+    "normprice": 19.9,
+    "realprice": 15.0,
+    "detail": "香滑排骨腊肠伴饭粒营养美味",
+    "fphoto": "http://localhost:9000/res/files/1c2e9386-8bd0-4ab8-b35a-7dc473696cde.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "8c27bcfb-61bf-42f8-bc50-adc672b2651c",
+    "fname": "奶香拉丝蜜豆吐司",
+    "normprice": 55.3,
+    "realprice": 41.0,
+    "detail": "奶香拉丝蜜豆点缀吐司甜蜜诱惑",
+    "fphoto": "http://localhost:9000/res/files/8c27bcfb-61bf-42f8-bc50-adc672b2651c.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "d82b3819-e02e-4718-bed9-c150c45816cf",
+    "fname": "鸡胸肉猪肉脯",
+    "normprice": 30.2,
+    "realprice": 22.5,
+    "detail": "香脆鸡胸肉肉脯外酥里嫩肉质鲜香绝配",
+    "fphoto": "http://localhost:9000/res/files/d82b3819-e02e-4718-bed9-c150c45816cf.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "9182e5e3-b260-4444-9dc9-1e0a1fd414b4",
+    "fname": "肥牛虾滑菌菇汤",
+    "normprice": 31.7,
+    "realprice": 26.5,
+    "detail": "香浓肥牛虾滑菌菇汤鲜美滋补开胃绝",
+    "fphoto": "http://localhost:9000/res/files/9182e5e3-b260-4444-9dc9-1e0a1fd414b4.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "0fb10326-3b73-4ae0-8bec-76ab79a29099",
+    "fname": "茄瓜擂皮蛋",
+    "normprice": 14.7,
+    "realprice": 12.0,
+    "detail": "清新茄瓜配皮蛋凉拌味美绝",
+    "fphoto": "http://localhost:9000/res/files/0fb10326-3b73-4ae0-8bec-76ab79a29099.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "28be1e9f-c808-477c-9c71-aa3d146a2a2a",
+    "fname": "薏米西洋菜猪杂汤",
+    "normprice": 29.6,
+    "realprice": 22.5,
+    "detail": "养生好汤薏米西洋菜猪杂暖胃润肠",
+    "fphoto": "http://localhost:9000/res/files/28be1e9f-c808-477c-9c71-aa3d146a2a2a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "c4a7e0e6-5330-4626-ac23-72b751a02cdc",
+    "fname": "百香果柠檬虾",
+    "normprice": 45.7,
+    "realprice": 34.5,
+    "detail": "香辣虾肉鲜百香果酸甜柠檬味鲜美绝绝",
+    "fphoto": "http://localhost:9000/res/files/c4a7e0e6-5330-4626-ac23-72b751a02cdc.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "b422d3aa-37ca-4253-80bf-2d68b061b94c",
+    "fname": "冬瓜肉沫炖粉条",
+    "normprice": 26.7,
+    "realprice": 21.5,
+    "detail": "软滑冬瓜肉香浓粉条添滋味",
+    "fphoto": "http://localhost:9000/res/files/b422d3aa-37ca-4253-80bf-2d68b061b94c.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "53f64612-382e-4fbb-8d8e-d3a500f90c03",
+    "fname": "凉拌毛豆",
+    "normprice": 27.2,
+    "realprice": 23.5,
+    "detail": "鲜嫩毛豆拌香辣蒜蓉清爽过午味蕾盛宴",
+    "fphoto": "http://localhost:9000/res/files/53f64612-382e-4fbb-8d8e-d3a500f90c03.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "a14ae304-8991-478e-b173-b5fe501fd741",
+    "fname": "海鲜蒸米粉",
+    "normprice": 18.2,
+    "realprice": 14.0,
+    "detail": "鲜味海鲜伴香米暖心胃海鲜蒸米粉",
+    "fphoto": "http://localhost:9000/res/files/a14ae304-8991-478e-b173-b5fe501fd741.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "c0ed5030-cb42-4bb3-b493-155a68163088",
+    "fname": "牛肉焖饭",
+    "normprice": 14.5,
+    "realprice": 11.5,
+    "detail": "香辣牛肉炒饭粒粒分明肉香四溢尝一口回味无穷",
+    "fphoto": "http://localhost:9000/res/files/c0ed5030-cb42-4bb3-b493-155a68163088.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "87225596-c886-4e7c-9c6c-ebc116d267b0",
+    "fname": "巧克力流心蛋糕",
+    "normprice": 27.5,
+    "realprice": 22.5,
+    "detail": "丝滑巧克力流心甜蜜烘焙时光",
+    "fphoto": "http://localhost:9000/res/files/87225596-c886-4e7c-9c6c-ebc116d267b0.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a0f98554-2c43-4484-86ad-365055eb38c2",
+    "fname": "砂锅素三鲜",
+    "normprice": 43.2,
+    "realprice": 36.0,
+    "detail": "鲜香味美三鲜锅香飘四溢",
+    "fphoto": "http://localhost:9000/res/files/a0f98554-2c43-4484-86ad-365055eb38c2.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "756609fa-bc43-44e3-80ef-bd2ff597a272",
+    "fname": "咸肉炖春笋",
+    "normprice": 35.9,
+    "realprice": 32.0,
+    "detail": "鲜嫩春笋伴香咸肉炖煮香气扑鼻味美绝配",
+    "fphoto": "http://localhost:9000/res/files/756609fa-bc43-44e3-80ef-bd2ff597a272.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "cc4e6604-2a79-4c91-8aa8-f77a13375b80",
+    "fname": "电饭锅牌盖浇饭",
+    "normprice": 11.8,
+    "realprice": 10.0,
+    "detail": "香辣排骨盖浇饭热腾腾满屋香",
+    "fphoto": "http://localhost:9000/res/files/cc4e6604-2a79-4c91-8aa8-f77a13375b80.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "82bb16ca-46b8-4b70-ad51-324426f0d4da",
+    "fname": "冬瓜鸡腿薏米去湿汤",
+    "normprice": 25.1,
+    "realprice": 22.5,
+    "detail": "冬瓜鸡腿薏米去湿汤汤汁鲜美营养佳去腻润肺",
+    "fphoto": "http://localhost:9000/res/files/82bb16ca-46b8-4b70-ad51-324426f0d4da.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "e6d23542-f922-490e-8433-1262313bbf60",
+    "fname": "红茶奶酥月饼",
+    "normprice": 26.5,
+    "realprice": 22.5,
+    "detail": "香浓红茶奶香四溢酥软月饼",
+    "fphoto": "http://localhost:9000/res/files/e6d23542-f922-490e-8433-1262313bbf60.png",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a4b61abf-3b2f-4c0b-a84a-114573eee279",
+    "fname": "鸡肉蔬菜汤",
+    "normprice": 16.0,
+    "realprice": 13.5,
+    "detail": "鲜香鸡肉蔬菜汤暖胃又暖心",
+    "fphoto": "http://localhost:9000/res/files/a4b61abf-3b2f-4c0b-a84a-114573eee279.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "2773b2a2-f229-4dbe-a825-5cae79ff3937",
+    "fname": "柿子汤圆",
+    "normprice": 10.3,
+    "realprice": 8.0,
+    "detail": "香甜柿子馅软糯汤圆冰凉汤里更美味",
+    "fphoto": "http://localhost:9000/res/files/2773b2a2-f229-4dbe-a825-5cae79ff3937.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "88517105-6752-4838-9cf3-cd55ee9419cb",
+    "fname": "白萝卜胡萝卜鲜虾汤",
+    "normprice": 14.8,
+    "realprice": 13.0,
+    "detail": "鲜虾萝卜汤暖胃又滋补一碗暖心家常味",
+    "fphoto": "http://localhost:9000/res/files/88517105-6752-4838-9cf3-cd55ee9419cb.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "34944b80-f134-4f22-bfd3-32b9f26568c5",
+    "fname": "鸭血粉丝汤",
+    "normprice": 14.1,
+    "realprice": 12.5,
+    "detail": "麻辣鲜香鸭血粉丝汤温暖你胃心",
+    "fphoto": "http://localhost:9000/res/files/34944b80-f134-4f22-bfd3-32b9f26568c5.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "f3401e71-9c1f-40b1-be83-814d04bb1995",
+    "fname": "自制早餐馄饨",
+    "normprice": 21.8,
+    "realprice": 18.5,
+    "detail": "酥皮包裹鲜肉汤料皮薄馅嫩早点绝配",
+    "fphoto": "http://localhost:9000/res/files/f3401e71-9c1f-40b1-be83-814d04bb1995.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "57162c43-3e4e-43e7-81bb-e60a6f10cace",
+    "fname": "土豆宽粉焖鸡",
+    "normprice": 41.2,
+    "realprice": 36.0,
+    "detail": "香辣土豆宽粉伴嫩鸡块味美绝伦",
+    "fphoto": "http://localhost:9000/res/files/57162c43-3e4e-43e7-81bb-e60a6f10cace.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "24150a88-d021-4879-8f19-c73fb087c957",
+    "fname": "客家艾叶焖鸡饭",
+    "normprice": 13.1,
+    "realprice": 10.5,
+    "detail": "客家风味艾叶清香鸡饭香滑可口米饭软糯",
+    "fphoto": "http://localhost:9000/res/files/24150a88-d021-4879-8f19-c73fb087c957.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "a32d529e-5442-4f60-bff2-1bf8ea8b01bf",
+    "fname": "凉拌茄泥",
+    "normprice": 14.4,
+    "realprice": 12.5,
+    "detail": "清新茄泥爽口脆香辣味绝",
+    "fphoto": "http://localhost:9000/res/files/a32d529e-5442-4f60-bff2-1bf8ea8b01bf.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "83108506-5d73-4813-9ac1-8d0857c8d2d4",
+    "fname": "蔓越莓蛋糕",
+    "normprice": 24.8,
+    "realprice": 18.5,
+    "detail": "蔓越莓酸甜蛋糕松软口感瞬间融化你心",
+    "fphoto": "http://localhost:9000/res/files/83108506-5d73-4813-9ac1-8d0857c8d2d4.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "db6a0689-8637-402c-bca7-5d3a8c06ccff",
+    "fname": "牛肉白菜煮年糕",
+    "normprice": 19.6,
+    "realprice": 15.5,
+    "detail": "牛肉鲜白菜年糕软香滑营养多",
+    "fphoto": "http://localhost:9000/res/files/db6a0689-8637-402c-bca7-5d3a8c06ccff.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "a0690f33-088f-4b0e-8f16-cf8bb6269125",
+    "fname": "琥珀核桃",
+    "normprice": 12.6,
+    "realprice": 11.0,
+    "detail": "香脆核桃裹蜂蜜粒粒琥珀香入口甜蜜蜜",
+    "fphoto": "http://localhost:9000/res/files/a0690f33-088f-4b0e-8f16-cf8bb6269125.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "2b4b3466-6014-456f-b48c-447bdab5f3cd",
+    "fname": "捞汁鱿鱼虾",
+    "normprice": 20.5,
+    "realprice": 18.5,
+    "detail": "麻辣鲜香一盘尽享鱿鱼虾捞汁开胃凉菜",
+    "fphoto": "http://localhost:9000/res/files/2b4b3466-6014-456f-b48c-447bdab5f3cd.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "062d2d23-9cae-4699-83bb-0c71fae95b61",
+    "fname": "酱香饼",
+    "normprice": 35.9,
+    "realprice": 28.0,
+    "detail": "香脆外皮内含酱香肉馅一口咬下满嘴流香",
+    "fphoto": "http://localhost:9000/res/files/062d2d23-9cae-4699-83bb-0c71fae95b61.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "02699957-cf19-4a18-ac16-bbb38a3196a9",
+    "fname": "早餐三明治",
+    "normprice": 8.9,
+    "realprice": 7.5,
+    "detail": "香脆面包夹火腿芝士蛋鲜美绝倫",
+    "fphoto": "http://localhost:9000/res/files/02699957-cf19-4a18-ac16-bbb38a3196a9.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "7ed3dd9a-1017-4f29-ad62-c4af14e12c30",
+    "fname": "麦穗馒头",
+    "normprice": 9.4,
+    "realprice": 7.5,
+    "detail": "金麦香飘软糯香馒头麦穗造型诱人",
+    "fphoto": "http://localhost:9000/res/files/7ed3dd9a-1017-4f29-ad62-c4af14e12c30.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "55bf742e-acfa-4967-8864-32e286414572",
+    "fname": "荠菜春卷",
+    "normprice": 22.0,
+    "realprice": 19.0,
+    "detail": "荠香嫩绿春风吹一口春意盎然来",
+    "fphoto": "http://localhost:9000/res/files/55bf742e-acfa-4967-8864-32e286414572.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "f24284b5-38a4-4079-b68c-168251306699",
+    "fname": "腊肠牛肉焖饭",
+    "normprice": 6.2,
+    "realprice": 5.5,
+    "detail": "香辣腊肠牛肉香浓饭粒弹牙诱惑十足",
+    "fphoto": "http://localhost:9000/res/files/f24284b5-38a4-4079-b68c-168251306699.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "1b526327-31e1-4e7e-91e2-14b57fc2689d",
+    "fname": "拉丝纳豆",
+    "normprice": 11.2,
+    "realprice": 9.5,
+    "detail": "诱惑源自舌尖的拉丝纳豆丝丝入扣凉拌美味",
+    "fphoto": "http://localhost:9000/res/files/1b526327-31e1-4e7e-91e2-14b57fc2689d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e892901a-9102-4a0a-bac1-4940694f06c9",
+    "fname": "虎皮蛋糕卷",
+    "normprice": 46.1,
+    "realprice": 41.0,
+    "detail": "酥皮外酥内绵密蛋糕卷一口一个香四溢",
+    "fphoto": "http://localhost:9000/res/files/e892901a-9102-4a0a-bac1-4940694f06c9.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "5680883f-5f58-4f4e-aed2-05f457aa173f",
+    "fname": "西葫芦鸡蛋蒸饺",
+    "normprice": 21.0,
+    "realprice": 18.0,
+    "detail": "酥香外皮裹鲜嫩西葫芦鸡蛋馅一口一个满足不腻味",
+    "fphoto": "http://localhost:9000/res/files/5680883f-5f58-4f4e-aed2-05f457aa173f.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "87d8a9c3-6b29-4748-ac11-2d617b4b9f4c",
+    "fname": "低脂低卡西葫芦鸡肉拌饭",
+    "normprice": 13.2,
+    "realprice": 11.0,
+    "detail": "低脂低卡西葫芦鸡肉拌饭营养健康味新鲜",
+    "fphoto": "http://localhost:9000/res/files/87d8a9c3-6b29-4748-ac11-2d617b4b9f4c.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "270c4dd8-9bef-4241-b4cf-6e5490982f1d",
+    "fname": "苹果玉米沙拉",
+    "normprice": 23.2,
+    "realprice": 20.5,
+    "detail": "清新苹果玉米拌黄瓜爽口不油腻",
+    "fphoto": "http://localhost:9000/res/files/270c4dd8-9bef-4241-b4cf-6e5490982f1d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "28d77eb2-e563-469a-b573-212ca3c596d2",
+    "fname": "剁辣椒",
+    "normprice": 11.1,
+    "realprice": 9.0,
+    "detail": "剁辣椒酸辣开胃香飘四溢美味凉菜",
+    "fphoto": "http://localhost:9000/res/files/28d77eb2-e563-469a-b573-212ca3c596d2.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "84f33560-536e-4f6c-9f65-c2282b8bd3e3",
+    "fname": "红柚酸奶碗",
+    "normprice": 14.3,
+    "realprice": 11.5,
+    "detail": "清新红柚酸酸奶汁拌自制糯米碗香滑冰冰口感绝",
+    "fphoto": "http://localhost:9000/res/files/84f33560-536e-4f6c-9f65-c2282b8bd3e3.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "0e1d2f0e-e519-496b-8a41-4b1b5784387e",
+    "fname": "芝士烤贝贝南瓜",
+    "normprice": 27.9,
+    "realprice": 24.0,
+    "detail": "芝士烤贝贝南瓜香浓酥脆南瓜外皮烤至金黄 完美融合香甜美味",
+    "fphoto": "http://localhost:9000/res/files/0e1d2f0e-e519-496b-8a41-4b1b5784387e.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "6e2359ec-4fce-4a65-81f2-fdf792ade4d2",
+    "fname": "牛肉虾仁炒芦笋",
+    "normprice": 19.6,
+    "realprice": 16.5,
+    "detail": "牛肉虾仁鲜芦笋嫩口感绝美味鲜",
+    "fphoto": "http://localhost:9000/res/files/6e2359ec-4fce-4a65-81f2-fdf792ade4d2.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "99387d48-9532-4fbc-895d-d08c15f3acc5",
+    "fname": "糖醋里脊",
+    "normprice": 53.4,
+    "realprice": 46.5,
+    "detail": "外酥里嫩甜酸适口里脊佳选",
+    "fphoto": "http://localhost:9000/res/files/99387d48-9532-4fbc-895d-d08c15f3acc5.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "eebc1eba-e858-4104-bc98-20b37bd3beb2",
+    "fname": "摩卡咖啡脆皮雪糕",
+    "normprice": 8.7,
+    "realprice": 7.0,
+    "detail": "摩卡香浓咖啡味雪糕外皮酥脆口感绝顶享受",
+    "fphoto": "http://localhost:9000/res/files/eebc1eba-e858-4104-bc98-20b37bd3beb2.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "6073bd81-9280-45bb-8d90-4acb53ce8042",
+    "fname": "苦菊沙拉",
+    "normprice": 27.8,
+    "realprice": 21.5,
+    "detail": "清新苦菊拌酸奶汁粒粒爽口",
+    "fphoto": "http://localhost:9000/res/files/6073bd81-9280-45bb-8d90-4acb53ce8042.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "7ba6aaf8-1993-4159-af57-d4237a084d71",
+    "fname": "奶油芝士蛋糕",
+    "normprice": 22.0,
+    "realprice": 17.5,
+    "detail": "丝滑奶油芝士蛋糕层层分明口感绝美",
+    "fphoto": "http://localhost:9000/res/files/7ba6aaf8-1993-4159-af57-d4237a084d71.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "858eca86-1df5-49be-ab64-165d3e33bf25",
+    "fname": "冬瓜虾皮汤",
+    "normprice": 31.6,
+    "realprice": 25.5,
+    "detail": "冬瓜虾皮汤鲜滑汤滑虾香满口开",
+    "fphoto": "http://localhost:9000/res/files/858eca86-1df5-49be-ab64-165d3e33bf25.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6eee269f-f80c-4968-b122-d03ffaf4bf02",
+    "fname": "卤肉饭",
+    "normprice": 22.1,
+    "realprice": 17.0,
+    "detail": "香嫩肉块卤制入味饭粒香软味绝配",
+    "fphoto": "http://localhost:9000/res/files/6eee269f-f80c-4968-b122-d03ffaf4bf02.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "f3352469-db63-493f-8169-ed9013a8dc2a",
+    "fname": "麻婆豆腐皮蛋",
+    "normprice": 50.1,
+    "realprice": 40.5,
+    "detail": "麻辣鲜香豆腐皮蛋绝配鲜嫩滑口",
+    "fphoto": "http://localhost:9000/res/files/f3352469-db63-493f-8169-ed9013a8dc2a.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "3a5f4d15-c2f1-4fc1-bd75-8dfd9363a977",
+    "fname": "黄瓜皮炒肉沫",
+    "normprice": 33.7,
+    "realprice": 27.0,
+    "detail": "酸辣黄瓜皮肉沫香嫩爽口开胃绝配合",
+    "fphoto": "http://localhost:9000/res/files/3a5f4d15-c2f1-4fc1-bd75-8dfd9363a977.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "041b1585-5be7-44e2-8dc5-a4147281d01e",
+    "fname": "三纹魚花朵",
+    "normprice": 26.4,
+    "realprice": 23.0,
+    "detail": "三纹鱼新鲜切花造型色香味俱全冷盘",
+    "fphoto": "http://localhost:9000/res/files/041b1585-5be7-44e2-8dc5-a4147281d01e.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "3231dbef-8f9a-465d-a0ed-d70166a1ca3d",
+    "fname": "虾滑肥牛卷",
+    "normprice": 52.8,
+    "realprice": 47.5,
+    "detail": "鲜嫩虾滑肥牛卷一口满足幸福感",
+    "fphoto": "http://localhost:9000/res/files/3231dbef-8f9a-465d-a0ed-d70166a1ca3d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "f005c076-7376-414e-bd21-4a687a51fa47",
+    "fname": "咸蛋菜心豆腐掉秤汤",
+    "normprice": 20.2,
+    "realprice": 16.0,
+    "detail": "咸蛋鲜嫩菜心豆腐汤滑口汤鲜美绝伦",
+    "fphoto": "http://localhost:9000/res/files/f005c076-7376-414e-bd21-4a687a51fa47.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "9f697de0-572a-47da-9375-c5809e3f7644",
+    "fname": "凉拌猪心",
+    "normprice": 30.3,
+    "realprice": 26.0,
+    "detail": "脆嫩猪心嚼劲十足拌黄瓜豆芽香辣可口",
+    "fphoto": "http://localhost:9000/res/files/9f697de0-572a-47da-9375-c5809e3f7644.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "34a54f57-3b19-4aee-a982-0fecb1efb9ec",
+    "fname": "新广式软皮月饼",
+    "normprice": 17.9,
+    "realprice": 14.0,
+    "detail": "香滑月饼外皮酥软内馅浓郁尝一口难忘",
+    "fphoto": "http://localhost:9000/res/files/34a54f57-3b19-4aee-a982-0fecb1efb9ec.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "3e717857-8c16-4762-9097-36d4400c261b",
+    "fname": "南瓜蔬菜汤",
+    "normprice": 47.2,
+    "realprice": 37.5,
+    "detail": "南瓜软糯香浓蔬菜鲜汤暖胃心",
+    "fphoto": "http://localhost:9000/res/files/3e717857-8c16-4762-9097-36d4400c261b.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "1f56a529-6701-4325-809d-e327438c7707",
+    "fname": "巧克力沙布列",
+    "normprice": 43.0,
+    "realprice": 35.0,
+    "detail": "丝滑巧克力与轻盈酥皮交织甜蜜美味",
+    "fphoto": "http://localhost:9000/res/files/1f56a529-6701-4325-809d-e327438c7707.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "1925b195-c74c-4e62-8b19-f58863d5bfbf",
+    "fname": "猪肝生滚枸杞叶",
+    "normprice": 21.3,
+    "realprice": 18.0,
+    "detail": "猪肝枸杞汤暖胃滋补枸杞叶生香",
+    "fphoto": "http://localhost:9000/res/files/1925b195-c74c-4e62-8b19-f58863d5bfbf.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "f72b5b5a-e659-40e6-924a-cbbc5ae024d8",
+    "fname": "咖喱土豆肉沫",
+    "normprice": 39.6,
+    "realprice": 30.5,
+    "detail": "香辣土豆肉沫鲜香四溢口感绝",
+    "fphoto": "http://localhost:9000/res/files/f72b5b5a-e659-40e6-924a-cbbc5ae024d8.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "15cdd404-adf5-439c-bb4c-b6aaf4d3fc62",
+    "fname": "蒜黄炒腐竹",
+    "normprice": 34.8,
+    "realprice": 31.0,
+    "detail": "蒜香满溢腐竹嫩炒出家常美味",
+    "fphoto": "http://localhost:9000/res/files/15cdd404-adf5-439c-bb4c-b6aaf4d3fc62.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "e1f02341-8bce-42c6-b2a2-a4b1f1c36204",
+    "fname": "黄豆酱焗海鲜",
+    "normprice": 37.4,
+    "realprice": 32.5,
+    "detail": "香滑黄豆酱海鲜鲜香四溢口感绝配",
+    "fphoto": "http://localhost:9000/res/files/e1f02341-8bce-42c6-b2a2-a4b1f1c36204.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "7c7987c7-1d01-4b69-9875-a4fc2edc260e",
+    "fname": "芒果盘",
+    "normprice": 26.8,
+    "realprice": 21.5,
+    "detail": "香甜芒果果肉切片新鲜芒果盘",
+    "fphoto": "http://localhost:9000/res/files/7c7987c7-1d01-4b69-9875-a4fc2edc260e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "89f126fb-ff73-418e-b5d7-8eaf2ba66472",
+    "fname": "长崎松饼舒芙蕾",
+    "normprice": 26.4,
+    "realprice": 20.5,
+    "detail": "丝滑舒芙蕾搭配长崎松饼口感层次丰富每一口都是惊喜",
+    "fphoto": "http://localhost:9000/res/files/89f126fb-ff73-418e-b5d7-8eaf2ba66472.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "20bf1e8e-f183-44d4-8f61-6919e71435bf",
+    "fname": "浙醋萝卜片",
+    "normprice": 22.5,
+    "realprice": 17.5,
+    "detail": "脆爽浙醋萝卜片爽口开胃解腻凉菜美味",
+    "fphoto": "http://localhost:9000/res/files/20bf1e8e-f183-44d4-8f61-6919e71435bf.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "92b61f00-582e-48f3-aa36-38c69bbf9913",
+    "fname": "发菜肉丸汤",
+    "normprice": 18.5,
+    "realprice": 15.5,
+    "detail": "香滑肉丸浮汤中发菜增色泽营养又养生",
+    "fphoto": "http://localhost:9000/res/files/92b61f00-582e-48f3-aa36-38c69bbf9913.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6e07ddab-a2ad-47d4-8b28-6d6003847b0e",
+    "fname": "自制豆腐脑",
+    "normprice": 10.6,
+    "realprice": 8.0,
+    "detail": "自制豆腐脑弹嫩滑香浓酱料自选",
+    "fphoto": "http://localhost:9000/res/files/6e07ddab-a2ad-47d4-8b28-6d6003847b0e.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "06d30bf4-1bbd-4b32-be1a-b567774f822a",
+    "fname": "美味早餐",
+    "normprice": 20.1,
+    "realprice": 16.5,
+    "detail": "美味早餐酥皮奶黄包香甜酥软外酥里嫩",
+    "fphoto": "http://localhost:9000/res/files/06d30bf4-1bbd-4b32-be1a-b567774f822a.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "163d6a44-0df2-43e9-9b34-8a4a6bc82c83",
+    "fname": "鸡骨草土茯苓薏米汤",
+    "normprice": 24.6,
+    "realprice": 22.0,
+    "detail": "清热去湿养脾味鲜美一碗足矣",
+    "fphoto": "http://localhost:9000/res/files/163d6a44-0df2-43e9-9b34-8a4a6bc82c83.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "e082f8ca-b6d0-4db5-a55d-1db26dc5dd76",
+    "fname": "凉拌杏鲍菇",
+    "normprice": 29.2,
+    "realprice": 24.0,
+    "detail": "脆爽杏鲍菇凉拌酸辣口开胃美味开胃",
+    "fphoto": "http://localhost:9000/res/files/e082f8ca-b6d0-4db5-a55d-1db26dc5dd76.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "1223f891-b893-4682-a12c-29bda44ac86d",
+    "fname": "浙醋萝卜",
+    "normprice": 16.3,
+    "realprice": 12.5,
+    "detail": "清新浙醋萝卜脆爽解腻一口停",
+    "fphoto": "http://localhost:9000/res/files/1223f891-b893-4682-a12c-29bda44ac86d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e188bb6e-b0e5-4889-8897-87039737b439",
+    "fname": "牛肉粒炒饭",
+    "normprice": 16.6,
+    "realprice": 13.5,
+    "detail": "金黄米饭夹牛肉粒粒粒香酥香",
+    "fphoto": "http://localhost:9000/res/files/e188bb6e-b0e5-4889-8897-87039737b439.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "40a76703-760d-44d1-b240-3cd45d4fd612",
+    "fname": "沙茶白萝卜牛肉丸",
+    "normprice": 28.0,
+    "realprice": 24.0,
+    "detail": "热辣沙茶汤煮白萝卜牛肉丸鲜美解腻",
+    "fphoto": "http://localhost:9000/res/files/40a76703-760d-44d1-b240-3cd45d4fd612.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "6d775a64-b24e-49b7-a5c5-aa324a19518d",
+    "fname": "黄油年糕",
+    "normprice": 47.9,
+    "realprice": 37.0,
+    "detail": "香脆黄油年糕外皮酥软内里糯香尝一口幸福满分",
+    "fphoto": "http://localhost:9000/res/files/6d775a64-b24e-49b7-a5c5-aa324a19518d.png",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "2fd3edbf-d8e4-4c98-8a98-d8bba658cf55",
+    "fname": "七色杂粮米饭",
+    "normprice": 17.8,
+    "realprice": 15.0,
+    "detail": "缤纷七色杂粮米饭营养又健康一碗解决你的杂粮需求",
+    "fphoto": "http://localhost:9000/res/files/2fd3edbf-d8e4-4c98-8a98-d8bba658cf55.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "a341d664-7e63-4e34-ada4-b183ccbbd86b",
+    "fname": "碧绿凉拌豇豆",
+    "normprice": 25.4,
+    "realprice": 19.5,
+    "detail": "脆爽碧绿豇豆拌豆芽清新解腻凉拌菜",
+    "fphoto": "http://localhost:9000/res/files/a341d664-7e63-4e34-ada4-b183ccbbd86b.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "cac976fd-8388-4f3d-84ae-3248e4eb9d06",
+    "fname": "枣泥饼",
+    "normprice": 38.9,
+    "realprice": 29.0,
+    "detail": "甜蜜枣香满口腔酥脆枣泥饼不容错过",
+    "fphoto": "http://localhost:9000/res/files/cac976fd-8388-4f3d-84ae-3248e4eb9d06.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "c77e9808-2128-4eb1-8ab2-8a24fc4f51ba",
+    "fname": "擂辣椒皮蛋",
+    "normprice": 30.3,
+    "realprice": 23.0,
+    "detail": "酸辣爽口皮蛋配特制擂辣椒 级美味尝鮮",
+    "fphoto": "http://localhost:9000/res/files/c77e9808-2128-4eb1-8ab2-8a24fc4f51ba.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "fcbc8435-8768-4094-8323-b7bfd42d241f",
+    "fname": "秋葵蛋炒饭",
+    "normprice": 26.7,
+    "realprice": 20.5,
+    "detail": "秋葵蛋炒饭营养清爽金黄香滑每一口都惊喜",
+    "fphoto": "http://localhost:9000/res/files/fcbc8435-8768-4094-8323-b7bfd42d241f.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "66ae15ef-f1c3-4bb5-a9fa-4efc3cde4181",
+    "fname": "土豆鸡肉烩饭",
+    "normprice": 26.0,
+    "realprice": 19.5,
+    "detail": "香滑土豆鸡肉拌米饭口感绝妙一绝",
+    "fphoto": "http://localhost:9000/res/files/66ae15ef-f1c3-4bb5-a9fa-4efc3cde4181.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0215e03d-4ee0-45b9-ba23-e8fcc62de840",
+    "fname": "简单蛋炒饭",
+    "normprice": 15.9,
+    "realprice": 13.5,
+    "detail": "快手蛋炒饭粒粒金黄香弹味十足",
+    "fphoto": "http://localhost:9000/res/files/0215e03d-4ee0-45b9-ba23-e8fcc62de840.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "2051b834-0623-4219-aa36-4ec9a7e190b9",
+    "fname": "洋芋擦擦",
+    "normprice": 49.5,
+    "realprice": 37.0,
+    "detail": "酸甜适中洋芋脆嫩擦擦香",
+    "fphoto": "http://localhost:9000/res/files/2051b834-0623-4219-aa36-4ec9a7e190b9.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "e1622f3d-85a9-4b49-9dbe-8eccf6146666",
+    "fname": "美味早餐：西葫芦鸡蛋饼",
+    "normprice": 45.1,
+    "realprice": 40.5,
+    "detail": "香嫩西葫芦裹蛋香脆早餐饼一尝难忘",
+    "fphoto": "http://localhost:9000/res/files/e1622f3d-85a9-4b49-9dbe-8eccf6146666.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "d76eb160-060d-486f-be8d-eac03df90a72",
+    "fname": "抹茶牛乳馅",
+    "normprice": 35.9,
+    "realprice": 30.5,
+    "detail": "抹茶香气牛乳香浓丝滑口感",
+    "fphoto": "http://localhost:9000/res/files/d76eb160-060d-486f-be8d-eac03df90a72.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "bc15c58d-0d62-4ec2-a79d-d2c954e0beca",
+    "fname": "白灼阿根廷红虾",
+    "normprice": 28.7,
+    "realprice": 24.0,
+    "detail": "白灼鲜嫩阿根廷红虾香辣双口感天成",
+    "fphoto": "http://localhost:9000/res/files/bc15c58d-0d62-4ec2-a79d-d2c954e0beca.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "5c071950-2ad2-43df-9be3-f9ee2c154f31",
+    "fname": "烤红薯",
+    "normprice": 15.5,
+    "realprice": 11.5,
+    "detail": "香甜软糯外皮金黄烤红薯诱惑你的味蕾",
+    "fphoto": "http://localhost:9000/res/files/5c071950-2ad2-43df-9be3-f9ee2c154f31.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "bd0644f7-e560-4f7c-a8ce-f2b58560c913",
+    "fname": "酱黄瓜",
+    "normprice": 11.7,
+    "realprice": 9.5,
+    "detail": "酥脆黄瓜搭配特制酱料酸甜适口开胃绝",
+    "fphoto": "http://localhost:9000/res/files/bd0644f7-e560-4f7c-a8ce-f2b58560c913.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "28227f1c-179d-4743-8684-b0b6ec1375f0",
+    "fname": "羊排粉丝汤",
+    "normprice": 17.3,
+    "realprice": 14.5,
+    "detail": "羊排软嫩粉丝香汤鲜味美不可言",
+    "fphoto": "http://localhost:9000/res/files/28227f1c-179d-4743-8684-b0b6ec1375f0.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "5647f7bb-01f5-43fe-80cf-9f0f5cd8990b",
+    "fname": "五香鸡蛋",
+    "normprice": 14.0,
+    "realprice": 11.0,
+    "detail": "香辣五香鸡蛋外酥里嫩一口满足",
+    "fphoto": "http://localhost:9000/res/files/5647f7bb-01f5-43fe-80cf-9f0f5cd8990b.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "ed6823d8-037e-4780-b01f-48d4499d7107",
+    "fname": "番茄土豆疙瘩汤",
+    "normprice": 38.4,
+    "realprice": 29.5,
+    "detail": "酸甜番茄土豆疙瘩汤暖心胃",
+    "fphoto": "http://localhost:9000/res/files/ed6823d8-037e-4780-b01f-48d4499d7107.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "155650aa-5056-4285-b3ff-8371ebc9d05d",
+    "fname": "红豆鲫鱼汤",
+    "normprice": 30.7,
+    "realprice": 24.5,
+    "detail": "红豆添香鲫鱼汤暖心胃滋味美",
+    "fphoto": "http://localhost:9000/res/files/155650aa-5056-4285-b3ff-8371ebc9d05d.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "ca2daf98-008b-4d7b-ad13-bcfb277967bb",
+    "fname": "椒盐羊排",
+    "normprice": 33.4,
+    "realprice": 28.0,
+    "detail": "酥外嫩里香椒盐羊排诱惑满口",
+    "fphoto": "http://localhost:9000/res/files/ca2daf98-008b-4d7b-ad13-bcfb277967bb.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "98c8ba34-8c54-4679-a4b0-478dd3f7e0be",
+    "fname": "猪脚焖芋仔",
+    "normprice": 24.7,
+    "realprice": 20.5,
+    "detail": "香辣猪脚芋仔软糯香滑汤汁浓郁好滋味",
+    "fphoto": "http://localhost:9000/res/files/98c8ba34-8c54-4679-a4b0-478dd3f7e0be.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "cfc7f54b-26d0-4d15-a994-a40620a7b8a6",
+    "fname": "紫菜虾仁炒饭",
+    "normprice": 6.9,
+    "realprice": 5.5,
+    "detail": "紫嫩虾鲜味十足炒饭香满口",
+    "fphoto": "http://localhost:9000/res/files/cfc7f54b-26d0-4d15-a994-a40620a7b8a6.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ba46f0db-3ed8-4ff0-a6bd-2b740cab44b1",
+    "fname": "酥梨糖醋肉",
+    "normprice": 26.1,
+    "realprice": 19.5,
+    "detail": "香酥外焦里嫩汁酸甜适口感鲜美酥梨糖醋肉",
+    "fphoto": "http://localhost:9000/res/files/ba46f0db-3ed8-4ff0-a6bd-2b740cab44b1.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "2a82d04b-e0fc-48a4-838e-83915a2b0f22",
+    "fname": "盐水鸭",
+    "normprice": 16.6,
+    "realprice": 13.0,
+    "detail": "盐香四溢嫩滑皮酥一口入魂",
+    "fphoto": "http://localhost:9000/res/files/2a82d04b-e0fc-48a4-838e-83915a2b0f22.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "cd8a98cd-f0a4-4843-bd3d-18cecc43b814",
+    "fname": "山药莲子乌鸡汤",
+    "normprice": 36.3,
+    "realprice": 33.0,
+    "detail": "山药莲子乌鸡汤暖身滋补一碗尽欢",
+    "fphoto": "http://localhost:9000/res/files/cd8a98cd-f0a4-4843-bd3d-18cecc43b814.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "57b09c74-fdd8-4ae6-b93d-1e11608c3e93",
+    "fname": "卤牛肉",
+    "normprice": 15.7,
+    "realprice": 13.5,
+    "detail": "麻辣鲜香肉质嫩卤牛肉一口销魂",
+    "fphoto": "http://localhost:9000/res/files/57b09c74-fdd8-4ae6-b93d-1e11608c3e93.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5b7d2689-8c5a-41b0-8aca-90225c06e6c4",
+    "fname": "辣豆腐低卡锅",
+    "normprice": 37.0,
+    "realprice": 29.5,
+    "detail": "香辣豆腐低卡锅低脂美味享健康",
+    "fphoto": "http://localhost:9000/res/files/5b7d2689-8c5a-41b0-8aca-90225c06e6c4.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "f076e158-296a-423c-93b3-60152dfc2cea",
+    "fname": "口蘑牛肉焖饭",
+    "normprice": 14.3,
+    "realprice": 12.5,
+    "detail": "香辣口蘑牛肉粒和米饭完美融合粒粒分明香辣可口",
+    "fphoto": "http://localhost:9000/res/files/f076e158-296a-423c-93b3-60152dfc2cea.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0e0e2b73-0dcc-47bd-9be7-b2792b9752f1",
+    "fname": "枣仁派",
+    "normprice": 21.7,
+    "realprice": 16.5,
+    "detail": "甜蜜枣香裹酥皮一口枣仁甜蜜到心里",
+    "fphoto": "http://localhost:9000/res/files/0e0e2b73-0dcc-47bd-9be7-b2792b9752f1.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "5edbf0c5-b9d3-492b-8dc6-b7969500ff84",
+    "fname": "南瓜馒头",
+    "normprice": 20.2,
+    "realprice": 18.0,
+    "detail": "南瓜香甜味美软糯南瓜馒头 主食",
+    "fphoto": "http://localhost:9000/res/files/5edbf0c5-b9d3-492b-8dc6-b7969500ff84.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "240d44d5-5b4f-4b52-9229-55fc81890ebe",
+    "fname": "蛋饺夜开花煮魔芋粉丝",
+    "normprice": 16.1,
+    "realprice": 14.0,
+    "detail": "蛋饺夜开花煮魔芋粉丝鲜香滑嫩口感绝绝子",
+    "fphoto": "http://localhost:9000/res/files/240d44d5-5b4f-4b52-9229-55fc81890ebe.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "22904e82-69d0-4b95-907b-9f0f49edd3fe",
+    "fname": "麻辣水煮鱼",
+    "normprice": 52.6,
+    "realprice": 40.0,
+    "detail": "鲜嫩鱼片配麻辣红油香气扑鼻一锅沸腾味蕾狂喜",
+    "fphoto": "http://localhost:9000/res/files/22904e82-69d0-4b95-907b-9f0f49edd3fe.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "ffeebcb3-306f-407c-ad07-3c1602197747",
+    "fname": "清炖时蔬",
+    "normprice": 26.7,
+    "realprice": 22.0,
+    "detail": "嫩叶时鲜清汤滑口感十足鲜",
+    "fphoto": "http://localhost:9000/res/files/ffeebcb3-306f-407c-ad07-3c1602197747.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "53344018-8c3d-4305-acf4-421ef8199371",
+    "fname": "肉丝炒黄花菜",
+    "normprice": 30.0,
+    "realprice": 25.5,
+    "detail": "香辣肉丝拌爽口黄花脆嫩滑",
+    "fphoto": "http://localhost:9000/res/files/53344018-8c3d-4305-acf4-421ef8199371.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "254fc723-faa5-4510-80e8-10ac065a6799",
+    "fname": "腊味蚕豆焖饭",
+    "normprice": 11.6,
+    "realprice": 10.0,
+    "detail": "腊味飘香蚕豆软糯焖米饭诱惑十足",
+    "fphoto": "http://localhost:9000/res/files/254fc723-faa5-4510-80e8-10ac065a6799.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "a5fb4a63-039b-43da-986f-ac4cee48859a",
+    "fname": "番茄土豆蔬菜汤",
+    "normprice": 20.9,
+    "realprice": 15.5,
+    "detail": "鲜香番茄润土豆蔬菜一碗暖心羹",
+    "fphoto": "http://localhost:9000/res/files/a5fb4a63-039b-43da-986f-ac4cee48859a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "ba7b477f-fb32-4cfc-8aef-e38d0b7c2b05",
+    "fname": "甜杆西兰花炒鸡排",
+    "normprice": 53.3,
+    "realprice": 44.0,
+    "detail": "脆嫩鸡排甜杆西兰花鲜香四溢",
+    "fphoto": "http://localhost:9000/res/files/ba7b477f-fb32-4cfc-8aef-e38d0b7c2b05.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "c9ff363a-8c93-434d-a2cb-e15dc741c03b",
+    "fname": "老式面包(花生油版)",
+    "normprice": 20.6,
+    "realprice": 17.5,
+    "detail": "香脆外皮松软内陷融花生油香甜适口",
+    "fphoto": "http://localhost:9000/res/files/c9ff363a-8c93-434d-a2cb-e15dc741c03b.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "563e3d67-2c1c-4e67-acf8-de80bf78266d",
+    "fname": "低糖玉米饼干",
+    "normprice": 46.1,
+    "realprice": 37.5,
+    "detail": "低糖玉米香脆外酥内软健康零食",
+    "fphoto": "http://localhost:9000/res/files/563e3d67-2c1c-4e67-acf8-de80bf78266d.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a339503a-7239-489a-84db-9754b015fe8d",
+    "fname": "茶香南瓜子",
+    "normprice": 8.7,
+    "realprice": 7.0,
+    "detail": "茶香四溢南瓜酥香脆口感",
+    "fphoto": "http://localhost:9000/res/files/a339503a-7239-489a-84db-9754b015fe8d.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "264d2505-8c95-450f-9880-c790cd42e3c6",
+    "fname": "红糖烧饼",
+    "normprice": 38.3,
+    "realprice": 28.5,
+    "detail": "香甜软糯红糖烧饼外皮酥脆内里甜蜜尝一次难忘",
+    "fphoto": "http://localhost:9000/res/files/264d2505-8c95-450f-9880-c790cd42e3c6.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "a860864c-0127-4cca-87ba-3e83d3eb5e78",
+    "fname": "农家湘味锅巴",
+    "normprice": 15.7,
+    "realprice": 13.0,
+    "detail": "香辣锅巴夹杂农家菜香满口",
+    "fphoto": "http://localhost:9000/res/files/a860864c-0127-4cca-87ba-3e83d3eb5e78.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "c4e35485-6019-4313-9005-628d82322c09",
+    "fname": "驴打滚",
+    "normprice": 35.7,
+    "realprice": 28.5,
+    "detail": "香甜豆面裹红豆沙层次分明外酥里软",
+    "fphoto": "http://localhost:9000/res/files/c4e35485-6019-4313-9005-628d82322c09.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "57908bbb-5f68-4a83-b00c-51aff08d5aae",
+    "fname": "荔枝乌鸡汤",
+    "normprice": 23.9,
+    "realprice": 19.5,
+    "detail": "鲜荔枝与乌鸡慢炖汤鲜美滋补美容颜",
+    "fphoto": "http://localhost:9000/res/files/57908bbb-5f68-4a83-b00c-51aff08d5aae.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "6ff05f3b-d2e0-4baf-8c1e-dd22b825e386",
+    "fname": "抹茶红豆泥黄油三明治",
+    "normprice": 19.6,
+    "realprice": 15.5,
+    "detail": "抹茶红豆泥黄油三明治层次分明口感丰富",
+    "fphoto": "http://localhost:9000/res/files/6ff05f3b-d2e0-4baf-8c1e-dd22b825e386.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "9f983f4d-20f8-43b8-9cce-5d805d46f8d8",
+    "fname": "陈皮鸽子汤",
+    "normprice": 17.8,
+    "realprice": 15.5,
+    "detail": "陈皮香滑鸽子汤暖身暖心滋味好",
+    "fphoto": "http://localhost:9000/res/files/9f983f4d-20f8-43b8-9cce-5d805d46f8d8.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "320fa07f-a099-490f-973a-9755f64d9c72",
+    "fname": "自制猪心",
+    "normprice": 19.5,
+    "realprice": 16.5,
+    "detail": "心心相印猪心脆爽口麻辣鲜香回味无穷",
+    "fphoto": "http://localhost:9000/res/files/320fa07f-a099-490f-973a-9755f64d9c72.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "59ac8991-4e1e-4111-abb7-5a62c1a2f18e",
+    "fname": "口蘑烩虾仁",
+    "normprice": 30.6,
+    "realprice": 27.0,
+    "detail": "口蘑虾仁香气四溢口感嫩鲜美滋味无穷",
+    "fphoto": "http://localhost:9000/res/files/59ac8991-4e1e-4111-abb7-5a62c1a2f18e.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "df773bf1-6745-4ed7-9dff-dbcbfcaf95d1",
+    "fname": "鸡蛋煎馒头",
+    "normprice": 15.1,
+    "realprice": 11.5,
+    "detail": "香脆馒头夹鸡蛋嫩滑口感绝",
+    "fphoto": "http://localhost:9000/res/files/df773bf1-6745-4ed7-9dff-dbcbfcaf95d1.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "3db1cdef-3e3d-4bb6-a70a-7f1124922dfe",
+    "fname": "童子鸡汤",
+    "normprice": 46.1,
+    "realprice": 35.0,
+    "detail": "童子鸡鲜嫩鸡汤鲜香满口回味无穷",
+    "fphoto": "http://localhost:9000/res/files/3db1cdef-3e3d-4bb6-a70a-7f1124922dfe.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "3f24382f-01e8-42ac-b46c-a6b3c27502c4",
+    "fname": "太妃焦糖普洱茶月饼",
+    "normprice": 19.7,
+    "realprice": 16.5,
+    "detail": "太妃焦糖普洱茶香浓月饼甜而不腻回味悠长",
+    "fphoto": "http://localhost:9000/res/files/3f24382f-01e8-42ac-b46c-a6b3c27502c4.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "43ad6723-2c36-4d45-b591-5ea41eb7824d",
+    "fname": "娃娃菜炒玉米香肠",
+    "normprice": 48.2,
+    "realprice": 40.0,
+    "detail": "香脆玉米香肠娃娃菜在家味十足快手菜",
+    "fphoto": "http://localhost:9000/res/files/43ad6723-2c36-4d45-b591-5ea41eb7824d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "58f7e090-46fd-4131-8012-fefe33dc1397",
+    "fname": "剁椒芋仔",
+    "normprice": 28.3,
+    "realprice": 21.5,
+    "detail": "香辣芋头软糯剁椒味鲜香适口",
+    "fphoto": "http://localhost:9000/res/files/58f7e090-46fd-4131-8012-fefe33dc1397.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "b92223b0-ab56-431e-952a-2d64a02879f5",
+    "fname": "丝瓜汤",
+    "normprice": 32.2,
+    "realprice": 28.0,
+    "detail": "丝瓜鲜滑汤浓香嫩滑入口即化",
+    "fphoto": "http://localhost:9000/res/files/b92223b0-ab56-431e-952a-2d64a02879f5.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "89d12120-4ddc-47e7-a634-6cb6b99ae519",
+    "fname": "苏子月饼",
+    "normprice": 54.7,
+    "realprice": 44.5,
+    "detail": "香醇苏子馅月饼外皮酥脆内馅香甜味道独特",
+    "fphoto": "http://localhost:9000/res/files/89d12120-4ddc-47e7-a634-6cb6b99ae519.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "57e9d612-2edf-4ecc-9c8e-a26a0453a1c4",
+    "fname": "菠菜拌粉丝",
+    "normprice": 22.1,
+    "realprice": 19.5,
+    "detail": "清新菠菜拌粉丝爽口开胃每一口都是惊喜",
+    "fphoto": "http://localhost:9000/res/files/57e9d612-2edf-4ecc-9c8e-a26a0453a1c4.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "39d9201e-6651-4833-b859-01414f90f3de",
+    "fname": "菌菇排骨汤",
+    "normprice": 18.9,
+    "realprice": 17.0,
+    "detail": "精选菌菇炖慢煮排骨汤鲜美不腻营养足",
+    "fphoto": "http://localhost:9000/res/files/39d9201e-6651-4833-b859-01414f90f3de.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "8ef0f7f0-b9b7-4f3c-b22f-d9a79cd499b4",
+    "fname": "家庭版风干牛肉干",
+    "normprice": 14.4,
+    "realprice": 11.5,
+    "detail": "家庭味道香脆可口风干牛肉干诱惑你味蕾",
+    "fphoto": "http://localhost:9000/res/files/8ef0f7f0-b9b7-4f3c-b22f-d9a79cd499b4.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "76a04308-367f-4fef-9f5b-c606e9cf3604",
+    "fname": "蒜蓉丝瓜粉丝煲",
+    "normprice": 52.9,
+    "realprice": 40.0,
+    "detail": "蒜香四溢丝瓜粉丝煲鲜嫩入味别有风味",
+    "fphoto": "http://localhost:9000/res/files/76a04308-367f-4fef-9f5b-c606e9cf3604.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "6b6ee8c4-6d4a-44c9-be06-edf34ecc85c9",
+    "fname": "胡萝卜鸭腿汤",
+    "normprice": 41.3,
+    "realprice": 35.0,
+    "detail": "香滑鸭腿汤搭配脆嫩胡萝卜鲜美绝伦",
+    "fphoto": "http://localhost:9000/res/files/6b6ee8c4-6d4a-44c9-be06-edf34ecc85c9.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "449de731-eb71-4814-8278-a0cc4c3d978c",
+    "fname": "拌香菜根",
+    "normprice": 16.3,
+    "realprice": 13.5,
+    "detail": "脆爽香根拌悠悠回味无穷",
+    "fphoto": "http://localhost:9000/res/files/449de731-eb71-4814-8278-a0cc4c3d978c.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "ab879677-0f2e-4996-981c-5f7f3faa856f",
+    "fname": "巧克力月饼",
+    "normprice": 33.7,
+    "realprice": 27.5,
+    "detail": "丝滑巧克力月饼外皮酥软内里流淌醇香瞬间融化心情",
+    "fphoto": "http://localhost:9000/res/files/ab879677-0f2e-4996-981c-5f7f3faa856f.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "8ad42ae3-4d30-4f7b-908a-fa3a26b1b4a0",
+    "fname": "红焖鲤里段",
+    "normprice": 21.1,
+    "realprice": 16.0,
+    "detail": "红烧鲤里段肉质鲜香口味醇红烧鲤里段",
+    "fphoto": "http://localhost:9000/res/files/8ad42ae3-4d30-4f7b-908a-fa3a26b1b4a0.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "c9586c19-55a6-4c32-9d69-ca0325690ece",
+    "fname": "茄子土豆盖浇饭",
+    "normprice": 12.0,
+    "realprice": 10.0,
+    "detail": "香辣茄子土豆盖鲜香米饭营养又下饭",
+    "fphoto": "http://localhost:9000/res/files/c9586c19-55a6-4c32-9d69-ca0325690ece.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "d6618c9a-6c10-44b6-9d1a-51dd74ee0e33",
+    "fname": "炒凉粉",
+    "normprice": 23.0,
+    "realprice": 18.5,
+    "detail": "香脆凉粉炒蛋香酥口感绝美味",
+    "fphoto": "http://localhost:9000/res/files/d6618c9a-6c10-44b6-9d1a-51dd74ee0e33.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "74749b95-85e1-4e2c-a0e7-f8569639273e",
+    "fname": "糯米手指泡芙",
+    "normprice": 47.8,
+    "realprice": 42.0,
+    "detail": "糯米香软手指粉嫩泡芙外酥里嫩滋味鲜",
+    "fphoto": "http://localhost:9000/res/files/74749b95-85e1-4e2c-a0e7-f8569639273e.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "c5fb66ff-5d96-46ef-9b2c-823db0fb8498",
+    "fname": "椒盐鸡腿",
+    "normprice": 48.4,
+    "realprice": 43.0,
+    "detail": "酥外嫩里香椒盐秘制鸡腿尝鮮好滋味",
+    "fphoto": "http://localhost:9000/res/files/c5fb66ff-5d96-46ef-9b2c-823db0fb8498.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "de3cf22c-268c-468b-89eb-60ec163f629c",
+    "fname": "凉拌藕片",
+    "normprice": 29.3,
+    "realprice": 25.5,
+    "detail": "脆爽藕片拌香脆黄瓜粒酸甜适口开胃解腻",
+    "fphoto": "http://localhost:9000/res/files/de3cf22c-268c-468b-89eb-60ec163f629c.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "f56f9d35-3f69-4e75-8f11-67181cb621fc",
+    "fname": "肉松小金砖",
+    "normprice": 21.1,
+    "realprice": 17.5,
+    "detail": "酥脆肉松味浓香满口小金砖",
+    "fphoto": "http://localhost:9000/res/files/f56f9d35-3f69-4e75-8f11-67181cb621fc.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "5a562bc5-3b58-48b4-8d0c-fe4bc92a14f0",
+    "fname": "海鲜什锦蛋饺",
+    "normprice": 12.5,
+    "realprice": 9.5,
+    "detail": "海鲜鲜嫩蛋皮酥香一口满足",
+    "fphoto": "http://localhost:9000/res/files/5a562bc5-3b58-48b4-8d0c-fe4bc92a14f0.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "fe478b7f-3e09-42ca-917d-d2a0afd7cf68",
+    "fname": "紅皮白萝卜拌海带丝",
+    "normprice": 14.8,
+    "realprice": 11.0,
+    "detail": "红皮白萝卜爽脆海带丝凉拌鲜味足",
+    "fphoto": "http://localhost:9000/res/files/fe478b7f-3e09-42ca-917d-d2a0afd7cf68.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "40833a9a-9d30-4052-a6e7-138d40cc0215",
+    "fname": "醋溜白菜",
+    "normprice": 45.7,
+    "realprice": 37.5,
+    "detail": "酸甜适口爽脆白菜值得一试",
+    "fphoto": "http://localhost:9000/res/files/40833a9a-9d30-4052-a6e7-138d40cc0215.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "d010be4c-2a98-45d5-8ef4-7a51b1e45420",
+    "fname": "电火锅版南瓜芝士煎饼",
+    "normprice": 15.8,
+    "realprice": 12.0,
+    "detail": "电火锅煮出外酥里嫩南瓜芝士饼香飘万里",
+    "fphoto": "http://localhost:9000/res/files/d010be4c-2a98-45d5-8ef4-7a51b1e45420.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "101c5dd6-85db-46b3-a3fe-17fe475d8a0b",
+    "fname": "肉汁白萝卜",
+    "normprice": 51.9,
+    "realprice": 38.5,
+    "detail": "肉香满溢白萝卜软糯汁浓回味长",
+    "fphoto": "http://localhost:9000/res/files/101c5dd6-85db-46b3-a3fe-17fe475d8a0b.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "f119cbcf-b144-4ced-a1b6-cbce735b00f1",
+    "fname": "芒果毛巾卷",
+    "normprice": 44.3,
+    "realprice": 39.0,
+    "detail": "金黄芒果慕斯裹椰香毛巾卷香滑浓郁口感绝",
+    "fphoto": "http://localhost:9000/res/files/f119cbcf-b144-4ced-a1b6-cbce735b00f1.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "7d9d1eb0-2f5e-4140-8708-5f50bbcadc73",
+    "fname": "青瓜拌蟹柳",
+    "normprice": 27.0,
+    "realprice": 21.0,
+    "detail": "清新青瓜拌滑蟹柳爽口开胃",
+    "fphoto": "http://localhost:9000/res/files/7d9d1eb0-2f5e-4140-8708-5f50bbcadc73.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "3a369af2-8018-43ca-8593-4dc7949bccd7",
+    "fname": "黑芝麻馒头",
+    "normprice": 25.3,
+    "realprice": 20.5,
+    "detail": "香软黑芝麻馒头香甜可口全家享",
+    "fphoto": "http://localhost:9000/res/files/3a369af2-8018-43ca-8593-4dc7949bccd7.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "9f901e55-c6eb-470a-9b40-9ee41556cc12",
+    "fname": "葱油饼(葱肉饼)",
+    "normprice": 27.3,
+    "realprice": 24.0,
+    "detail": "香脆外皮软嫩葱香满口肉香扑鼻",
+    "fphoto": "http://localhost:9000/res/files/9f901e55-c6eb-470a-9b40-9ee41556cc12.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "7b6f7cf6-a45a-4c1e-8383-24ff12f524ba",
+    "fname": "番茄肥牛芝士焗饭",
+    "normprice": 17.3,
+    "realprice": 13.0,
+    "detail": "番茄鲜香肥牛香芝士焗饭美味升级每一口都是惊喜",
+    "fphoto": "http://localhost:9000/res/files/7b6f7cf6-a45a-4c1e-8383-24ff12f524ba.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "5c38d4e8-ccc8-4782-9eb6-d3a60fbcf766",
+    "fname": "鱿鱼炒饭",
+    "normprice": 16.3,
+    "realprice": 12.5,
+    "detail": "鱿鱼鲜香炒饭粒粒分明色香味俱全",
+    "fphoto": "http://localhost:9000/res/files/5c38d4e8-ccc8-4782-9eb6-d3a60fbcf766.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "9fe0def5-183d-40e0-bc24-14a26baf32ff",
+    "fname": "快速极简版辣白菜",
+    "normprice": 11.8,
+    "realprice": 9.0,
+    "detail": "快手版辣白菜酸辣开胃解腻快意人生",
+    "fphoto": "http://localhost:9000/res/files/9fe0def5-183d-40e0-bc24-14a26baf32ff.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "dbe2ed79-5ac8-457b-a310-e9e33cbee35f",
+    "fname": "冷泡汁小龙虾",
+    "normprice": 14.9,
+    "realprice": 12.0,
+    "detail": "凉爽开胃冷泡汁小龙虾",
+    "fphoto": "http://localhost:9000/res/files/dbe2ed79-5ac8-457b-a310-e9e33cbee35f.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "98bbbc80-929d-4147-88ed-f8922489453b",
+    "fname": "燕麦麸皮花卷",
+    "normprice": 9.5,
+    "realprice": 8.0,
+    "detail": "燕麦香脆花卷健康美味早餐好选择",
+    "fphoto": "http://localhost:9000/res/files/98bbbc80-929d-4147-88ed-f8922489453b.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "5e62b6a2-fdcc-49da-8a3b-066835e62e67",
+    "fname": "腊肉豌豆鸡蛋炒饭",
+    "normprice": 21.8,
+    "realprice": 19.5,
+    "detail": "腊肉香脆豌豆鲜鸡蛋炒饭粒粒分明香四溢",
+    "fphoto": "http://localhost:9000/res/files/5e62b6a2-fdcc-49da-8a3b-066835e62e67.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ccbca94c-f844-4c00-b7e3-913ed7939bd5",
+    "fname": "三色米饭",
+    "normprice": 10.5,
+    "realprice": 8.5,
+    "detail": "香滑米饭搭配紫洋葱黄甜椒红番茄色色诱人",
+    "fphoto": "http://localhost:9000/res/files/ccbca94c-f844-4c00-b7e3-913ed7939bd5.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "9fe9edb3-2224-410d-8623-2532630b2d9b",
+    "fname": "抹茶奶酪磅蛋糕",
+    "normprice": 19.0,
+    "realprice": 15.5,
+    "detail": "抹茶奶酪味香滑磅蛋糕口感绝美",
+    "fphoto": "http://localhost:9000/res/files/9fe9edb3-2224-410d-8623-2532630b2d9b.png",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "9e3c7325-7097-41fb-ba25-130920b030c4",
+    "fname": "玫瑰血麦馒头",
+    "normprice": 9.9,
+    "realprice": 9.0,
+    "detail": "玫瑰香溢麦馒头甜香四溢味美绝",
+    "fphoto": "http://localhost:9000/res/files/9e3c7325-7097-41fb-ba25-130920b030c4.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "40713f5d-1586-4f73-83ea-fd391ccd1a92",
+    "fname": "黑芝麻南瓜馒头",
+    "normprice": 25.3,
+    "realprice": 20.5,
+    "detail": "香软黑芝麻南瓜香甜不油腻全家享",
+    "fphoto": "http://localhost:9000/res/files/40713f5d-1586-4f73-83ea-fd391ccd1a92.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "17432266-423b-4f50-9572-975f4ad58bdf",
+    "fname": "红丝绒五红月饼",
+    "normprice": 19.3,
+    "realprice": 14.5,
+    "detail": "红丝绒底五仁馅中秋美月饼",
+    "fphoto": "http://localhost:9000/res/files/17432266-423b-4f50-9572-975f4ad58bdf.png",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "3a058f97-a3cf-4e98-9cc6-151ca24abbb5",
+    "fname": "奶香椰蓉酥",
+    "normprice": 48.3,
+    "realprice": 42.0,
+    "detail": "香浓奶香椰蓉外酥里嫩层次分明",
+    "fphoto": "http://localhost:9000/res/files/3a058f97-a3cf-4e98-9cc6-151ca24abbb5.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "4076c010-ac5a-4178-a98f-a30c5d50743d",
+    "fname": "时蔬烤鸡胸肉",
+    "normprice": 33.3,
+    "realprice": 28.0,
+    "detail": "香烤鸡胸肉配时蔬健康美味份份鲜",
+    "fphoto": "http://localhost:9000/res/files/4076c010-ac5a-4178-a98f-a30c5d50743d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "fee4f48e-4b6c-4419-9eb4-1b3ceadb7e96",
+    "fname": "海鲜炒饭",
+    "normprice": 25.7,
+    "realprice": 21.0,
+    "detail": "香嫩虾仁蟹肉蛋炒饭新鲜出炉",
+    "fphoto": "http://localhost:9000/res/files/fee4f48e-4b6c-4419-9eb4-1b3ceadb7e96.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "2f5b80a4-bf58-4908-aa53-2a900ebd9fe0",
+    "fname": "酸萝卜猪蹄汤",
+    "normprice": 34.6,
+    "realprice": 28.5,
+    "detail": "酸辣猪蹄汤酸爽开胃萝卜更添美味层次",
+    "fphoto": "http://localhost:9000/res/files/2f5b80a4-bf58-4908-aa53-2a900ebd9fe0.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "2a1813df-1be9-4038-94a7-b49fe42d58e6",
+    "fname": "香煎蛋米饼",
+    "normprice": 19.1,
+    "realprice": 16.5,
+    "detail": "香脆蛋香满口米饼美味诱惑",
+    "fphoto": "http://localhost:9000/res/files/2a1813df-1be9-4038-94a7-b49fe42d58e6.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "09b0d6cc-bb88-41e3-b99c-fb8aa8398daa",
+    "fname": "海米冬瓜汤",
+    "normprice": 36.8,
+    "realprice": 32.0,
+    "detail": "鲜香海米冬瓜汤软糯营养解油腻",
+    "fphoto": "http://localhost:9000/res/files/09b0d6cc-bb88-41e3-b99c-fb8aa8398daa.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "532fa3ef-8c36-45f9-b10c-100c72f67c74",
+    "fname": "卤鸡爪",
+    "normprice": 30.9,
+    "realprice": 25.5,
+    "detail": "麻辣鲜香骨髓酥外皮内软糯一尝难忘",
+    "fphoto": "http://localhost:9000/res/files/532fa3ef-8c36-45f9-b10c-100c72f67c74.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "802fa763-db33-4ba4-9589-97b12ed2aa2c",
+    "fname": "芝麻五香烤饼",
+    "normprice": 25.6,
+    "realprice": 21.5,
+    "detail": "酥香外皮香五香味芝麻烤饼外酥里嫩",
+    "fphoto": "http://localhost:9000/res/files/802fa763-db33-4ba4-9589-97b12ed2aa2c.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "40502e16-f2e9-45dd-a846-682a49fc3a26",
+    "fname": "开胃白萝卜丝",
+    "normprice": 18.0,
+    "realprice": 14.0,
+    "detail": "脆爽白萝卜丝拌香辣酱开胃去腻好滋味",
+    "fphoto": "http://localhost:9000/res/files/40502e16-f2e9-45dd-a846-682a49fc3a26.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "0e929ff9-3818-4f7d-81ce-5c499bbf8d7a",
+    "fname": "羊肚菌椰子汤",
+    "normprice": 27.4,
+    "realprice": 21.5,
+    "detail": "羊肚菌椰香满口鲜汤滑",
+    "fphoto": "http://localhost:9000/res/files/0e929ff9-3818-4f7d-81ce-5c499bbf8d7a.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "3b12e25b-876b-4dcb-bb47-004e7a5ed359",
+    "fname": "牛油果芒果海鲜沙拉",
+    "normprice": 23.0,
+    "realprice": 18.0,
+    "detail": "香醇牛油果芒果爽口海鲜沙拉凉菜鲜美好滋味",
+    "fphoto": "http://localhost:9000/res/files/3b12e25b-876b-4dcb-bb47-004e7a5ed359.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5172d1b6-92c5-44a2-8c39-5482707ceb7d",
+    "fname": "葱油手撕鸡",
+    "normprice": 28.6,
+    "realprice": 25.0,
+    "detail": "葱香四溢手撕鸡鲜嫩多汁诱惑你",
+    "fphoto": "http://localhost:9000/res/files/5172d1b6-92c5-44a2-8c39-5482707ceb7d.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "e994f46e-e5c5-485e-a8c1-0c64ab4fc319",
+    "fname": "烧鹅濑粉",
+    "normprice": 21.5,
+    "realprice": 18.5,
+    "detail": "香脆烧鹅肉拌爽滑濑粉味美绝倫诱惑难挡",
+    "fphoto": "http://localhost:9000/res/files/e994f46e-e5c5-485e-a8c1-0c64ab4fc319.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "e541d036-412e-4acf-9811-63232199fd06",
+    "fname": "拌皮芽子辣椒",
+    "normprice": 11.6,
+    "realprice": 9.0,
+    "detail": "脆爽皮芽子酸辣鲜香拌辣椒开胃凉菜",
+    "fphoto": "http://localhost:9000/res/files/e541d036-412e-4acf-9811-63232199fd06.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "e616ba59-d64e-4f74-ba32-e956f689670b",
+    "fname": "韭菜佃鱼春卷",
+    "normprice": 40.6,
+    "realprice": 36.0,
+    "detail": "鲜香四溢佃鱼春卷韭菜香脆外皮嫩中含鱼鲜",
+    "fphoto": "http://localhost:9000/res/files/e616ba59-d64e-4f74-ba32-e956f689670b.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "82d0f7f9-c153-4a9a-8591-f432cbdac8c9",
+    "fname": "橙香鸡翅",
+    "normprice": 49.7,
+    "realprice": 38.5,
+    "detail": "橙香四溢酥鸡翅外皮金黄内嫩香内心橙香满溢",
+    "fphoto": "http://localhost:9000/res/files/82d0f7f9-c153-4a9a-8591-f432cbdac8c9.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "170a2990-274e-4d0f-9d2f-958240c06a7d",
+    "fname": "凉拌紫甘蓝",
+    "normprice": 25.9,
+    "realprice": 22.5,
+    "detail": "脆爽紫甘蓝拌香秘酱口齿留香",
+    "fphoto": "http://localhost:9000/res/files/170a2990-274e-4d0f-9d2f-958240c06a7d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "66e98168-67a9-4877-91cc-045ffbeb5ffe",
+    "fname": "蟹柳滑蛋",
+    "normprice": 52.3,
+    "realprice": 40.0,
+    "detail": "香嫩蟹柳滑嫩滑蛋鲜嫩一口入魂",
+    "fphoto": "http://localhost:9000/res/files/66e98168-67a9-4877-91cc-045ffbeb5ffe.jpg",
+    "category": "热菜",
+    "status": 1
+  },
+  {
+    "fid": "536b5f47-cec1-4589-8bb6-0238e2de3569",
+    "fname": "冬瓜蘑菇汤",
+    "normprice": 27.2,
+    "realprice": 21.5,
+    "detail": "冬瓜细腻蘑菇香汤鲜味美解冬燥",
+    "fphoto": "http://localhost:9000/res/files/536b5f47-cec1-4589-8bb6-0238e2de3569.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "9fc175c9-9b3d-4e4e-9fdd-bc2b7c5ece90",
+    "fname": "分心木煮鸡蛋",
+    "normprice": 26.2,
+    "realprice": 22.0,
+    "detail": "分心木外酥里嫩口感好煮蛋风味独特",
+    "fphoto": "http://localhost:9000/res/files/9fc175c9-9b3d-4e4e-9fdd-bc2b7c5ece90.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "4546c7ae-6e0f-4c77-bf25-2a2e712184c6",
+    "fname": "百香果蜜汁番茄",
+    "normprice": 27.6,
+    "realprice": 24.0,
+    "detail": "酸甜百香果蜜汁拌番茄爽口开胃凉拌菜",
+    "fphoto": "http://localhost:9000/res/files/4546c7ae-6e0f-4c77-bf25-2a2e712184c6.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "ba5814bc-8cd4-4cc4-8137-f60df45c3195",
+    "fname": "番茄紫菜蛋花汤",
+    "normprice": 40.2,
+    "realprice": 32.5,
+    "detail": "鲜美番茄紫菜蛋花汤一碗暖心胃",
+    "fphoto": "http://localhost:9000/res/files/ba5814bc-8cd4-4cc4-8137-f60df45c3195.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "7a68c1bd-fb50-46dc-b331-cad006e1dacb",
+    "fname": "鸡蛋玉米圣女果沙拉",
+    "normprice": 15.8,
+    "realprice": 13.5,
+    "detail": "清新口感圣女果玉米鸡蛋沙拉凉菜开胃绝配",
+    "fphoto": "http://localhost:9000/res/files/7a68c1bd-fb50-46dc-b331-cad006e1dacb.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "70466b0c-dc9a-4aa4-aa44-3457892f592e",
+    "fname": "苹果瘦肉汤",
+    "normprice": 20.2,
+    "realprice": 18.0,
+    "detail": "鲜香苹果暖瘦肉汤暖心胃",
+    "fphoto": "http://localhost:9000/res/files/70466b0c-dc9a-4aa4-aa44-3457892f592e.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "e5e964b7-0197-4df9-b07f-58a886cd735d",
+    "fname": "手撕鸡肉",
+    "normprice": 12.8,
+    "realprice": 10.0,
+    "detail": "手撕鸡肉爽滑嫩香味正脆皮诱人一试成主顾",
+    "fphoto": "http://localhost:9000/res/files/e5e964b7-0197-4df9-b07f-58a886cd735d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "b6c2e227-192f-49c1-bd7d-cf25cc6aae9f",
+    "fname": "萝卜丝丸子汤",
+    "normprice": 20.3,
+    "realprice": 16.0,
+    "detail": "鲜香萝卜丝丸子汤温暖你胃心",
+    "fphoto": "http://localhost:9000/res/files/b6c2e227-192f-49c1-bd7d-cf25cc6aae9f.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "13b9f2c2-b923-436e-834f-568f2f2b6bd3",
+    "fname": "山药鸽子汤",
+    "normprice": 29.1,
+    "realprice": 22.0,
+    "detail": "鲜嫩山药炖细鸽汤羹暖心暖胃",
+    "fphoto": "http://localhost:9000/res/files/13b9f2c2-b923-436e-834f-568f2f2b6bd3.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "eabf8fde-c746-4a54-abfd-29d48d5e6463",
+    "fname": "虾饼",
+    "normprice": 20.9,
+    "realprice": 17.5,
+    "detail": "香脆虾饼一口爆浆鲜味无穷尝试一次",
+    "fphoto": "http://localhost:9000/res/files/eabf8fde-c746-4a54-abfd-29d48d5e6463.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "6404df76-c3ea-4b26-86d6-3971f674f2fd",
+    "fname": "墨鱼干花生排骨汤",
+    "normprice": 42.4,
+    "realprice": 36.0,
+    "detail": "浓香墨鱼干香排骨汤鲜嫩花生煮汤羹美味无比",
+    "fphoto": "http://localhost:9000/res/files/6404df76-c3ea-4b26-86d6-3971f674f2fd.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "7ef8836f-90b9-4be5-a446-012b88415f24",
+    "fname": "洪瑞珍吐司",
+    "normprice": 45.4,
+    "realprice": 39.0,
+    "detail": "香脆外皮软糯内里鸡蛋吐司温暖早餐不踩雷",
+    "fphoto": "http://localhost:9000/res/files/7ef8836f-90b9-4be5-a446-012b88415f24.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "99c26b50-17d2-4757-a7e2-771c5bbe7b2b",
+    "fname": "日式冬瓜裙带鲜虾菌菇汤",
+    "normprice": 39.3,
+    "realprice": 35.5,
+    "detail": "日式冬瓜鲜虾菌菇汤汤鲜味美营养全",
+    "fphoto": "http://localhost:9000/res/files/99c26b50-17d2-4757-a7e2-771c5bbe7b2b.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "94424cf1-0b16-4ff3-a304-0142c58ffd1b",
+    "fname": "营养凉拌菜",
+    "normprice": 14.4,
+    "realprice": 12.0,
+    "detail": "缤纷果蔬爽口营养凉拌菜开胃佳品",
+    "fphoto": "http://localhost:9000/res/files/94424cf1-0b16-4ff3-a304-0142c58ffd1b.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "0e67e686-aea0-4b88-b9a4-aea4c685a85b",
+    "fname": "姜粿饼",
+    "normprice": 26.1,
+    "realprice": 22.0,
+    "detail": "香脆外皮嫩里姜香四溢酥软不油腻",
+    "fphoto": "http://localhost:9000/res/files/0e67e686-aea0-4b88-b9a4-aea4c685a85b.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "c6dfb910-f390-4e4c-9d22-a79ef23e5ab6",
+    "fname": "苦荞凉粉",
+    "normprice": 30.5,
+    "realprice": 27.0,
+    "detail": "苦荞凉粉口感细腻微苦回味无穷推荐",
+    "fphoto": "http://localhost:9000/res/files/c6dfb910-f390-4e4c-9d22-a79ef23e5ab6.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "92f15179-16b0-467b-a302-2264ad392ae1",
+    "fname": "低卡青椒鸡蛋拌饭",
+    "normprice": 8.8,
+    "realprice": 6.5,
+    "detail": "低卡美味青椒鸡蛋拌饭健康又解腻",
+    "fphoto": "http://localhost:9000/res/files/92f15179-16b0-467b-a302-2264ad392ae1.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "31b83cab-bdc3-42c4-8735-9ee50f7ecdb7",
+    "fname": "海肠捞饭",
+    "normprice": 14.4,
+    "realprice": 12.0,
+    "detail": "鲜香海肠拌软糯捞饭一勺入口回味无穷",
+    "fphoto": "http://localhost:9000/res/files/31b83cab-bdc3-42c4-8735-9ee50f7ecdb7.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "fef7429e-d972-4dda-8d9d-b14def0c7534",
+    "fname": "醋泡黑豆",
+    "normprice": 27.4,
+    "realprice": 23.5,
+    "detail": "酸爽开胃黑豆诱惑冷菜解辣良伴",
+    "fphoto": "http://localhost:9000/res/files/fef7429e-d972-4dda-8d9d-b14def0c7534.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "13914fe4-fe48-43d8-a54e-c4e8dec1302e",
+    "fname": "腊肠炒乌米饭",
+    "normprice": 20.4,
+    "realprice": 18.0,
+    "detail": "腊肠香糯乌米饭粒粒饱裂香脆肠香满口流",
+    "fphoto": "http://localhost:9000/res/files/13914fe4-fe48-43d8-a54e-c4e8dec1302e.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "51a2c8ec-f19c-441a-913a-182f69abc600",
+    "fname": "裙带菜豆腐汤",
+    "normprice": 18.4,
+    "realprice": 14.0,
+    "detail": "裙带轻柔豆腐浓香一锅出滋味无穷",
+    "fphoto": "http://localhost:9000/res/files/51a2c8ec-f19c-441a-913a-182f69abc600.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "d295b62b-131b-4b61-bff5-d61346d0eb75",
+    "fname": "春笋焖饭",
+    "normprice": 11.8,
+    "realprice": 10.5,
+    "detail": "春笋鲜香焖饭香糯可口营养佳",
+    "fphoto": "http://localhost:9000/res/files/d295b62b-131b-4b61-bff5-d61346d0eb75.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "a9571371-9e3f-4858-bea1-526885ba92d0",
+    "fname": "四喜蒸饺",
+    "normprice": 18.7,
+    "realprice": 17.0,
+    "detail": "四喜蒸饺鲜香四溢肉蔬搭配全家享",
+    "fphoto": "http://localhost:9000/res/files/a9571371-9e3f-4858-bea1-526885ba92d0.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "c8de1022-8711-465b-9c9c-598173001ba6",
+    "fname": "鸡蛋肉沫粉条汤",
+    "normprice": 34.9,
+    "realprice": 28.0,
+    "detail": "鲜香肉沫汤煮粉条鸡蛋嫩滑无比",
+    "fphoto": "http://localhost:9000/res/files/c8de1022-8711-465b-9c9c-598173001ba6.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "8ef0d624-c4e2-4e48-9230-7aba2f28555f",
+    "fname": "可可燕麦脆",
+    "normprice": 13.5,
+    "realprice": 10.5,
+    "detail": "香脆可可燕麦一口满足你的巧克力爱好",
+    "fphoto": "http://localhost:9000/res/files/8ef0d624-c4e2-4e48-9230-7aba2f28555f.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "5a1c22ec-d746-42b7-ad25-de38abffc0d0",
+    "fname": "油炸萝卜丝粑",
+    "normprice": 30.2,
+    "realprice": 24.5,
+    "detail": "酥脆外皮裹软嫩萝卜丝一口咬下满嘴香",
+    "fphoto": "http://localhost:9000/res/files/5a1c22ec-d746-42b7-ad25-de38abffc0d0.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "84bdc564-38a2-45e0-8d58-d23ec4817a4b",
+    "fname": "菌香萝卜肉圆汤",
+    "normprice": 20.5,
+    "realprice": 18.5,
+    "detail": "菌香四溢肉圆滑萝卜汤一碗鲜美不可挡",
+    "fphoto": "http://localhost:9000/res/files/84bdc564-38a2-45e0-8d58-d23ec4817a4b.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "caaf440c-526f-4d58-ad3c-acba1e83393d",
+    "fname": "凉拌豇豆",
+    "normprice": 13.2,
+    "realprice": 10.0,
+    "detail": "脆嫩豇豆拌香辣酸爽口开胃",
+    "fphoto": "http://localhost:9000/res/files/caaf440c-526f-4d58-ad3c-acba1e83393d.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "9545a927-9f60-46c5-8474-444ecdafc39d",
+    "fname": "猪肠粉",
+    "normprice": 30.7,
+    "realprice": 25.5,
+    "detail": "猪肠软嫩弹滑粉条配鲜香汤头营养满分",
+    "fphoto": "http://localhost:9000/res/files/9545a927-9f60-46c5-8474-444ecdafc39d.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "ad09af15-8be3-489b-b1c0-59a2fbbb9ad4",
+    "fname": "乳酪冰皮月饼",
+    "normprice": 52.3,
+    "realprice": 43.0,
+    "detail": "香滑乳酪包裹冰皮月饼中秋必备美味",
+    "fphoto": "http://localhost:9000/res/files/ad09af15-8be3-489b-b1c0-59a2fbbb9ad4.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "067598b6-fcb6-4fdb-b664-7e28dc0cdc03",
+    "fname": "炸油饼",
+    "normprice": 22.6,
+    "realprice": 17.5,
+    "detail": "酥脆外皮香脆内馅甜咸两可诱惑之选",
+    "fphoto": "http://localhost:9000/res/files/067598b6-fcb6-4fdb-b664-7e28dc0cdc03.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "175d0bd8-c7e8-493c-a500-92e1ca38878a",
+    "fname": "灰水蜜枣粽",
+    "normprice": 32.1,
+    "realprice": 24.0,
+    "detail": "香甜灰水蜜枣粽糯米弹枣香满溢",
+    "fphoto": "http://localhost:9000/res/files/175d0bd8-c7e8-493c-a500-92e1ca38878a.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "8a3524ba-0b2d-4920-a07e-5ae8d12cb944",
+    "fname": "广式腊味煲仔饭",
+    "normprice": 9.1,
+    "realprice": 7.5,
+    "detail": "香辣腊味煲仔饭粒粒饱满肉香四溢",
+    "fphoto": "http://localhost:9000/res/files/8a3524ba-0b2d-4920-a07e-5ae8d12cb944.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "ae823ff2-5249-434c-914f-8d58e14736f3",
+    "fname": "莲子薏米西米露",
+    "normprice": 30.3,
+    "realprice": 27.0,
+    "detail": "养生美味西米露莲子薏米滋补佳品",
+    "fphoto": "http://localhost:9000/res/files/ae823ff2-5249-434c-914f-8d58e14736f3.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "258a3fd1-3916-4c9e-875c-d425163ff419",
+    "fname": "香菜拌肥牛",
+    "normprice": 24.5,
+    "realprice": 21.0,
+    "detail": "麻辣香脆香菜拌嫩滑肥牛爽口开胃",
+    "fphoto": "http://localhost:9000/res/files/258a3fd1-3916-4c9e-875c-d425163ff419.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "8a97b6a4-8d38-449d-8177-890b43bbc87e",
+    "fname": "爽口凉拌菜",
+    "normprice": 13.3,
+    "realprice": 12.0,
+    "detail": "脆爽黄瓜搭配特制酱汁凉拌清新解腻",
+    "fphoto": "http://localhost:9000/res/files/8a97b6a4-8d38-449d-8177-890b43bbc87e.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5821c685-f829-4b6b-abf3-b715dc2b63bc",
+    "fname": "冷吃鸡肉卷",
+    "normprice": 12.9,
+    "realprice": 11.5,
+    "detail": "劲辣鸡肉卷口感酥脆肉质鲜香回味无穷",
+    "fphoto": "http://localhost:9000/res/files/5821c685-f829-4b6b-abf3-b715dc2b63bc.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "54e799b0-a6e8-4716-90cd-49bbb63296e4",
+    "fname": "羊肉汤炖胡萝卜",
+    "normprice": 26.2,
+    "realprice": 21.0,
+    "detail": "暖心羊肉汤炖脆胡萝卜温暖你胃又暖心",
+    "fphoto": "http://localhost:9000/res/files/54e799b0-a6e8-4716-90cd-49bbb63296e4.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "512cbd7a-898d-475a-bb74-4dbdb46ff692",
+    "fname": "腊肉土豆焖饭",
+    "normprice": 7.6,
+    "realprice": 6.0,
+    "detail": "香辣腊肉土豆软糯饭饭香四溢诱惑难挡",
+    "fphoto": "http://localhost:9000/res/files/512cbd7a-898d-475a-bb74-4dbdb46ff692.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "476c5cde-af08-437e-af30-3bfe4ff5bcbe",
+    "fname": "土豆泥",
+    "normprice": 13.9,
+    "realprice": 10.5,
+    "detail": "香嫩土豆泥外加浓郁牛油香齿颊留香",
+    "fphoto": "http://localhost:9000/res/files/476c5cde-af08-437e-af30-3bfe4ff5bcbe.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "b4f59a87-b86c-4dd7-992e-c19ce80dcc34",
+    "fname": "蕃茄牛肉饭",
+    "normprice": 6.5,
+    "realprice": 5.5,
+    "detail": "香辣蕃茄炖牛肉粒粒饱满米饭软糯回味无穷",
+    "fphoto": "http://localhost:9000/res/files/b4f59a87-b86c-4dd7-992e-c19ce80dcc34.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0542029d-31f2-4224-a061-4e3997f1f090",
+    "fname": "菠菜馒头",
+    "normprice": 18.3,
+    "realprice": 16.0,
+    "detail": "鲜嫩菠菜香软馒头营养又健康",
+    "fphoto": "http://localhost:9000/res/files/0542029d-31f2-4224-a061-4e3997f1f090.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "bf296252-028a-4add-a086-f967f90eafbf",
+    "fname": "皮蛋猪肝菠菜汤",
+    "normprice": 19.3,
+    "realprice": 17.0,
+    "detail": "皮蛋猪肝菠菜汤鲜香滑嫩风味独特值得一试",
+    "fphoto": "http://localhost:9000/res/files/bf296252-028a-4add-a086-f967f90eafbf.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "93edd9e8-3cc2-458f-a6e6-e0a188f08531",
+    "fname": "自制泡椒笋",
+    "normprice": 23.0,
+    "realprice": 20.5,
+    "detail": "凉脆笋丝泡椒香爽口解腻尝",
+    "fphoto": "http://localhost:9000/res/files/93edd9e8-3cc2-458f-a6e6-e0a188f08531.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "5f696448-2d3f-4afa-9db2-6494e430c255",
+    "fname": "豇豆拌木耳",
+    "normprice": 25.4,
+    "realprice": 19.5,
+    "detail": "脆爽豇豆拌软木耳清凉开胃一碗鲜",
+    "fphoto": "http://localhost:9000/res/files/5f696448-2d3f-4afa-9db2-6494e430c255.jpg",
+    "category": "凉菜",
+    "status": 1
+  },
+  {
+    "fid": "92adc2e3-ba0b-46e3-9bb5-215b6c9e7f90",
+    "fname": "豆乳盒子蛋糕",
+    "normprice": 45.2,
+    "realprice": 40.5,
+    "detail": "奶香豆香交织软嫩盒子蛋糕每一口都是惊喜",
+    "fphoto": "http://localhost:9000/res/files/92adc2e3-ba0b-46e3-9bb5-215b6c9e7f90.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "997113bb-a526-4228-9fd3-8f249ebedec0",
+    "fname": "蛋黄花酥",
+    "normprice": 47.5,
+    "realprice": 38.5,
+    "detail": "香滑蛋黄与酥软花蓉完美结合层次丰富值得一试",
+    "fphoto": "http://localhost:9000/res/files/997113bb-a526-4228-9fd3-8f249ebedec0.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "b9cc3999-22e2-4dac-9ea2-8fc3f845d983",
+    "fname": "抹茶黑芝麻红枣馒头",
+    "normprice": 12.5,
+    "realprice": 11.0,
+    "detail": "抹茶黑芝麻红枣香软糯营养全",
+    "fphoto": "http://localhost:9000/res/files/b9cc3999-22e2-4dac-9ea2-8fc3f845d983.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "df5bbcb1-5906-4599-b925-f6a0c4c89d11",
+    "fname": "酒曲发面馒头",
+    "normprice": 16.6,
+    "realprice": 15.0,
+    "detail": "酒曲发面香软糯外皮金黄暄腾腾",
+    "fphoto": "http://localhost:9000/res/files/df5bbcb1-5906-4599-b925-f6a0c4c89d11.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "1c5a8255-4027-4141-ae40-14aaff6e63c9",
+    "fname": "紫菜黄豆芽汤",
+    "normprice": 37.3,
+    "realprice": 29.0,
+    "detail": "紫嫩黄鲜汤一壶春意浓黄豆芽紫菜暖心间",
+    "fphoto": "http://localhost:9000/res/files/1c5a8255-4027-4141-ae40-14aaff6e63c9.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "8300d752-6309-49d9-8579-e554d03882c9",
+    "fname": "朱雀汤",
+    "normprice": 41.3,
+    "realprice": 31.5,
+    "detail": "朱雀汤色泽红亮汤香四溢唇齿留香",
+    "fphoto": "http://localhost:9000/res/files/8300d752-6309-49d9-8579-e554d03882c9.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "a83affde-d4c7-4c6f-a298-9e13827724e7",
+    "fname": "豌豆粉",
+    "normprice": 13.7,
+    "realprice": 11.0,
+    "detail": "香辣豌豆粉嫩滑爽口麻辣鲜香每一口都是满足",
+    "fphoto": "http://localhost:9000/res/files/a83affde-d4c7-4c6f-a298-9e13827724e7.jpg",
+    "category": "小吃",
+    "status": 1
+  },
+  {
+    "fid": "8e23f8e3-9d8d-4e07-90cd-ac9e4c0a4b33",
+    "fname": "人参羊肉汤",
+    "normprice": 20.0,
+    "realprice": 16.5,
+    "detail": "人参补身羊肉香温补气血好汤",
+    "fphoto": "http://localhost:9000/res/files/8e23f8e3-9d8d-4e07-90cd-ac9e4c0a4b33.jpg",
+    "category": "汤羹",
+    "status": 1
+  },
+  {
+    "fid": "04508fc5-e9b8-4cf4-ac78-92cdc456b10b",
+    "fname": "鲜奶牧场吐司",
+    "normprice": 16.6,
+    "realprice": 13.5,
+    "detail": "香滑鲜奶浸透松软吐司奶香四溢诱惑十足",
+    "fphoto": "http://localhost:9000/res/files/04508fc5-e9b8-4cf4-ac78-92cdc456b10b.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "ecb1cadc-434c-4d7a-a53b-d8fbc8ba57b6",
+    "fname": "低卡菜苔牛肉拌饭",
+    "normprice": 8.8,
+    "realprice": 7.0,
+    "detail": "低卡美味菜苔牛肉拌饭健康又解馋主食推荐",
+    "fphoto": "http://localhost:9000/res/files/ecb1cadc-434c-4d7a-a53b-d8fbc8ba57b6.jpg",
+    "category": "主食",
+    "status": 1
+  },
+  {
+    "fid": "0f5c5dc6-a47f-4a40-8314-ee7023680735",
+    "fname": "8寸蓝莓乳酪派",
+    "normprice": 38.3,
+    "realprice": 32.5,
+    "detail": "甜蜜诱人的寸蓝莓乳酪派酸甜适中奶酪与蓝莓完美融合",
+    "fphoto": "http://localhost:9000/res/files/0f5c5dc6-a47f-4a40-8314-ee7023680735.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "2ff0551b-b120-4dc9-8dfa-29d6c1634780",
+    "fname": "猪油版桃酥",
+    "normprice": 37.2,
+    "realprice": 31.0,
+    "detail": "香浓猪油味桃酥酥脆外层甜蜜内馅层次丰富",
+    "fphoto": "http://localhost:9000/res/files/2ff0551b-b120-4dc9-8dfa-29d6c1634780.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "2f8d17e9-2e15-4a65-9347-35ba785c0543",
+    "fname": "黑椒鸡肉披萨",
+    "normprice": 38.9,
+    "realprice": 34.0,
+    "detail": "黑椒香辣鸡肉鲜嫩披萨口齿留香",
+    "fphoto": "http://localhost:9000/res/files/2f8d17e9-2e15-4a65-9347-35ba785c0543.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "3526ecce-c363-4fa4-a843-07f54781aaec",
+    "fname": "蛋黄酱薯角培根披萨",
+    "normprice": 29.9,
+    "realprice": 27.0,
+    "detail": "香辣蛋黄酱裹薯角搭配金黄培根披萨诱惑十足",
+    "fphoto": "http://localhost:9000/res/files/3526ecce-c363-4fa4-a843-07f54781aaec.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "31874487-9204-4be0-a5e8-9a8f97a3c8d0",
+    "fname": "可可蝴蝶酥",
+    "normprice": 37.5,
+    "realprice": 29.5,
+    "detail": "香脆可口巧克力蝴蝶酥酥软甜蜜诱人不容错过",
+    "fphoto": "http://localhost:9000/res/files/31874487-9204-4be0-a5e8-9a8f97a3c8d0.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "8ee46cf1-7f4c-42f6-9dd5-d500bfe2095d",
+    "fname": "丹麦手撕面包",
+    "normprice": 45.2,
+    "realprice": 35.0,
+    "detail": "香脆外皮内软绵丹麦手撕面包诱惑你夏天",
+    "fphoto": "http://localhost:9000/res/files/8ee46cf1-7f4c-42f6-9dd5-d500bfe2095d.png",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "5fdfac4c-89d0-4185-86e4-ada2be5a0d76",
+    "fname": "土豆泥芝士挞",
+    "normprice": 25.0,
+    "realprice": 20.5,
+    "detail": "奶香浓郁土豆泥包裹芝士挞外皮酥脆内里绵软",
+    "fphoto": "http://localhost:9000/res/files/5fdfac4c-89d0-4185-86e4-ada2be5a0d76.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "406d08e1-9659-470d-9695-b8f4d1de9b1e",
+    "fname": "番茄肉酱披萨",
+    "normprice": 47.7,
+    "realprice": 41.5,
+    "detail": "香辣番茄肉酱与酥脆披萨底完美结合诱惑你",
+    "fphoto": "http://localhost:9000/res/files/406d08e1-9659-470d-9695-b8f4d1de9b1e.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "42b01f0b-7c2a-47af-b651-dd9c7623409c",
+    "fname": "抹茶戚风",
+    "normprice": 51.3,
+    "realprice": 38.5,
+    "detail": "抹茶香浓戚风口感细腻层次分明每一口都是惊喜",
+    "fphoto": "http://localhost:9000/res/files/42b01f0b-7c2a-47af-b651-dd9c7623409c.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "a6f757c8-7a50-484a-9c9c-e976a10cb6f5",
+    "fname": "奶油抱抱卷",
+    "normprice": 22.9,
+    "realprice": 18.0,
+    "detail": "香滑奶油包裹坚果巧克力层层缠绵滋味绵长",
+    "fphoto": "http://localhost:9000/res/files/a6f757c8-7a50-484a-9c9c-e976a10cb6f5.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "ae8d86a4-9237-4b6b-a132-79ef71bf2711",
+    "fname": "可可黄油酥粒",
+    "normprice": 41.8,
+    "realprice": 32.5,
+    "detail": "可可黄油酥粒外皮香脆内里丝滑咖啡香浓郁",
+    "fphoto": "http://localhost:9000/res/files/ae8d86a4-9237-4b6b-a132-79ef71bf2711.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "f54f04a5-9322-4769-a117-c9b32a294e15",
+    "fname": "蝶豆花粉枣泥饼",
+    "normprice": 22.4,
+    "realprice": 17.5,
+    "detail": "蝶豆花点缀酥脆枣泥味饼香甜可口",
+    "fphoto": "http://localhost:9000/res/files/f54f04a5-9322-4769-a117-c9b32a294e15.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "8786bb27-4a73-4b0b-9f01-08571eaaa107",
+    "fname": "古早蛋糕",
+    "normprice": 29.1,
+    "realprice": 24.0,
+    "detail": "古早口感松软香甜古法工艺自制蛋糕",
+    "fphoto": "http://localhost:9000/res/files/8786bb27-4a73-4b0b-9f01-08571eaaa107.jpg",
+    "category": "烘焙",
+    "status": 1
+  },
+  {
+    "fid": "c2827443-388c-4f85-8721-810778aab433",
+    "fname": "奶香烤馒头",
+    "normprice": 39.4,
+    "realprice": 31.5,
+    "detail": "金黄酥脆外皮奶香浓郁一口满足",
+    "fphoto": "http://localhost:9000/res/files/c2827443-388c-4f85-8721-810778aab433.jpg",
+    "category": "烘焙",
+    "status": 1
+  }
+]

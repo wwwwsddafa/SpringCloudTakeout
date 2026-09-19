@@ -1,0 +1,34 @@
+server:
+  port: 9099
+
+spring:
+  application:
+    name: search
+  jackson:
+    default-property-inclusion: non_null
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        namespace: public
+        group: DEFAULT_GROUP
+      config:
+        refresh-enabled: true
+        server-addr: localhost:8848
+        namespace: public
+        group: DEFAULT_GROUP
+        file-extension: yml
+        import-check:
+          enabled: false
+  config:
+    import:
+      - optional:nacos:${spring.application.name}-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:rabbitmq-yml?refreshEnabled=true
+      - optional:nacos:elasticsearch.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+
+ollama:
+  base-url: http://localhost:11434
+  embedding-model: bge-m3
+  embedding-dim: 1024

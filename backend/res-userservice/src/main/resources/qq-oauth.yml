@@ -1,0 +1,16 @@
+## ======== 心月互联配置 ========
+#qq:
+#  oauth:
+#    # 心月互联申请的token
+#    token: 698454c131f35bdaaadc4b5b847cda6c
+#    # 心月互联API基础地址
+#    api-base-url: https://qq.wch666.com/api
+#    # 前端地址，QQ登录成功后重定向回前端
+#    frontend-url: http://localhost:5173
+
+# ======== QQ官方配置（已注释，保留用于后续切换） ========
+#qq:
+#  oauth:
+#    app-id: 1905492838
+#    app-secret: NfpmW2KSN4WkkW4O
+#    redirect-uri: http://gad6cb77.natappfree.cc/login

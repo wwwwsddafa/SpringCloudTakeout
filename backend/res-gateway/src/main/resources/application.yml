@@ -1,0 +1,60 @@
+server:
+  port: 20001
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+      base-path: /actuator
+  endpoint:
+    health:
+      show-details: always
+    env:
+      show-values: always
+    gateway:
+      enabled: true
+  prometheus:
+    metrics:
+      export:
+        enabled: true
+
+spring:
+  application:
+    name: gateway
+  jackson:
+    default-property-inclusion: non_null
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        namespace: public
+        group: DEFAULT_GROUP
+      config:
+        refresh-enabled: true
+        server-addr: localhost:8848
+        namespace: public
+        group: DEFAULT_GROUP
+        file-extension: yml
+        import-check:
+          enabled: true
+  config:
+    import:
+      - optional:nacos:${spring.application.name}-routes.yml?refreshEnabled=true
+      - optional:nacos:gateway-auth.yml?refreshEnabled=true
+      - optional:nacos:redis-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+      - optional:nacos:jwt.${spring.cloud.nacos.config.file-extension}?refreshEnabled=true
+
+logging:
+  level:
+    org.springframework.cloud.gateway: DEBUG
+    org.springframework.http.server.reactive: DEBUG
+    org.springframework.web.reactive: DEBUG
+    reactor.netty: DEBUG
+    # Nacos ConfigData 加载（必须用 logging.level 才能在 ConfigData 阶段生效）
+    com.alibaba.cloud.nacos.configdata: DEBUG
+    com.alibaba.cloud.nacos: INFO
+    com.alibaba.nacos: DEBUG
+    org.springframework.boot.context.config: DEBUG

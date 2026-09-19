@@ -1,0 +1,37 @@
+server:
+  port: 8096
+
+spring:
+  application:
+    name: notification
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yml
+        import-check:
+          enabled: false
+  config:
+    import:
+      - optional:nacos:rabbitmq-yml?refreshEnabled=true
+      - optional:nacos:mail-yml?refreshEnabled=true
+#  rabbitmq:
+#    host: localhost
+#    port: 5672
+#    username: guest
+#    password: guest
+#    virtual-host: /
+#  mail:
+#    host: smtp.qq.com
+#    port: 587
+#    username: 3490177620@qq.com
+#    password: iitbcxjadwrzciec
+#    properties:
+#      mail:
+#        smtp:
+#          auth: true
+#          starttls:
+#            enable: true
+#            required: true
