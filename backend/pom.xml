@@ -1,4 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+﻿<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
@@ -10,178 +10,128 @@
   <name>Pro31SpringCloud</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <!-- 子项目 -->
     <module>res-idGenerator</module>
     <module>res-product</module>
     <module>res-common</module>
-      <module>res-fileUpload</module>
-      <module>res-gateway</module>
-      <module>test-predicate</module>
-      <module>test-FactoryPattern</module>
-      <module>test-reactor</module>
-      <module>test-builderPattern</module>
-      <module>test-filterChain</module>
-      <module>test-feign</module>
-      <module>res-userservice</module>
-      <module>res-cart</module>
-      <module>res-order</module>
-      <module>res-notification</module>
-      <module>res-search</module>
-      <module>res-customer-service</module>
-      <module>res-operations</module>
+    <module>res-fileUpload</module>
+    <module>res-gateway</module>
+    <module>res-userservice</module>
+    <module>res-cart</module>
+    <module>res-order</module>
+    <module>res-notification</module>
+    <module>res-search</module>
+    <module>res-customer-service</module>
+    <module>res-operations</module>
   </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
     <maven.compiler.parameters>true</maven.compiler.parameters>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
-    <!-- 定义版本号变量 -->
     <spring-boot-version>3.2.12</spring-boot-version>
-     <spring-cloud-version>2023.0.3</spring-cloud-version>
+    <spring-cloud-version>2023.0.3</spring-cloud-version>
     <spring-cloud-alibaba-version>2023.0.3.2</spring-cloud-alibaba-version>
-   <mysql-version>8.0.33</mysql-version>
-   <springdoc-version>2.6.0</springdoc-version>
-   <elasticsearch-version>7.17.27</elasticsearch-version>
-
-
+    <mysql-version>8.0.33</mysql-version>
+    <springdoc-version>2.6.0</springdoc-version>
+    <elasticsearch-version>7.17.27</elasticsearch-version>
   </properties>
 
-
-        <!-- 依赖管理：在父项目中定义依赖版本号，子项目中引用父项目的依赖版本号，避免重复定义 -->
-<dependencyManagement>
-  <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
-    </dependency>
-
-    <!-- mysql依赖 -->
-    <dependency>
-      <groupId>mysql</groupId>
-      <artifactId>mysql-connector-java</artifactId>
-      <version>${mysql-version}</version>
-    </dependency>
-
-
-  <!-- spring boot 版本依赖包 -->
-  <dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-dependencies</artifactId>
-    <version>${spring-boot-version}</version>
-    <!-- 类型设置pom时，作用是引入spring boot 子项目的版本依赖，这样的话，我的项目所使用与springboot子项目相关的 -->
-    <type>pom</type>
-    <!-- import 表示引入依赖， 作用是引入spring boot 子项目的版本依赖，这样的话，我的项目所使用与springboot子项目 -->
-    <scope>import</scope>
-  </dependency>
-
-  <!-- spring cloud 子项目 版本 依赖 -->
-  <dependency>
-    <groupId>org.springframework.cloud</groupId>
-    <artifactId>spring-cloud-dependencies</artifactId>
-    <version>${spring-cloud-version}</version>
-    <type>pom</type>
-    <scope>import</scope>
-  </dependency>
-
-  <!-- spring cloud alibaba 子项目 版本 依赖 -->
-  <dependency>
-    <groupId>com.alibaba.cloud</groupId>
-    <artifactId>spring-cloud-alibaba-dependencies</artifactId>
-    <version>${spring-cloud-alibaba-version}</version>
-    <type>pom</type>
-    <scope>import</scope>
-  </dependency>
-
-  <!-- Spring Cloud Gateway 版本管理 -->
-  <dependency>
-    <groupId>org.springframework.cloud</groupId>
-    <artifactId>spring-cloud-starter-gateway</artifactId>
-    <version>4.1.5</version>
-  </dependency>
-
-
-    <dependency>
-      <groupId>com.example</groupId>
-      <artifactId>res-common</artifactId>
-      <version>1.0-SNAPSHOT</version>
-    </dependency>
-
-    <!--api文档生成依赖-->
-    <dependency>
-      <groupId>org.springdoc</groupId>
-      <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-      <version>${springdoc-version}</version>
-    </dependency>
-
-
-    <dependency>
-      <groupId>cn.hutool</groupId>
-      <artifactId>hutool-all</artifactId>
-      <version>5.8.21</version>
-    </dependency>
-    <!-- Druid 数据库连接池（Spring Boot 3 专用的 starter） -->
-    <dependency>
-      <groupId>com.alibaba</groupId>
-      <artifactId>druid-spring-boot-3-starter</artifactId>
-      <version>1.2.20</version>
-    </dependency>
-
-    <!-- MyBatis-Plus（Spring Boot 3 专用的 starter） -->
-    <dependency>
-      <groupId>com.baomidou</groupId>
-      <artifactId>mybatis-plus-spring-boot3-starter</artifactId>
-      <version>3.5.5</version>
-    </dependency>
-
-    <!-- 数据库驱动，以 MySQL 为例 -->
-    <dependency>
-      <groupId>com.mysql</groupId>
-      <artifactId>mysql-connector-j</artifactId>
-      <version>8.0.33</version>
-      <scope>runtime</scope>
-    </dependency>
-
-    <!-- Elasticsearch -->
-    <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
-      <version>${spring-boot-version}</version>
-    </dependency>
-
-    <!-- WebSocket -->
-    <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-websocket</artifactId>
-      <version>${spring-boot-version}</version>
-    </dependency>
-
-    <!-- RabbitMQ (已有模块使用，这里统一管理) -->
-    <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-amqp</artifactId>
-      <version>${spring-boot-version}</version>
-    </dependency>
-
-    <!-- Apache POI Excel -->
-    <dependency>
-      <groupId>org.apache.poi</groupId>
-      <artifactId>poi-ooxml</artifactId>
-      <version>5.4.0</version>
-    </dependency>
-
-    <!-- OpenPDF PDF 生成 -->
-    <dependency>
-      <groupId>com.github.librepdf</groupId>
-      <artifactId>openpdf</artifactId>
-      <version>2.0.2</version>
-    </dependency>
-
-  </dependencies>
-</dependencyManagement>
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>3.8.1</version>
+        <scope>test</scope>
+      </dependency>
+      <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>${mysql-version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-dependencies</artifactId>
+        <version>${spring-boot-version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+      <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-dependencies</artifactId>
+        <version>${spring-cloud-version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+      <dependency>
+        <groupId>com.alibaba.cloud</groupId>
+        <artifactId>spring-cloud-alibaba-dependencies</artifactId>
+        <version>${spring-cloud-alibaba-version}</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+      <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-starter-gateway</artifactId>
+        <version>4.1.5</version>
+      </dependency>
+      <dependency>
+        <groupId>com.example</groupId>
+        <artifactId>res-common</artifactId>
+        <version>1.0-SNAPSHOT</version>
+      </dependency>
+      <dependency>
+        <groupId>org.springdoc</groupId>
+        <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+        <version>${springdoc-version}</version>
+      </dependency>
+      <dependency>
+        <groupId>cn.hutool</groupId>
+        <artifactId>hutool-all</artifactId>
+        <version>5.8.21</version>
+      </dependency>
+      <dependency>
+        <groupId>com.alibaba</groupId>
+        <artifactId>druid-spring-boot-3-starter</artifactId>
+        <version>1.2.20</version>
+      </dependency>
+      <dependency>
+        <groupId>com.baomidou</groupId>
+        <artifactId>mybatis-plus-spring-boot3-starter</artifactId>
+        <version>3.5.5</version>
+      </dependency>
+      <dependency>
+        <groupId>com.mysql</groupId>
+        <artifactId>mysql-connector-j</artifactId>
+        <version>8.0.33</version>
+        <scope>runtime</scope>
+      </dependency>
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
+        <version>${spring-boot-version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-websocket</artifactId>
+        <version>${spring-boot-version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-amqp</artifactId>
+        <version>${spring-boot-version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.4.0</version>
+      </dependency>
+      <dependency>
+        <groupId>com.github.librepdf</groupId>
+        <artifactId>openpdf</artifactId>
+        <version>2.0.2</version>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
 </project>

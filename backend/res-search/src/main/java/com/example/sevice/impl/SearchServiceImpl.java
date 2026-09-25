@@ -114,8 +114,21 @@ public class SearchServiceImpl implements SearchService {
         return toPageResult(searchHits);
     }
 
+    /**
+     * 查询侧专用的向量生成包装：Ollama 不可用时返回空列表，让检索链路优雅降级到关键词搜索，
+     * 而不是把 500 抛给前端。写入侧（MQ 消费者）不使用此包装，失败必须显式暴露。
+     */
+    private List<Float> safeEmbedForSearch(String keyword) {
+        try {
+            return embeddingService.embedForSearch(keyword);
+        } catch (Exception e) {
+            log.warn("查询向量生成失败，降级为关键词搜索: keyword={}, reason={}", keyword, e.getMessage());
+            return Collections.emptyList();
+        }
+    }
+
     private PageResult<FoodDocument> semanticSearch(String keyword, String category, int page, int size, String sort) {
-        List<Float> queryVector = embeddingService.embedForSearch(keyword);
+        List<Float> queryVector = safeEmbedForSearch(keyword);
         if (queryVector.isEmpty()) {
             log.warn("语义搜索向量生成失败，降级为关键词搜索");
             return keywordSearch(keyword, category, page, size, sort);
@@ -148,7 +161,7 @@ public class SearchServiceImpl implements SearchService {
     }
 
     private PageResult<FoodDocument> hybridSearch(String keyword, String category, int page, int size, String sort) {
-        List<Float> queryVector = embeddingService.embedForSearch(keyword);
+        List<Float> queryVector = safeEmbedForSearch(keyword);
         if (queryVector.isEmpty()) {
             log.warn("混合搜索向量生成失败，降级为关键词搜索");
             return keywordSearch(keyword, category, page, size, sort);

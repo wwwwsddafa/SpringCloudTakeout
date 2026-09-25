@@ -23,6 +23,7 @@ import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import org.springframework.transaction.support.TransactionTemplate;
 import org.springframework.util.StringUtils;
 
 import java.time.LocalDateTime;
@@ -33,7 +34,6 @@ import java.util.concurrent.TimeUnit;
 
 @Service
 @Slf4j
-@Transactional(readOnly = true)
 public class UserServiceImpl implements UserService {
 
     @Autowired
@@ -60,49 +60,62 @@ public class UserServiceImpl implements UserService {
     @Autowired
     private HttpServletRequest request;
 
+    @Autowired
+    private TransactionTemplate transactionTemplate;
+
     private static final String TOKEN_BLACKLIST_PREFIX = "token:blacklist:";
 
     @Override
-    @Transactional
     public UserVo register(RegisterVo registerVo) {
         if (registerVo == null || !StringUtils.hasText(registerVo.getUsername())
                 || !StringUtils.hasText(registerVo.getPassword())) {
             throw new BizException(ResultCode.PARAM_ERROR);
         }
 
-        Long count = resUserMapper.selectCount(
-                new LambdaQueryWrapper<ResUser>()
-                        .eq(ResUser::getUsername, registerVo.getUsername()));
-        if (count > 0) {
-            throw new BizException(ResultCode.USERNAME_EXISTS);
+        // 事务内只做数据库操作，连接占用时间从几百毫秒降到几毫秒
+        UserVo userVo = transactionTemplate.execute(status -> {
+            Long count = resUserMapper.selectCount(
+                    new LambdaQueryWrapper<ResUser>()
+                            .eq(ResUser::getUsername, registerVo.getUsername()));
+            if (count > 0) {
+                throw new BizException(ResultCode.USERNAME_EXISTS);
+            }
+
+            ResUser user = new ResUser();
+            user.setUserid(UUID.randomUUID().toString().replace("-", ""));
+            user.setUsername(registerVo.getUsername());
+            user.setPwd(passwordEncoder.encode(registerVo.getPassword()));
+            user.setEmail(registerVo.getEmail());
+            user.setCreateTime(LocalDateTime.now());
+
+            resUserMapper.insert(user);
+            log.info("新用户注册成功: {}", user.getUsername());
+
+            return UserVo.builder()
+                    .userId(user.getUserid())
+                    .username(user.getUsername())
+                    .email(user.getEmail())
+                    .role(UserRole.USER.name())
+                    .build();
+        });
+
+        // 事务提交、连接归还后再做远程调用
+        try {
+            opsEventApi.trackUserRegister();
+        } catch (Exception e) {
+            log.warn("埋点调用失败，不影响注册: {}", e.getMessage());
         }
 
-        ResUser user = new ResUser();
-        user.setUserid(UUID.randomUUID().toString().replace("-", ""));
-        user.setUsername(registerVo.getUsername());
-        user.setPwd(passwordEncoder.encode(registerVo.getPassword()));
-        user.setEmail(registerVo.getEmail());
-        user.setCreateTime(LocalDateTime.now());
-
-        resUserMapper.insert(user);
-        log.info("新用户注册成功: {}", user.getUsername());
-
-        opsEventApi.trackUserRegister();
-
-        // 发送注册成功邮件
-        if (StringUtils.hasText(user.getEmail())) {
-            sendEmailMessage(EmailMessage.TYPE_REGISTER, user.getUserid(), user.getEmail(), user.getUsername(), null);
+        if (StringUtils.hasText(registerVo.getEmail())) {
+            sendEmailMessage(EmailMessage.TYPE_REGISTER, userVo.getUserId(),
+                    registerVo.getEmail(), registerVo.getUsername(), null);
         }
 
-        return UserVo.builder()
-                .userId(user.getUserid())
-                .username(user.getUsername())
-                .email(user.getEmail())
-                .role(UserRole.USER.name())
-                .build();
+        return userVo;
     }
 
     @Override
+    @Transactional(readOnly = true)
     public JwtUserInfo login(String username, String password) {
         if (!StringUtils.hasText(username) || !StringUtils.hasText(password)) {
             throw new BizException(ResultCode.PARAM_ERROR);
@@ -214,6 +227,7 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
+    @Transactional(readOnly = true)
     public UserVo getUserInfo(String userId) {
         ResUser user = resUserMapper.selectById(userId);
         if (user == null) {

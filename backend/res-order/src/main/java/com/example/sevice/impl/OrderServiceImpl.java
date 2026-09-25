@@ -26,6 +26,7 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import org.springframework.transaction.support.TransactionTemplate;
 
 import com.baomidou.mybatisplus.core.conditions.update.UpdateWrapper;
 
@@ -75,18 +76,21 @@ public class OrderServiceImpl implements OrderService {
     private OpsEventApi opsEventApi;
 
     @Autowired
+    private TransactionTemplate transactionTemplate;
+
+    @Autowired
     private HttpServletRequest request;
 
     private static final DateTimeFormatter FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 
-    @Transactional
     @Override
     public OrderVo createOrder(String userId, CreateOrderVo createOrderVo) {
         if (!redisLockService.tryLock(userId)) {
             throw new BizException(ResultCode.ORDER_DUPLICATE);
         }
         try {
-            return doCreateOrder(userId, createOrderVo);
+            return transactionTemplate.execute(status ->
+                    doCreateOrder(userId, createOrderVo));
         } finally {
             redisLockService.unlock(userId);
         }

@@ -5,6 +5,27 @@
     <property name="CONSOLE_LOG_PATTERN"
               value="%d{HH:mm:ss.SSS} %highlight(%-5level) [%thread] %cyan(%logger{36}) - %msg%n"/>
 
+    <!--
+      ============================================================================
+      性能关键配置：网关日志级别已从 TRACE/DEBUG 下调到 WARN
+      ============================================================================
+      背景：压测实测「经网关」吞吐仅为「直连后端」的 48%（325 QPS vs 672 QPS），
+            且网关并发 40 即回落。根因是网关为每个请求产生大量【同步】日志：
+
+              org.springframework.cloud.gateway       = TRACE  → 路由匹配/断言/过滤器全过程
+              reactor.netty.http.server               = DEBUG  → 每个 HTTP 请求报文
+              reactor.netty.http.client               = DEBUG  → 每个下游响应报文
+              org.springframework.cloud.loadbalancer  = DEBUG  → 每次服务实例选择
+
+            网关是所有请求的必经入口，单请求被放大成数十行日志；
+            而 ConsoleAppender 的同步写锁会成为全局串行化点 ——
+            Netty 事件循环线程被日志 I/O 阻塞，异步优势完全丧失。
+
+      排查阶段如需重新打开：把下面 logger 改回 TRACE/DEBUG 即可，
+      但【压测/生产必须保持 WARN】。
+      ============================================================================
+    -->
+
     <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
             <pattern>${CONSOLE_LOG_PATTERN}</pattern>
@@ -12,35 +33,23 @@
         </encoder>
     </appender>
 
-    <!-- ============================================ -->
-    <!--  官方 Gateway 日志：看路由匹配全过程          -->
-    <!-- ============================================ -->
-    <!-- 路由匹配、断言评估、过滤器执行 -->
-    <logger name="org.springframework.cloud.gateway" level="TRACE"/>
-    <!-- 路由定位器（刷新路由时触发） -->
-    <logger name="org.springframework.cloud.gateway.route.RouteDefinitionRouteLocator" level="INFO"/>
-    <!-- 负载均衡 -->
-    <logger name="org.springframework.cloud.loadbalancer" level="DEBUG"/>
+    <!-- 网关核心链路：排查时改 TRACE，压测时保持 WARN -->
+    <logger name="org.springframework.cloud.gateway" level="WARN"/>
+    <logger name="org.springframework.cloud.gateway.route.RouteDefinitionRouteLocator" level="WARN"/>
+    <logger name="org.springframework.cloud.loadbalancer" level="WARN"/>
 
-    <!-- ============================================ -->
-    <!--  Reactor Netty 底层请求/响应日志（wiretap）   -->
-    <!-- ============================================ -->
-    <logger name="reactor.netty.http.server" level="DEBUG"/>
-    <logger name="reactor.netty.http.client" level="DEBUG"/>
+    <!-- Reactor Netty 报文级日志：最大的日志放大器，压测必须关 -->
+    <logger name="reactor.netty.http.server" level="WARN"/>
+    <logger name="reactor.netty.http.client" level="WARN"/>
+    <logger name="reactor.netty" level="WARN"/>
 
-    <!-- ============================================ -->
-    <!--  Nacos 配置中心加载日志                       -->
-    <!-- ============================================ -->
-    <!-- Nacos ConfigData 加载器（核心） -->
-    <logger name="com.alibaba.cloud.nacos.configdata" level="DEBUG"/>
-    <!-- Nacos 配置客户端 -->
-    <logger name="com.alibaba.cloud.nacos" level="INFO"/>
-    <!-- Spring Boot 配置加载框架 -->
-    <logger name="org.springframework.boot.context.config" level="DEBUG"/>
-    <!-- Spring Cloud Config -->
-    <logger name="org.springframework.cloud.config" level="DEBUG"/>
+    <!-- Nacos 配置加载：启动期有用，运行期无用 -->
+    <logger name="com.alibaba.cloud.nacos.configdata" level="WARN"/>
+    <logger name="com.alibaba.cloud.nacos" level="WARN"/>
+    <logger name="org.springframework.boot.context.config" level="WARN"/>
+    <logger name="org.springframework.cloud.config" level="WARN"/>
 
-    <root level="INFO">
+    <root level="WARN">
         <appender-ref ref="CONSOLE"/>
     </root>
 
